@@ -28,9 +28,20 @@ columns:
   - width: 2/3
     # This columns only has a single field
     fields:
+      excerpt_text:
+        type: textarea
+        label: Excerpt
+        size: small
+        buttons: false
       text:
         type: textarea
         size: large
+      mymap:
+        label: Location
+        type: locator
+        center:
+          lat: 39.9607
+          lon: -75.6055
 
   - width: 1/3
     # This second column holds a fields section with multiple fields
@@ -58,4 +69,8 @@ columns:
             image:
               cover: true
             # Use the `help` property of fields and section to provide editors with helpful information
-            help: Place the {{ gallery }} tag anywhere in your text to add the selected gallery
+            help: Use the (( gallery )) bracket tag to add the selected gallery
+          files:
+            type: files
+            layout: cards
+            help: Place the (( files/filename )) bracket tag to add file
