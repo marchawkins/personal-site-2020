@@ -39,12 +39,13 @@ columns:
       meta:
         type: fields
         fields:
+          menu_text:
+            type: text
+            label: Menu Title
           date:
             type: date
             time: true
             default: now
-          author:
-            type: users
           # Fields types can be added using the shortcut `fieldname: true`
           # (however, you can only use a fieldname once per page and this only makes sense for simple fields without configuration)
           tags: true
