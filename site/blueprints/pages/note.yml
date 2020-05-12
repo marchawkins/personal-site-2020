@@ -26,7 +26,7 @@ status:
 # More about columns: https://getkirby.com/docs/guide/blueprints/layout#defining-columns
 columns:
   - width: 2/3
-    # This columns only has a single field
+    # This columns has three fields
     fields:
       excerpt_text:
         type: textarea
@@ -60,6 +60,13 @@ columns:
           # Fields types can be added using the shortcut `fieldname: true`
           # (however, you can only use a fieldname once per page and this only makes sense for simple fields without configuration)
           tags: true
+          feature_image:
+            type: files
+            label: Feature Image
+            max: 1
+            multiple: false
+            layout: cards
+            help: Square images work best
           gallery:
             type: pages
             query: kirby.page("photography").children
@@ -70,7 +77,3 @@ columns:
               cover: true
             # Use the `help` property of fields and section to provide editors with helpful information
             help: Use the (( gallery )) bracket tag to add the selected gallery
-          files:
-            type: files
-            layout: cards
-            help: Place the (( files/filename )) bracket tag to add file

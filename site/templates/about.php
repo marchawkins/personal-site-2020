@@ -18,24 +18,11 @@
   <div class="layout">
 
     <aside>
-      <section>
-        <h2>Address</h2>
-        <div class="text">
-          <?= $page->address()->kt() ?>
-        </div>
-      </section>
 
       <section>
         <h2>Email</h2>
         <div class="text">
           <?= html::email($page->email()) ?>
-        </div>
-      </section>
-
-      <section>
-        <h2>Phone</h2>
-        <div class="text">
-          <?= html::tel($page->phone()) ?>
         </div>
       </section>
 
