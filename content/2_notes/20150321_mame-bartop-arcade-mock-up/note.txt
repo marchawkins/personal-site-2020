@@ -1,0 +1,49 @@
+Title: MAME Bartop Arcade Mock-up
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+(image: mame-arcade-prototype.jpg)
+
+Creating a prototype (link: https://www.mamedev.org text: MAME) arcade joystick and buttons for an eventual bartop arcade machine. Thanks for the box, (link: https://www.lootcrate.com text: Loot Crate).
+
+{{ gallery }}
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: Chester Springs
+country: United States of America
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-03-21 15:30
+
+----
+
+Tags: mame, arcade, project
+
+----
+
+Feature-image:
+
+- mame-arcade-prototype.jpg
+
+----
+
+Gallery:
+
+- photography/mame-bartop-arcade-mock-up

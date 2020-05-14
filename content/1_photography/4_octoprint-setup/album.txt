@@ -1,0 +1,17 @@
+Title: Octoprint Setup
+
+----
+
+Cover: 
+
+----
+
+Headline: 
+
+----
+
+Description: Setting up Octoprint on a Raspberry Pi and a Printrbot
+
+----
+
+Tags: raspberry pi, 3d, printrbot

@@ -1,0 +1,17 @@
+Title: Mame Bartop Arcade Mock-up
+
+----
+
+Cover: 
+
+----
+
+Headline: 
+
+----
+
+Description: Building a cardboard prototype of a joystick for an eventual MAME arcade machine.
+
+----
+
+Tags: mame, project, arcade
