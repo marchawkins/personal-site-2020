@@ -12,7 +12,7 @@ Using a light sensor and an Arduino to control the blink rate of an LED.
 
 (video: https://www.youtube.com/watch?v=2c0CMv7y0VQ)
 
-(gist: https://gist.github.com/marchawkins/b318d9fd9d16a9ad36d8)
+(gist: https://gist.github.com/marchawkins/dd94547c84c9aa96f439)
 
 ----
 
