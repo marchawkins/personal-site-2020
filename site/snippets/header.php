@@ -24,7 +24,7 @@
 </head>
 <body class="bg-gray-100">
   <div class="p-8">
-    <img class="h-10" src="assets/img/marc-hawkins-logo.png" alt="the website of marc hawkins"/>
+    <img src="assets/img/marc-hawkins-logo.svg" alt="the website of marc hawkins"/>
   </div>
 
   <div class="page">

@@ -4,7 +4,8 @@
   "description": "My personal website",
   "main": "index.js",
   "scripts": {
-    "build": "postcss assets/css/tailwind.css -o assets/css/public.css"
+    "build": "postcss assets/css/tailwind.css -o assets/css/public.css",
+    "watch": "watch 'npm run build' assets"
   },
   "repository": {
     "type": "git",
@@ -18,8 +19,12 @@
   },
   "homepage": "https://github.com/marchawkins/personal-site-2020#readme",
   "dependencies": {
+    "@fullhuman/postcss-purgecss": "^2.2.0",
     "autoprefixer": "^9.8.0",
+    "cssnano": "^4.1.10",
+    "dotenv": "^8.2.0",
     "postcss-cli": "^7.1.1",
-    "tailwindcss": "^1.4.6"
+    "tailwindcss": "^1.4.6",
+    "watch": "^1.0.2"
   }
 }
