@@ -26,7 +26,7 @@
   <header class="bg-gray-900">
     <div class="flex items-center justify-between px-4 py-3">
         <div>
-          <img src="/assets/img/marc-hawkins-logo-dark.svg" alt="the website of marc hawkins" class="h-8"/>
+          <img src="/assets/img/marc-hawkins-logo-light.svg" alt="the website of marc hawkins" class="h-8"/>
         </div>
 
         <div>
