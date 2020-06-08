@@ -9,7 +9,7 @@ module.exports = {
           preset: 'default'
         }),
         purgecss({
-            content: ['./site/snippets/**/*.html', './site/snippets/**/*.php', './site/themes/**/*.html','./site/themes/**/*.php'],
+            content: ['site/snippets/**/*.html', 'site/snippets/**/*.php', 'site/themes/**/*.html','site/themes/**/*.php'],
             defaultExtractor: content => content.match(/[\w-/:]+(?<!:)/g) || []
         })
     ]

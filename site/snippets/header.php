@@ -22,16 +22,53 @@
   <?= css(['assets/css/public.css', '@auto']) ?>
 
 </head>
-<body class="bg-gray-100">
-  <div class="p-8">
-    <img src="assets/img/marc-hawkins-logo.svg" alt="the website of marc hawkins"/>
-  </div>
+<body class="">
+  <header class="bg-gray-900">
+    <div class="flex items-center justify-between px-4 py-3">
+        <div>
+          <img src="/assets/img/marc-hawkins-logo-dark.svg" alt="the website of marc hawkins" class="h-8"/>
+        </div>
 
-  <div class="page">
-    <header class="header">
-      <!-- In this link we call `$site->url()` to create a link back to the homepage -->
+        <div>
+          <button type="button" class="block text-gray-400 hover:text-white focus:text-white focus:outline-none" onclick="navToggle()">
+            <svg class="h-6 w-6 fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="w-8 mr-4 icon-menu">
+              <path id="nav_menu_icon" class="secondary" fill-rule="evenodd" d="M4 5h16a1 1 0 0 1 0 2H4a1 1 0 1 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2z"/>
+            </svg>
+          </button>
+        </div>
+    </div>
+
+    <div class="hidden px-2 pt-2 pb-4" id="nav_menu">
+      <a class="block px-2 py-1 text-white font-semibold rounded hover:bg-gray-800" href="#notes">Notes</a>
+      <a class="mt-1 block px-2 text-white font-semibold rounded hover:bg-gray-800" href="#about">About</a>
+      <a class="mt-1 block px-2 text-white font-semibold rounded hover:bg-gray-800" href="#vinyl">Vinyl</a>
+    </div>
+  </header>
+
+  <script>
+    var isOpen = false;
+    var navMenu = document.getElementById('nav_menu');
+    var navMenuIcon = document.getElementById('nav_menu_icon');
+    var xIcon = "M15.78 14.36a1 1 0 0 1-1.42 1.42l-2.82-2.83-2.83 2.83a1 1 0 1 1-1.42-1.42l2.83-2.82L7.3 8.7a1 1 0 0 1 1.42-1.42l2.83 2.83 2.82-2.83a1 1 0 0 1 1.42 1.42l-2.83 2.83 2.83 2.82z";
+    var hamburgerIcon = "M4 5h16a1 1 0 0 1 0 2H4a1 1 0 1 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2z";
+
+    function navToggle() {
+      if(!isOpen) {
+        navMenu.classList.remove('hidden');
+        navMenu.classList.add('block');
+        navMenuIcon.setAttribute('d',xIcon);
+        isOpen = true;
+      } else {
+        navMenu.classList.remove('block');
+        navMenu.classList.add('hidden');
+        navMenuIcon.setAttribute('d',hamburgerIcon);
+        isOpen = false;
+      }
+    }
+  </script>
+
+<?php /*
       <a class="logo" href="<?= $site->url() ?>"><?= $site->title() ?></a>
-
       <nav id="menu" class="menu">
         <?php 
         // In the menu, we only fetch listed pages, i.e. the pages that have a prepended number in their foldername
@@ -41,5 +78,13 @@
         <?= $item->title()->link() ?>
         <?php endforeach ?>
       </nav>
-    </header>
+   
+
+  <div class="p-8">
+    
+  </div>
+*/ ?>
+
+  <div class="page">
+   
 
