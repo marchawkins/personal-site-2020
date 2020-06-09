@@ -3,6 +3,9 @@ module.exports = {
   theme: {
     extend: {},
   },
-  variants: {},
+  variants: {
+    margin: ['first','last'],
+    padding: ['first','last'],
+  },
   plugins: [],
 }
