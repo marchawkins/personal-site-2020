@@ -1,4 +1,11 @@
-<?php /* global navigation include */ ?>
+<?php
+/**
+ * Snippets are a great way to store code snippets for reuse or to keep your templates clean.
+ * This header snippet is reused in all templates. 
+ * It fetches information from the `site.txt` content file and contains the site navigation.
+ * More about snippets: https://getkirby.com/docs/guide/templates/snippets
+ */
+?>
 
 <?php
   // setup global user object, if it exists
@@ -22,37 +29,46 @@
   <?= css(['assets/css/public.css', '@auto']) ?>
 
 </head>
-<body class="">
-  <header class="bg-black sm:bg-white sm:px-4 sm:py-3">
-    <div class="flex sm:items-center justify-between sm:justify-center p-4 sm:bg-black">
-        <div class="sm:flex sm:items-center">
-          <a href="<?php echo $site->url(); ?>" title="<?php echo $site->title() ?>">
-            <img src="/assets/img/marc-hawkins-logo-light.svg" alt="<?php echo $site->title() ?>" class="h-8 sm:h-16"/>
-          </a>
+<body class="bg-white">
+  <header class="max-w-md mx-auto my-2 sm:my-4 border-black border-b-4">
+    <div id="logo" class="flex sm:justify-center">
+      <a class="block mx-4 sm:mx-auto my-4" href="<?php echo $site->url(); ?>" title="<?php echo $site->title() ?>"><img src="/assets/img/marc-hawkins-logo-dark.svg" alt="<?php echo $site->title() ?>" class="h-12"/></a>
+    </div><!-- #logo -->
+    
+      <ul class="flex">
+      <?php foreach ($site->children()->listed() as $item): ?>
+        <li class="flex-1 mr-2">
+          <a class="text-center block rounded py-2 px-4 font-bold uppercase text-gray-900 hover:text-gray-600" href="<?php echo $item->url() ?>" title="<?php echo $item->title() ?>"><?php echo $item->title() ?></a>
+        </li>
+        <?php endforeach ?>
+      </ul>
+  
+  
+  
+  
+  
+  
+    <!--
+      <div class="flex items-center justify-between px-4 py-3 sm:p-0">
+        <div>
+          <a href="<?php echo $site->url(); ?>" title="<?php echo $site->title() ?>"><img src="/assets/img/marc-hawkins-logo-light.svg" alt="<?php echo $site->title() ?>" class="h-8"/></a>
         </div>
 
         <div class="sm:hidden">
           <button type="button" class="block text-gray-400 hover:text-white focus:text-white focus:outline-none" onclick="navToggle()">
-            <svg class="h-6 w-8 fill-current icon-menu" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-              <path id="nav_menu_icon" fill-rule="evenodd" d="M4 5h16a1 1 0 0 1 0 2H4a1 1 0 1 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2z"/>
+            <svg class="h-6 w-8 fill-current mr-4 icon-menu" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+              <path id="nav_menu_icon" class="secondary" fill-rule="evenodd" d="M4 5h16a1 1 0 0 1 0 2H4a1 1 0 1 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2z"/>
             </svg>
           </button>
         </div>
     </div>
 
-    <div classs="">
-      <p class="text-center text-lg sm:text-2xl font-hand text-gray-400 sm:text-black">Demented and sad, but social.</p>
-    </div>
-
-    <div class="hidden px-2 pt-2 pb-4 sm:flex sm:items-center sm:justify-center sm:mx-4" id="nav_menu">
+    <div class="hidden px-2 pt-2 pb-4 sm:flex" id="nav_menu">
       <?php foreach ($site->children()->listed() as $item): ?>
-        <a class="block mt-1 px-2 py-2 text-white font-title uppercase rounded hover:bg-gray-800 sm:py-0 sm:text-gray-900 sm:text-xl sm:hover:bg-transparent sm:hover:text-gray-500" href="<?php echo $item->url() ?>" title="<?php echo $item->title() ?>"><?php echo $item->title() ?></a>
+        <a class="block mt-1 first:mt-0 px-2 first:py-1 text-white font-semibold rounded hover:bg-gray-800 sm:py-0 sm:ml-2" href="<?php echo $item->url() ?>" title="<?php echo $item->title() ?>"><?php echo $item->title() ?></a>
       <?php endforeach ?>
-      <?php if($user && $user->isAdmin()): ?>
-        <a class="block mt-1 px-2 py-2 text-white font-title uppercase rounded hover:bg-gray-800 sm:py-0 sm:text-gray-900 sm:text-xl sm:hover:bg-transparent sm:hover:text-gray-500" href="/panel" title="Admin Panel">Admin Panel</a>
-      <?php endif ?>
 
-      <!-- 
+      
       <div class="relative text-lg bg-transparent text-white">
         <div class="flex items-center border-b border-b-2 border-white py-2">
           <input class="bg-transparent border-none mr-3 px-2 leading-tight focus:outline-none text-white" type="text" placeholder="Search">
@@ -63,10 +79,18 @@
           </button>
         </div>
       </div>
-      -->
 
-      
+      <?php if($user && $user->isAdmin()): ?>
+        <a class="block mt-1 px-2 text-white font-semibold rounded hover:bg-gray-800 sm:mt-0 sm:ml-2" href="/panel" title="Admin Panel">
+        <?php if($avatar = $user->avatar()): ?>
+          <img src="<?= $avatar->url() ?>" alt="user avatar" class="h-6"/>
+        <?php else: ?>
+          Admin
+        <?php endif ?>
+        </a>
+      <?php endif ?>
     </div>
+        -->
   </header>
 
   <script>

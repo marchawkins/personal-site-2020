@@ -1,7 +1,12 @@
 module.exports = {
   purge: [],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'title': ['NeilvardOne','Arial'],
+        'hand': ['PermanentMarker-Regular','Arial'],
+      }
+    },
   },
   variants: {
     margin: ['first','last'],
