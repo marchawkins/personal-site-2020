@@ -49,7 +49,7 @@
         <a class="block mt-1 px-2 py-2 text-white font-title uppercase rounded hover:bg-gray-800 sm:py-0 sm:text-gray-900 sm:text-xl sm:hover:bg-transparent sm:hover:text-gray-500" href="<?php echo $item->url() ?>" title="<?php echo $item->title() ?>"><?php echo $item->title() ?></a>
       <?php endforeach ?>
       <?php if($user && $user->isAdmin()): ?>
-        <a class="block mt-1 px-2 py-2 text-white font-title uppercase rounded hover:bg-gray-800 sm:py-0 sm:text-gray-900 sm:text-xl sm:hover:bg-transparent sm:hover:text-gray-500" href="/panel" title="Admin Panel">Admin Panel</a>
+        <a class="block mt-1 px-2 py-2 text-white font-title uppercase rounded hover:bg-gray-800 sm:py-0 sm:text-gray-900 sm:text-xl sm:hover:bg-transparent sm:hover:text-gray-500" href="/panel" title="Admin Panel">Admin</a>
       <?php endif ?>
 
       <!-- 

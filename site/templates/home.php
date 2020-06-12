@@ -13,24 +13,19 @@
 <?php snippet('header') ?>
 
 <main>
-  <?php snippet('intro') ?>
-
 
   <?php 
   // we always use an if-statement to check if a page exists to prevent errors 
   // in case the page was deleted or renamed before we call a method like `children()` in this case
   if ($notes = page('notes')): ?>
   <ul class="grid">
-    <?php foreach ($notes->children()->listed() as $note): ?>
+    <?php foreach ($notes->children()->listed()->flip()->limit(5) as $note): ?>
     <li>
       <a href="<?= $note->url() ?>">
         <figure>
-          <?php 
+          <?phpî
           // the `cover()` method defined in the `album.php` page model can be used 
           // everywhere across the site for this type of page
-          if ($cover = $note->cover()): ?>
-          <?= $cover->resize(1024, 1024) ?>
-          <?php endif ?>
           <figcaption>
             <span>
               <span class="example-name"><?= $note->title() ?></span>
