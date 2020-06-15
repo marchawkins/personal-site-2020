@@ -18,26 +18,33 @@
   // we always use an if-statement to check if a page exists to prevent errors 
   // in case the page was deleted or renamed before we call a method like `children()` in this case
   if ($notes = page('notes')): ?>
-  <ul class="grid">
+  <h1 class="">Notes</h1>
+  <div class="container note_list">
     <?php foreach ($notes->children()->listed()->flip()->limit(5) as $note): ?>
-    <li>
-      <a href="<?= $note->url() ?>">
-        <figure>
-          <?phpî
-          // the `cover()` method defined in the `album.php` page model can be used 
-          // everywhere across the site for this type of page
-          <figcaption>
-            <span>
-              <span class="example-name"><?= $note->title() ?></span>
-            </span>
-          </figcaption>
-        </figure>
-      </a>
-    </li>
+    <div class="note border-b p-2 m-2">
+    
+        <h3 class="text-2xl">_<?php echo $note->date()->toDate('Ymd') ?></h3>
+        <h4><?php echo $note->date()->toDate('l, M jS') ?></h4>
+        <h2 class="text-title"><a class="" href="<?= $note->url() ?>" title="Continue reading"><?php echo $note->title() ?></a></h2>
+        <?php if($loc = $note->mymap()->yaml()): ?>
+          <p class="text-sm"><?php echo($loc['city']) ?></p>
+        <?php endif ?>
+    
+      <?php /* <a class="block" href="<?= $note->url() ?>" title="Continue reading">
+        <span class="block text-xl font-title">_<?php echo $note->date()->toDate('Ymd') ?></span>
+        <span class="block text-sm">
+          <span class="text-xs"><?php echo $note->date()->toDate('l, M jS') ?></span>
+          <h2 class=""><?php echo $note->title() ?></h2>
+          <?php if($loc = $note->mymap()->yaml()): ?>
+            <span class=""><?php echo($loc['city']) ?></span>
+          <?php endif ?>
+        </span>
+      </a> */ ?>
+      </div><!-- .note -->
     <?php endforeach ?>
-  </ul>
+  </div><!-- .container.note_list -->
   <?php endif ?>
-
+  
 </main>
 
 <?php snippet('footer') ?>

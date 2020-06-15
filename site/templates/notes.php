@@ -25,6 +25,19 @@
           <time><?= $note->date()->toDate('d F Y') ?></time>
         </a>
       </header>
+      <!-- <figure>
+      <?php
+          // the `cover()` method defined in the `album.php` page model can be used 
+          // everywhere across the site for this type of page ?>
+          <figcaption>
+            <span>
+              <span class="example-name"><?php echo $note->title() ?>: <?php echo $note->date()->toDate('Ymd') ?></span>
+              <?php if($image = $note->image()): ?>
+              <img src="<?= $image->url() ?>" alt="<?php echo $note->title() ?>"/>
+              <?php endif ?>
+            </span>
+          </figcaption>
+        </figure> -->
     </article>
     <?php endforeach ?>
   </div>
