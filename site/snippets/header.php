@@ -23,7 +23,7 @@
 
 </head>
 <body class="">
-  <header class="bg-black sm:bg-white sm:px-4 sm:py-3">
+  <header class="bg-black sm:bg-white">
     <div class="flex sm:items-center justify-between sm:justify-center p-4 sm:bg-black">
         <div class="sm:flex sm:items-center">
           <a href="<?php echo $site->url(); ?>" title="<?php echo $site->title() ?>">

@@ -18,29 +18,21 @@
   // we always use an if-statement to check if a page exists to prevent errors 
   // in case the page was deleted or renamed before we call a method like `children()` in this case
   if ($notes = page('notes')): ?>
-  <h1 class="">Notes</h1>
-  <div class="container note_list">
-    <?php foreach ($notes->children()->listed()->flip()->limit(5) as $note): ?>
-    <div class="note border-b p-2 m-2">
-    
-        <h3 class="text-2xl">_<?php echo $note->date()->toDate('Ymd') ?></h3>
-        <h4><?php echo $note->date()->toDate('l, M jS') ?></h4>
-        <h2 class="text-title"><a class="" href="<?= $note->url() ?>" title="Continue reading"><?php echo $note->title() ?></a></h2>
-        <?php if($loc = $note->mymap()->yaml()): ?>
-          <p class="text-sm"><?php echo($loc['city']) ?></p>
-        <?php endif ?>
-    
-      <?php /* <a class="block" href="<?= $note->url() ?>" title="Continue reading">
-        <span class="block text-xl font-title">_<?php echo $note->date()->toDate('Ymd') ?></span>
-        <span class="block text-sm">
-          <span class="text-xs"><?php echo $note->date()->toDate('l, M jS') ?></span>
-          <h2 class=""><?php echo $note->title() ?></h2>
+  <h1 class="sr-only">Notes</h1>
+  <div class="container note_list mx-auto">
+    <?php foreach ($notes->children()->listed()->flip()->limit(10) as $note): ?>
+    <div class="note p-2 m-2 even:bg-gray-200">
+      <a class="block sm:flex" href="<?= $note->url() ?>" title="Read: <?php echo $note->title() ?>">
+        <span class="block text-5xl font-mono tracking-tighter text-gray-900 sm:inline-block"><?php echo $note->date()->toDate('Y') ?>_<?php echo $note->date()->toDate('m') ?>.<?php echo $note->date()->toDate('d') ?></span>
+        <span class="block text-sm leading-tight sm:inline-block sm:mt-2 sm:ml-4">
+          <span class="block text-xs uppercase text-gray-500"><?php echo $note->date()->toDate('l, M jS') ?></span>
+          <h2 class="text-2xl font-medium leading-tight text-gray-900"><?php echo $note->title() ?></h2>
           <?php if($loc = $note->mymap()->yaml()): ?>
-            <span class=""><?php echo($loc['city']) ?></span>
+            <span class="hidden sm:block text-xs text-gray-700"><?php echo($loc['city']) ?></span>
           <?php endif ?>
         </span>
-      </a> */ ?>
-      </div><!-- .note -->
+      </a>
+    </div><!-- .note -->
     <?php endforeach ?>
   </div><!-- .container.note_list -->
   <?php endif ?>

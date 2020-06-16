@@ -24,6 +24,7 @@
     "cssnano": "^4.1.10",
     "dotenv": "^8.2.0",
     "postcss-cli": "^7.1.1",
+    "postcss-import": "^12.0.1",
     "tailwindcss": "^1.4.6",
     "watch": "^1.0.2"
   }
