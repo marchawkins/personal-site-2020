@@ -8,11 +8,11 @@
  */
 ?>
 
-  </div>
+  <footer class="footer bg-black text-gray-600">
+    <div class="container mx-auto p-6 text-center text-sm">
+    <p>&copy; 1976 - <?= date('Y') ?> marc hawkins</p>
 
-  <footer class="footer">
-    <a href="<?= url() ?>">&copy; <?= date('Y') ?> / <?= $site->title() ?></a>
-
+  <?php /*
     <?php if ($about = page('about')): ?>
     <nav class="social">
       <?php foreach ($about->social()->toStructure() as $social): ?>
@@ -20,6 +20,9 @@
       <?php endforeach ?>
     </nav>
     <?php endif ?>
+  */ ?>
+
+    </div><!-- .container -->
   </footer>
 
 </body>

@@ -41,7 +41,7 @@
     </div>
 
     <div classs="">
-      <p class="text-center text-lg sm:text-2xl font-hand text-gray-400 sm:text-black">Demented and sad, but social.</p>
+      <p class="text-center text-lg pb-2 sm:text-2xl font-hand text-white sm:text-black">Demented and sad, but social.</p>
     </div>
 
     <div class="hidden px-2 pt-2 pb-4 sm:flex sm:items-center sm:justify-center sm:mx-4" id="nav_menu">
