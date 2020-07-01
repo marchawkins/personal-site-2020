@@ -46,10 +46,10 @@
 
     <div class="hidden px-2 pt-2 pb-4 sm:flex sm:items-center sm:justify-center sm:mx-4" id="nav_menu">
       <?php foreach ($site->children()->listed() as $item): ?>
-        <a class="block mt-1 px-2 py-2 text-white font-title uppercase rounded hover:bg-gray-800 sm:py-0 sm:text-gray-900 sm:text-xl sm:hover:bg-transparent sm:hover:text-gray-500" href="<?php echo $item->url() ?>" title="<?php echo $item->title() ?>"><?php echo $item->title() ?></a>
+        <a class="block mt-1 px-2 py-2 text-white font-title uppercase rounded hover:bg-gray-800 sm:py-0 sm:text-gray-600 sm:text-xl sm:hover:bg-transparent sm:hover:text-gray-900" href="<?php echo $item->url() ?>" title="<?php echo $item->title() ?>"><?php echo $item->title() ?></a>
       <?php endforeach ?>
       <?php if($user && $user->isAdmin()): ?>
-        <a class="block mt-1 px-2 py-2 text-white font-title uppercase rounded hover:bg-gray-800 sm:py-0 sm:text-gray-900 sm:text-xl sm:hover:bg-transparent sm:hover:text-gray-500" href="/panel" title="Admin Panel">Admin</a>
+        <a class="block mt-1 px-2 py-2 text-white font-title uppercase rounded hover:bg-gray-800 sm:py-0 sm:text-gray-600 sm:text-xl sm:hover:bg-transparent sm:hover:text-gray-900" href="/panel" title="Admin Panel">Admin</a>
       <?php endif ?>
 
       <!-- 
