@@ -13,8 +13,15 @@
 <?php snippet('header') ?>
 
 <main>
+
   <article class="note">
     <header class="note-header intro">
+    <?php if($image = $page->feature_image()->toFile()): ?>
+      <div class="feature-image">
+        <img src="<?php echo $image->url() ?>" class="object-contain" alt="<?php echo $page->title() ?>" />
+      </div><!-- .feature-image -->
+    <?php endif ?>
+
       <h1><?= $page->title() ?></h1>
       <time class="note-date"><?= $page->date()->toDate('d F Y') ?></time>
       <?php if ($page->tags()->isNotEmpty()) : ?>
@@ -25,6 +32,7 @@
     <div class="note-text text">
       <?= $page->text()->kt() ?>
     </div>
+
   </article>
 </main>
 
