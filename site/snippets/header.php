@@ -40,9 +40,9 @@
         </div>
     </div>
 
-    <div classs="">
+    <?php if($page->isHomePage()): ?>
       <p class="text-center text-lg pb-2 sm:text-2xl font-hand text-white sm:text-black">Demented and sad, but social.</p>
-    </div>
+    <?php endif ?>
 
     <div class="hidden px-2 pt-2 pb-4 sm:flex sm:items-center sm:justify-center sm:mx-4" id="nav_menu">
       <?php foreach ($site->children()->listed() as $item): ?>
