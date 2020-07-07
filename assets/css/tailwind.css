@@ -34,6 +34,14 @@
 
 @tailwind components;
 
+.note-content a  {
+  @apply text-red-700 underline;
+}
+
+.note-content figure  {
+  @apply mt-2 mb-4 mx-auto text-center;
+}
+
 
 @tailwind utilities;
 

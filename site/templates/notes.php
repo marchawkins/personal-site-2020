@@ -20,6 +20,11 @@
       <div class="note p-2 m-2 even:bg-gray-200">
       <a class="block sm:flex" href="<?= $note->url() ?>" title="Read: <?php echo $note->title() ?>">
         <span class="block text-5xl font-mono tracking-tighter text-gray-900 sm:inline-block"><?php echo $note->date()->toDate('Y') ?>_<?php echo $note->date()->toDate('m') ?>.<?php echo $note->date()->toDate('d') ?></span>
+        <?php /* if($feature_image = $note->feature_image()->toFile()): ?>
+          <span class="hidden sm:block">
+                <img src="<?php echo $feature_image->url() ?>" alt="<?php echo $note->title() ?>" class="object-scale-down">
+            </span>
+          <?php endif */ ?>
         <span class="block text-sm leading-tight sm:inline-block sm:mt-2 sm:ml-4">
           <span class="block text-xs uppercase text-gray-500"><?php echo $note->date()->toDate('l, M jS') ?></span>
           <h2 class="text-2xl font-medium leading-tight text-gray-900"><?php echo $note->title() ?></h2>
