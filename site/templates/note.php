@@ -50,7 +50,7 @@
                         Posted on <time class="note-date"><?= $page->date()->toDate('l, F jS, Y') ?></time>
                     </h4>
                     <div class="user-logo">
-                      <?php if($avatar = $user->avatar()): ?>
+                      <?php if($avatar = $kirby->user('marchawkins@gmail.com')->avatar()): ?>
                         <a href="/about" title="About the author"><img class="w-10 h-10 object-cover rounded-full mx-4  shadow" src="<?= $avatar->url() ?>" alt="Marc" class="h-6"/></a>
                       <?php endif ?>
                     </div><!-- .user-logo -->
