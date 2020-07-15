@@ -7,11 +7,11 @@
  */
 ?>
 
-<section class="gallery">
+<section class="gallery flex flex-wrap -mx-2 mb-4">
   <?php foreach ($gallery->images() as $image): ?>
-  <figure>
-    <a href="<?= $image->link()->or($image->url()) ?>">
-      <?= $image->crop(600, 800) ?>
+  <figure class="w-1/2 md:w-1/3 px-2">
+    <a href="<?php echo $image->link()->or($image->url()) ?>" title="<?php echo $image->title() ?>">
+      <img src="<?php echo $image->thumb()->url() ?>" alt="<?php echo $image->title() ?>"/>
     </a>
   </figure>
   <?php endforeach ?>

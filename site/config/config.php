@@ -12,7 +12,12 @@ return [
     'panel' =>[
       'install' => true
     ],
-
+    'thumbs' => [
+      'presets' => [
+          'default' => ['width' => 300, 'quality' => 70],
+          'blurred' => ['blur' => true]
+      ]
+    ],
     'routes' => [
         [
           'pattern' => 'sitemap.xml',

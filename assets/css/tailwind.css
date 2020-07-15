@@ -1,3 +1,5 @@
+@import "/assets/css/custom.css";
+
 @tailwind base;
 
 @font-face {
@@ -27,37 +29,35 @@
 }
 
 .primary {
-  fill: #A5B3BB; }
+  fill: #A5B3BB;
+}
 
 .secondary {
-  fill: #0D2B3E; }
-
-@tailwind components;
+  fill: #0D2B3E;
+}
 
 .note-content a  {
   @apply text-red-700 underline;
 }
-
+  
 .note-content figure  {
   @apply mt-2 mb-4 mx-auto text-center;
 }
 
+@tailwind components;
 
 @tailwind utilities;
 
 /* Custom utility css */
-
-figure.video {
+.video {
   position: relative;
   padding-bottom: 56.25%; /* 16:9 */
   height: 0;
 }
-figure.video iframe {
+.video iframe {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
 }
-
-/* v1 */
