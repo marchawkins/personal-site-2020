@@ -21,7 +21,7 @@
   <h1 class="sr-only">Notes</h1>
   <div class="container note_list mx-auto">
     <?php foreach ($notes->children()->listed()->flip()->limit(10) as $note): ?>
-    <div class="note p-2 m-2 even:bg-gray-200">
+    <div class="note p-2 m-2 even:bg-gray-400">
       <a class="block sm:flex" href="<?= $note->url() ?>" title="Read: <?php echo $note->title() ?>">
         <span class="block text-5xl font-mono tracking-tighter text-gray-900 sm:inline-block"><?php echo $note->date()->toDate('Y') ?>_<?php echo $note->date()->toDate('m') ?>.<?php echo $note->date()->toDate('d') ?></span>
         <span class="block text-sm leading-tight sm:inline-block sm:mt-2 sm:ml-4">

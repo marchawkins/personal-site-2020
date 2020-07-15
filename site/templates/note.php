@@ -13,10 +13,10 @@
 <?php snippet('header') ?>
 
 <main>
-  <article class="note mx-auto py-4 max-w-4xl">
+  <article class="note mx-auto pb-4 max-w-4xl">
 
         <div class="bg-white shadow-2xl mb-4 tracking-wide" >
-            <div class="px-2 sm:px-4 py-2 mt-2">
+            <div class="px-2 sm:px-4 pb-2 mt-2">
                 <h1 class="px-2 mr-1 mb-2 font-normal text-4xl text-gray-800 text-center tracking-tight uppercase font-title leading-tight sm:leading-normal"><?php echo $page->title() ?></h1>
                 
                 <!-- main content -->

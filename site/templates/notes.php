@@ -18,13 +18,22 @@
   <div class="notes">
     <?php 
       $notes = $page->children()->listed()->flip();
-      if($tag = param('tag')) {
+      if($tag = param('tag')):
         $notes = $notes->filterBy('tags', $tag, ',');
-      }
+      endif;
       $notes = $notes->paginate(15)
     ?>
+    
+    <h1 class="text-center text-2xl font-title pt-2 sm:pt-0 sm:text-3xl">
+    <?php if($tag = param('tag')): ?>
+      Notes tagged with &ldquo;<?php echo param('tag') ?>&rdquo;
+    <?php else : ?>
+      Notes
+    <?php endif ?>
+    </h1>
+
     <?php foreach ($notes as $note): ?>
-      <div class="note p-2 m-2 even:bg-gray-200">
+      <div class="note p-2 m-2 even:bg-gray-400">
       <a class="block sm:flex" href="<?= $note->url() ?>" title="Read: <?php echo $note->title() ?>">
         <span class="block text-5xl font-mono tracking-tighter text-gray-900 sm:inline-block"><?php echo $note->date()->toDate('Y') ?>_<?php echo $note->date()->toDate('m') ?>.<?php echo $note->date()->toDate('d') ?></span>
         <?php /* if($feature_image = $note->feature_image()->toFile()): ?>

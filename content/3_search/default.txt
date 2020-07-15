@@ -1,5 +1,0 @@
-Title: Search
-
-----
-
-Text: This is the search page.
