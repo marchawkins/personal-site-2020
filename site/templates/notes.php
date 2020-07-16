@@ -12,7 +12,7 @@
 
 <?php snippet('header') ?>
 
-<main>
+<main class="flex-grow">
 
 <div class="container note_list mx-auto">
   <div class="notes">

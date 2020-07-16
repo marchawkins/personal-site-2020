@@ -56,7 +56,7 @@
                     <h4 class="ml-4 text-sm tracking-tight font-normal text-gray-500">
                         Posted on <time class="note-date"><?= $page->date()->toDate('l, F jS, Y') ?></time>
                         <?php if($loc = $page->mymap()->yaml()): ?>
-                          <span class="">from <?php echo $loc['city'] ?>
+                          from <?php echo $loc['city'] ?>
                         <?php endif ?>
                     </h4>
                     <div class="user-logo">

@@ -12,7 +12,7 @@
 
 <?php snippet('header') ?>
 
-<main>
+<main class="flex-grow">
   <h1 class="text-center text-2xl font-title pt-2 sm:pt-0 sm:text-3xl">Me</h1>
   <div class="layout">
 

@@ -12,7 +12,7 @@
 
 <?php snippet('header') ?>
 
-<main>
+<main class="flex-grow">
 
   <?php 
   // we always use an if-statement to check if a page exists to prevent errors 

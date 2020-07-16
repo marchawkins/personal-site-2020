@@ -12,7 +12,7 @@
 ?>
 <?php snippet('header') ?>
 
-<main class="album">
+<main class="album flex-grow">
   <article>
 
     <header>

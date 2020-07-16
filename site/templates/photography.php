@@ -12,7 +12,7 @@
 
 <?php snippet('header') ?>
 
-<main>
+<main class="flex-grow">
   <?php snippet('intro') ?>
 
 

@@ -8,22 +8,22 @@
  */
 ?>
 
-  <footer class="footer bg-black text-gray-600">
-    <div class="container mx-auto p-6 text-center text-sm">
-    <p>&copy; 1976 - <?= date('Y') ?> marc hawkins</p>
+    <footer class="footer bg-black text-gray-600">
+      <div class="container mx-auto p-6 text-center text-sm">
+      <p>&copy; 1976 - <?= date('Y') ?> marc hawkins</p>
 
-  <?php /*
-    <?php if ($about = page('about')): ?>
-    <nav class="social">
-      <?php foreach ($about->social()->toStructure() as $social): ?>
-      <a href="<?= $social->url() ?>"><?= $social->platform() ?></a>
-      <?php endforeach ?>
-    </nav>
-    <?php endif ?>
-  */ ?>
+    <?php /*
+      <?php if ($about = page('about')): ?>
+      <nav class="social">
+        <?php foreach ($about->social()->toStructure() as $social): ?>
+        <a href="<?= $social->url() ?>"><?= $social->platform() ?></a>
+        <?php endforeach ?>
+      </nav>
+      <?php endif ?>
+    */ ?>
 
-    </div><!-- .container -->
-  </footer>
+      </div><!-- .container -->
+    </footer>
 
 </body>
 </html>
