@@ -16,7 +16,7 @@ Some guys at work got to meet with Keanu Reeves to show off the (link: https://w
 Mymap:
 
 lat: 34.17142715
-lon: '-118.91058772974'
+lon: "-118.91058772974"
 city: Thousand Oaks
 country: United States of America
 
@@ -30,7 +30,7 @@ Date: 2018-10-11 05:35
 
 ----
 
-Tags: sideshow, work, collectible, Keanu Reeves, John Wick
+Tags: sideshow, work, Keanu Reeves, John Wick, collectibles
 
 ----
 
