@@ -1,0 +1,44 @@
+Title: Keanu Reeves John Wick Figure
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+(image: keanu-reeves-hot-toys-sideshow-figure.jpg)
+Some guys at work got to meet with Keanu Reeves to show off the (link: https://www.sideshow.com/collectibles/john-wick-john-wick-hot-toys-903754 text: Hot Toys John Wick sixth scale figure). Read more on (link: https://www.sideshow.com/blog/keanu-reeves-checks-out-the-hot-toys-john-wick-16-scale-figure-prototype/ text: Sideshow's blog post).
+
+----
+
+Mymap:
+
+lat: 34.17142715
+lon: '-118.91058772974'
+city: Thousand Oaks
+country: United States of America
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-10-11 05:35
+
+----
+
+Tags: sideshow, work, collectible, Keanu Reeves, John Wick
+
+----
+
+Feature-image:
+
+- >
+  keanu-reeves-hot-toys-sideshow-figure.jpg
+
+----
+
+Gallery: 
