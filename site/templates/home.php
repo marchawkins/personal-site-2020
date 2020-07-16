@@ -13,12 +13,11 @@
 <?php snippet('header') ?>
 
 <main class="flex-grow">
-
+  <h1 class="text-center text-2xl font-hand text-black pt-2 sm:pt-0">Demented and sad, but social.</h1>
   <?php 
   // we always use an if-statement to check if a page exists to prevent errors 
   // in case the page was deleted or renamed before we call a method like `children()` in this case
   if ($notes = page('notes')): ?>
-  <h1 class="sr-only">Notes</h1>
   <div class="container note_list mx-auto">
     <?php foreach ($notes->children()->listed()->flip()->limit(10) as $note): ?>
     <div class="note p-2 m-2 even:bg-gray-400">
