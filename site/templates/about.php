@@ -46,13 +46,16 @@
               </button> -->
           </div>
         </div>
-        <div class="py-2 grid grid-cols-2 gap-6">
+        <div class="pb-2 grid grid-cols-3 gap-6">
           <div class="twitter bg-black p-4">
             <a href="https://twitter.com/marchawkins" title="find me on twitter"><img class="w-full" src="/assets/img/twitter.svg" alt="twitter logo"/></a>
           </div><!-- .twitter -->
           <div class="instagram bg-black p-4">
             <a href="https://www.instagram.com/marchawkins/" title="my photos on instagram"><img class="w-full" src="/assets/img/instagram.svg" alt="instagram logo"/></a>
           </div><!-- .instagram -->
+          <div class="pinterest bg-black p-4">
+            <a href="https://www.pinterest.com/marchawkins/" title="my picks on pinterest"><img class="w-full" src="/assets/img/pinterest.svg" alt="pinterest logo"/></a>
+          </div><!-- .pinterest -->
         </div><!-- .grid -->
     </div>
   </div>
