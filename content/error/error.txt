@@ -6,4 +6,4 @@ Intro: The page could not be found.
 
 ----
 
-Text: Well, stuff can go wrong sometimes and maybe you mistyped a URL, tapped/clicked on a broken link or your computer just wants to drive you nuts. Anyway … keep calm and take a look at our beautiful (link: / text: homepage) instead.
+Text: We turned this shit inside out, but we can't find what you're looking for. Maybe you could try (link: /search text: searching for it) or head back to the (link: / text:homepage). Sorry about that.

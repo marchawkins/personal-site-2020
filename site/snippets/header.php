@@ -21,6 +21,14 @@
         More Kirby helpers: https://getkirby.com/docs/reference/templates/helpers -->
   <?= css(['assets/css/public.css', '@auto']) ?>
 
+  <link rel="icon" type="image/png" href="https://www.marchawkins.com/assets/img/favicons/favicon-16x16.png" sizes="16x16">
+  <link rel="icon" type="image/png" href="https://www.marchawkins.com/assets/img/favicons/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="https://www.marchawkins.com/assets/img/favicons/favicon-96x96.png" sizes="96x96">
+  <link rel="apple-touch-icon" href="https://www.marchawkins.com/assets/img/favicons/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://www.marchawkins.com/assets/img/favicons/apple-touch-icon-180x180.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="https://www.marchawkins.com/assets/img/favicons/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="167x167" href="https://www.marchawkins.com/assets/img/favicons/apple-touch-icon-167x167.png">
+  
 </head>
 <body class="flex flex-col min-h-screen">
 
