@@ -17,9 +17,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <title><?php echo $site->title() ?> | <?php echo $page->title() ?></title>
 
-  <!-- Stylesheets can be included using the `css()` helper. Kirby also provides the `js()` helper to include script file. 
-        More Kirby helpers: https://getkirby.com/docs/reference/templates/helpers -->
-  <?= css(['assets/css/public.css', '@auto']) ?>
+  <?php echo css(['assets/css/public.css', '@auto']) ?>
 
   <link rel="icon" type="image/png" href="https://www.marchawkins.com/assets/img/favicons/favicon-16x16.png" sizes="16x16">
   <link rel="icon" type="image/png" href="https://www.marchawkins.com/assets/img/favicons/favicon-32x32.png" sizes="32x32">
@@ -28,7 +26,18 @@
   <link rel="apple-touch-icon" sizes="180x180" href="https://www.marchawkins.com/assets/img/favicons/apple-touch-icon-180x180.png">
   <link rel="apple-touch-icon" sizes="152x152" href="https://www.marchawkins.com/assets/img/favicons/apple-touch-icon-152x152.png">
   <link rel="apple-touch-icon" sizes="167x167" href="https://www.marchawkins.com/assets/img/favicons/apple-touch-icon-167x167.png">
-  
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-5347355-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-5347355-1');
+</script>
+
+
 </head>
 <body class="flex flex-col min-h-screen">
 
