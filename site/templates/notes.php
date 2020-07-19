@@ -21,7 +21,7 @@
       if($tag = param('tag')):
         $notes = $notes->filterBy('tags', $tag, ',');
       endif;
-      $notes = $notes->paginate(15)
+      $notes = $notes->paginate(20)
     ?>
     
     <h1 class="text-center text-2xl font-title pt-2 sm:pt-0 sm:text-3xl">
