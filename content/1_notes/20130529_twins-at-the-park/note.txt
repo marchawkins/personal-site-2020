@@ -1,0 +1,46 @@
+Title: Twins at the park
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Took the twins to the park to enjoy some swinging in the sun. 
+
+(image: 2013-05-29-meg_park.jpeg)
+(image: 2013-05-29-carter_park.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: Chester Springs
+country: United States of America
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2013-05-29 04:20
+
+----
+
+Tags: Carter, Megan, twins, park, family
+
+----
+
+Feature-image:
+
+- 2013-05-29-meg_park.jpeg
+
+----
+
+Gallery: 

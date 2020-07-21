@@ -55,9 +55,9 @@
                 <div class="author flex items-center justify-between my-3">
                     <h4 class="ml-4 text-sm tracking-tight font-normal text-gray-500">
                         Posted on <time class="note-date"><?= $page->date()->toDate('l, F jS, Y') ?></time>
-                        <?php if($loc = $page->mymap()->yaml()): ?>
+                        <?php /* if($loc = $page->mymap()->yaml()): ?>
                           from <?php echo $loc['city'] ?>
-                        <?php endif ?>
+                        <?php endif */ ?>
                     </h4>
                     <div class="user-logo">
                       <?php if($avatar = $kirby->user('marchawkins@gmail.com')->avatar()): ?>

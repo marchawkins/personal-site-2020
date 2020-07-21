@@ -16,7 +16,13 @@ Using an Arduino to control an LED's brightness. In this video, the LED increase
 
 ----
 
-Mymap: 
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: Chester Springs
+country: United States of America
+postcode: "19425"
 
 ----
 

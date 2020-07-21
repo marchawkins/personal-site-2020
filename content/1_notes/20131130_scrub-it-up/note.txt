@@ -1,0 +1,45 @@
+Title: Scrub it up
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+This one really doesn't need a caption, but definitely a keeper. 
+
+(image: 2013-11-30-triple_bath.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: Chester Springs
+country: United States of America
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2013-11-30 10:30
+
+----
+
+Tags: Maddie, Megan, Carter, bath
+
+----
+
+Feature-image:
+
+- 2013-11-30-triple_bath.jpeg
+
+----
+
+Gallery: 

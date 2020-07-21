@@ -26,9 +26,9 @@
         <span class="block text-sm leading-tight sm:inline-block sm:mt-2 sm:ml-4">
           <span class="block text-xs uppercase text-gray-500"><?php echo $note->date()->toDate('l, M jS') ?></span>
           <h2 class="text-2xl font-medium leading-tight text-gray-900"><?php echo $note->title() ?></h2>
-          <?php if($loc = $note->mymap()->yaml()): ?>
+          <?php /* if($loc = $note->mymap()->yaml()): ?>
             <span class="hidden sm:block text-xs text-gray-700"><?php echo($loc['city']) ?></span>
-          <?php endif ?>
+          <?php endif */ ?>
         </span>
       </a>
     </div><!-- .note -->
