@@ -1,0 +1,48 @@
+Title: Welcome to the family, Chance
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Maddie and Megan checking out their new cousin, Chance.
+
+(image: 2013-09-29-chance_maddie.jpeg)
+(image: 2013-09-29-chance_maddie2.jpeg)
+(image: 2013-09-29-chance_meg.jpeg)
+(image: 2013-11-01-chance_maddie.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.2854881
+lon: -76.6506001
+city: Hershey
+country: United States of America
+postcode: 17033-1712
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2013-10-29 09:25
+
+----
+
+Tags: Chance, Maddie, Megan, family
+
+----
+
+Feature-image:
+
+- 2013-09-29-chance_maddie.jpeg
+
+----
+
+Gallery: 
