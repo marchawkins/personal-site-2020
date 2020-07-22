@@ -1,0 +1,51 @@
+Title: Preschool Christmas Tree Hunt
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Helped chaperone Carter and Megan's preschool class for their trip to the Christmas tree farm to pick out a tree for their preschool. Hot chocolate included.
+
+(image: img_0594.jpeg)
+(image: img_0599.jpeg)
+(image: img_0607.jpeg)
+(image: img_0612.jpeg)
+(image: img_0614.jpeg)
+(image: img_0615.jpeg)
+(image: img_0617.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: Chester Springs
+country: United States of America
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2013-12-02 11:00
+
+----
+
+Tags: Carter, Megan, Christmas, tree, preschool, tree farm
+
+----
+
+Feature-image:
+
+- img_0594.jpeg
+
+----
+
+Gallery: 
