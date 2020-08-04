@@ -27,16 +27,16 @@
   <link rel="apple-touch-icon" sizes="152x152" href="https://www.marchawkins.com/assets/img/favicons/apple-touch-icon-152x152.png">
   <link rel="apple-touch-icon" sizes="167x167" href="https://www.marchawkins.com/assets/img/favicons/apple-touch-icon-167x167.png">
 
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-5347355-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  <?php if(url::host() !== 'localhost'): ?>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-5347355-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-  gtag('config', 'UA-5347355-1');
-</script>
-
+    gtag('config', 'UA-5347355-1');
+  </script>
+  <?php endif; ?>
 
 </head>
 <body class="flex flex-col min-h-screen">
