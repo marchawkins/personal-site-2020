@@ -2,7 +2,7 @@
 
 Kirby::plugin('roland/video', [
   'tags' => [
-      'video' => [
+      'videoself' => [
         'attr' => [
           'width',
           'height',
