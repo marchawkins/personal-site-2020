@@ -19,7 +19,7 @@ Kirby::plugin('roland/video', [
         ],
         'html' => function($tag) {
 
-          $url          = $tag->video;
+          $url          = $tag->videoself;
           $caption      = $tag->caption;
           $alt          = $tag->alt;
           $title        = $tag->title;
