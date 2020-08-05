@@ -1,0 +1,50 @@
+Title: Carter and Megan 5yr old Photoshoot
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Carter and Megan's "official" 5th birthday photos.
+
+(image: img_0014.jpeg)
+
+{{ gallery }}
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: Chester Springs
+country: United States of America
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2013-10-06 10:15
+
+----
+
+Tags: Carter, Megan, twins, birthday
+
+----
+
+Feature-image:
+
+- img_0014.jpeg
+
+----
+
+Gallery:
+
+- >
+  photography/carter-and-megan-5th-birthday-photoshoot
