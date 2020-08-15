@@ -1,0 +1,45 @@
+Title: Carter and Dad at the Pool
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Carter and Dad at the neighborhood swimming pool.
+
+(image: pool-carter-dad.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: Chester Springs
+country: United States of America
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2013-08-03 13:40
+
+----
+
+Tags: Carter, Marc, family, pool, swim
+
+----
+
+Feature-image:
+
+- pool-carter-dad.jpeg
+
+----
+
+Gallery: 

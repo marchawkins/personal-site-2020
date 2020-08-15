@@ -1,0 +1,45 @@
+Title: Maddie in the Grand Prix
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Maddie tearing through the Grand Prix. Not **the** Grand Prix, but a super accurate recreation at a local carnival.
+
+(image: mj-indy500-carnival.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.1306588
+lon: -75.5721388
+city: Kimberton
+country: United States of America
+postcode: "19442"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2013-07-12 13:45
+
+----
+
+Tags: Maddie, carnival
+
+----
+
+Feature-image:
+
+- mj-indy500-carnival.jpeg
+
+----
+
+Gallery: 
