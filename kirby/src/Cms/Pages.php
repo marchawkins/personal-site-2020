@@ -43,11 +43,12 @@ class Pages extends Collection
      *
      * @param mixed $object
      * @return self
+     * @throws \Kirby\Exception\InvalidArgumentException
      */
     public function add($object)
     {
         // add a page collection
-        if (is_a($object, static::class) === true) {
+        if (is_a($object, self::class) === true) {
             $this->data = array_merge($this->data, $object->data);
 
         // add a page by id
@@ -73,7 +74,7 @@ class Pages extends Collection
      */
     public function audio()
     {
-        return $this->files()->filterBy('type', 'audio');
+        return $this->files()->filter('type', 'audio');
     }
 
     /**
@@ -101,7 +102,7 @@ class Pages extends Collection
      */
     public function code()
     {
-        return $this->files()->filterBy('type', 'code');
+        return $this->files()->filter('type', 'code');
     }
 
     /**
@@ -111,7 +112,7 @@ class Pages extends Collection
      */
     public function documents()
     {
-        return $this->files()->filterBy('type', 'document');
+        return $this->files()->filter('type', 'document');
     }
 
     /**
@@ -136,7 +137,7 @@ class Pages extends Collection
      * Creates a pages collection from an array of props
      *
      * @param array $pages
-     * @param \Kirby\Cms\Model $model
+     * @param \Kirby\Cms\Model|null $model
      * @param bool $draft
      * @return self
      */
@@ -238,11 +239,11 @@ class Pages extends Collection
     public function findByIdRecursive(string $id, string $startAt = null, bool $multiLang = false)
     {
         $path       = explode('/', $id);
-        $collection = $this;
         $item       = null;
         $query      = $startAt;
 
         foreach ($path as $key) {
+            $collection = $item ? $item->children() : $this;
             $query = ltrim($query . '/' . $key, '/');
             $item  = $collection->get($query) ?? null;
 
@@ -253,8 +254,6 @@ class Pages extends Collection
             if ($item === null) {
                 return null;
             }
-
-            $collection = $item->children();
         }
 
         return $item;
@@ -320,7 +319,7 @@ class Pages extends Collection
      */
     public function images()
     {
-        return $this->files()->filterBy('type', 'image');
+        return $this->files()->filter('type', 'image');
     }
 
     /**
@@ -340,25 +339,16 @@ class Pages extends Collection
 
         foreach ($this->data as $pageKey => $page) {
             $this->index->data[$pageKey] = $page;
+            $index = $page->index($drafts);
 
-            foreach ($page->index($drafts) as $childKey => $child) {
-                $this->index->data[$childKey] = $child;
+            if ($index) {
+                foreach ($index as $childKey => $child) {
+                    $this->index->data[$childKey] = $child;
+                }
             }
         }
 
         return $this->index;
-    }
-
-    /**
-     * @deprecated 3.0.0 Use `Pages::unlisted()` instead
-     *
-     * @return self
-     */
-    public function invisible()
-    {
-        deprecated('$pages->invisible() is deprecated, use $pages->unlisted() instead. $pages->invisible() will be removed in Kirby 3.5.0.');
-
-        return $this->unlisted();
     }
 
     /**
@@ -368,7 +358,7 @@ class Pages extends Collection
      */
     public function listed()
     {
-        return $this->filterBy('isListed', '==', true);
+        return $this->filter('isListed', '==', true);
     }
 
     /**
@@ -378,7 +368,7 @@ class Pages extends Collection
      */
     public function unlisted()
     {
-        return $this->filterBy('isUnlisted', '==', true);
+        return $this->filter('isUnlisted', '==', true);
     }
 
     /**
@@ -408,7 +398,7 @@ class Pages extends Collection
         }
 
         // merge an entire collection
-        if (is_a($args[0], static::class) === true) {
+        if (is_a($args[0], self::class) === true) {
             $collection = clone $this;
             $collection->data = array_merge($collection->data, $args[0]->data);
             return $collection;
@@ -475,7 +465,7 @@ class Pages extends Collection
      */
     public function published()
     {
-        return $this->filterBy('isDraft', '==', false);
+        return $this->filter('isDraft', '==', false);
     }
 
     /**
@@ -506,18 +496,6 @@ class Pages extends Collection
      */
     public function videos()
     {
-        return $this->files()->filterBy('type', 'video');
-    }
-
-    /**
-     * @deprecated 3.0.0 Use `Pages::listed()` instead
-     *
-     * @return \Kirby\Cms\Pages
-     */
-    public function visible()
-    {
-        deprecated('$pages->visible() is deprecated, use $pages->listed() instead. $pages->visible() will be removed in Kirby 3.5.0.');
-
-        return $this->listed();
+        return $this->files()->filter('type', 'video');
     }
 }

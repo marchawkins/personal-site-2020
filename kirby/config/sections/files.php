@@ -72,7 +72,7 @@ return [
                     'template' => $this->template
                 ]);
 
-                return $file->blueprint()->accept()['mime'] ?? '*';
+                return $file->blueprint()->acceptMime();
             }
 
             return null;
@@ -83,10 +83,13 @@ return [
         'files' => function () {
             $files = $this->parent->files()->template($this->template);
 
+            // filter out all protected files
+            $files = $files->filter('isReadable', true);
+
             if ($this->sortBy) {
-                $files = $files->sortBy(...$files::sortArgs($this->sortBy));
-            } elseif ($this->sortable === true) {
-                $files = $files->sortBy('sort', 'asc', 'filename', 'asc');
+                $files = $files->sort(...$files::sortArgs($this->sortBy));
+            } else {
+                $files = $files->sort('sort', 'asc', 'filename', 'asc');
             }
 
             // flip
@@ -96,8 +99,9 @@ return [
 
             // apply the default pagination
             $files = $files->paginate([
-                'page'  => $this->page,
-                'limit' => $this->limit
+                'page'   => $this->page,
+                'limit'  => $this->limit,
+                'method' => 'none' // the page is manually provided
             ]);
 
             return $files;
@@ -202,13 +206,15 @@ return [
                 $multiple = true;
             }
 
+            $template = $this->template === 'default' ? null : $this->template;
+
             return [
                 'accept'     => $this->accept,
                 'multiple'   => $multiple,
                 'max'        => $max,
                 'api'        => $this->parent->apiUrl(true) . '/files',
                 'attributes' => array_filter([
-                    'template' => $this->template
+                    'template' => $template
                 ])
             ];
         }
@@ -219,6 +225,7 @@ return [
             'errors'  => $this->errors,
             'options' => [
                 'accept'   => $this->accept,
+                'apiUrl'   => $this->parent->apiUrl(true),
                 'empty'    => $this->empty,
                 'headline' => $this->headline,
                 'help'     => $this->help,
