@@ -1,0 +1,50 @@
+Title: Mother's Day 2014
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Celebrating Mom and Nana on Mother's Day at (link: https://www.bucadibeppo.com text: Buca di Beppo), even though my wife refused to get her photo taken. Go figure. 
+
+(image: img_0059.jpeg)
+(image: img_0060.jpeg)
+(image: img_0063.jpeg)
+(image: img_0065.jpeg)
+(image: img_0066.jpeg)
+(image: img_0069.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.02985865
+lon: '-75.628977638473'
+city: West Whiteland Township
+country: United States
+postcode: "19341"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2014-05-11 00:00:00
+
+----
+
+Tags: Danielle, Nana, Madeline, Alexandra, Megan, Grandpa, Carter, mother's day
+
+----
+
+Feature-image:
+
+- img_0068.jpeg
+
+----
+
+Gallery: 
