@@ -1,0 +1,44 @@
+Title: Sideshow's The Child / Grogu goes to NASA
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+NASA's own Kayla LaFrance took her The Child life-size figure to work, which just happens to be MISSION CONTROL at NASA. Pretty damn cool. She (link: https://twitter.com/on2mars_kayla/status/1328861601248780290 text: Kayla LaFrance twitter).
+
+(image: the-child-nasa-control.jpg)
+
+----
+
+Mymap:
+
+lat: 29.7589382
+lon: -95.3676974
+city: Houston
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2020-11-17 23:05:00
+
+----
+
+Tags: Sideshow, The Child, Grogu, Mandalorian, NASA, collectibles, Star Wars
+
+----
+
+Feature-image:
+
+- the-child-nasa-control.jpg
+
+----
+
+Gallery: 
