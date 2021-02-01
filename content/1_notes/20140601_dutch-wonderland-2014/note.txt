@@ -1,0 +1,44 @@
+Title: Dutch Wonderland 2014
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Celebrating Carter and Megan's preschool graduation, and Maddie's upcoming last day of school, at Dutch Wonderland. An entire day of fun and only took one lonely photo.
+
+(image: 2014-06-01-dutch-wonderland.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.03813
+lon: -76.3056686
+city: Lancaster
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2014-06-01 00:00:00
+
+----
+
+Tags: Madeline, Carter, Megan, dutch wonderland, amusement park, vacation
+
+----
+
+Feature-image:
+
+- 2014-06-01-dutch-wonderland.jpeg
+
+----
+
+Gallery: 
