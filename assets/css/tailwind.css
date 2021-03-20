@@ -16,6 +16,13 @@
 }
 
 @font-face {
+  font-family: "VT323";
+  src: url("/assets/fonts/VT323-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
   font-family: "PermanentMarker-Regular";
   src: url("/assets/fonts/PermanentMarker-Regular.eot"); /* IE9 Compat Modes */
   src: url("/assets/fonts/PermanentMarker-Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
