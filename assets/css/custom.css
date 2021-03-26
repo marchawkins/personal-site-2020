@@ -1,5 +1,61 @@
-/* custom css */
+/* navigation css */
+.social-nav a {
+  display: block;
+  width: 31px;
+  height: 31px;
+  text-indent: -9999px;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  border: 1px solid #02c618;
+}
 
+.social-nav .twitter a {background-image: url('/assets/img/icon-twitter.gif');}
+.social-nav .youtube a {background-image: url('/assets/img/icon-youtube.gif');}
+.social-nav .email a {background-image: url('/assets/img/icon-mail.gif');}
+.social-nav .instagram a {background-image: url('/assets/img/icon-instagram.gif');}
+.social-nav .twitch a {background-image: url('/assets/img/icon-twitch.gif');}
+.social-nav .coffee a {background-image: url('/assets/img/icon-coffee.gif');}
+
+
+/* homepage css */
+.pg-home  {
+  background:
+    url('/assets/img/home-monitors-background.jpg')
+    no-repeat 
+    black
+  ;
+  background-position-x: 50%;
+  background-position-y: -75px;
+}
+
+/* blinking cursor effect - put within relatively placed element */
+.terminal-cursor {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  background: #000;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  border-left: .5em solid;
+  
+  -webkit-animation: blinking 1s step-end infinite;
+  animation: blinking 1s step-end infinite;
+}
+
+@-webkit-keyframes blinking {
+  from, to { border-color: transparent; }
+  50% { border-color:#02c618; }
+}
+
+@keyframes blinking {
+  from, to { border-color: transparent; }
+  50% { border-color: #02c618; }
+}
+
+
+/* note-specific css */
 .video {
   position: relative;
   padding-bottom: 56.25%; /* 16:9 */

@@ -7,6 +7,9 @@ module.exports = {
       'hand': ['PermanentMarker-Regular','Arial'],
     },
     extend: {
+      colors: {
+        'terminal': '#02c618',
+      },
       variants: {
         margin: ['responsive','even','odd','first','last','hover','focus'],
         padding: ['responsive','even','odd','first','last','hover','focus'],

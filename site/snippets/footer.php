@@ -9,8 +9,8 @@
 ?>
 
     <footer class="footer bg-black text-gray-600">
-      <div class="container mx-auto p-6 text-center text-sm">
-      <p>&copy; 1976 - <?= date('Y') ?> marc hawkins</p>
+      <div class="container mx-auto p-6 text-center text-lg font-hand text-white">
+      <p>Est. 1976</p>
 
     <?php /*
       <?php if ($about = page('about')): ?>

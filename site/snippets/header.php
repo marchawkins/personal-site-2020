@@ -39,13 +39,36 @@
   <?php endif; ?>
 
 </head>
-<body class="flex flex-col min-h-screen">
+<body class="flex flex-col min-h-screen pg-<?= $page->slug() ?>">
+<?php if($page->isHomePage()): ?>
 
-    <header class="bg-black sm:bg-white">
+  <header class="container mx-auto text-center w-full sm:w-1/2 lg:w-1/3 text-white">
+    <div class="text-center mt-9 pb-4">
+        <a href="<?php echo $site->url(); ?>" title="<?php echo $site->title() ?>" class="">
+          <img src="/assets/img/marc-hawkins-logo.png" width="290" height="150" alt="<?php echo $site->title() ?>" class="inline-block"/>
+        </a>
+    </div>
+    <div class="text-center">
+        <p class="inline-block text-4xl font-hand text-white pt-2">Marc's Awesome Website</p>
+    </div>
+    <div class="max-w-sm mx-auto py-6 px-6 sm:px-12">
+      <div class="flex justify-around social-nav">
+       <div class="twitter"><a href="https://twitter.com/marchawkins" title="i post updates to twitter">twitter</a></div>
+       <div class="youtube"><a href="https://www.youtube.com/channel/UCcbOtzDdq79jlmJuwEM_qfA" title="i post videos on youtube">youtube</a></div>
+       <div class="email"><a href="mailto:marc@marchawkins.com" title="shoot me an email">email</a></div>
+       <div class="instagram"><a href="https://www.instagram.com/marchawkins/" title="i post photos on instagram">instagram</a></div>
+       <div class="twitch"><a href="https://www.twitch.tv/marchawkinslive" title="i stream games on twitch">twitch</a></div>
+       <div class="coffee"><a href="https://www.buymeacoffee.com/marchawkins" title="like it? donate a coffee">buy me a coffee</a></div>
+      </div>
+    </div>
+  </header>
+
+<?php else: ?>
+    <header class="">
       <div class="flex sm:items-center justify-between sm:justify-center p-4 sm:bg-black">
           <div class="sm:flex sm:items-center">
             <a href="<?php echo $site->url(); ?>" title="<?php echo $site->title() ?>">
-              <img src="/assets/img/marc-hawkins-logo-light.svg" alt="<?php echo $site->title() ?>" class="h-8 sm:h-16"/>
+              <img src="/assets/img/marc-hawkins-logo.png" width="290" height="150" alt="<?php echo $site->title() ?>" class=""/>
             </a>
           </div>
 
@@ -92,5 +115,6 @@
       }
     </script>
 
+<?php endif ?>
    
 
