@@ -1,0 +1,63 @@
+Title: Call on America
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+(image: obama-portrait.jpg alt: The President's A-Team link: rescue-mission.mp3)
+God bless the internet for creating gems like this. Toss it randomly in your playlist of choice and it'll bring a smile to your face every time. #'Merica.
+
+
+(file: rescue-mission.mp3 text: Download this awesome mp3)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: Chester Springs
+country: United States of America
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-08-18 21:15
+
+----
+
+Tags: audio, meme, obama, a-team
+
+----
+
+Feature-image:
+
+- obama-portrait.jpg
+
+----
+
+Gallery: 
+
+----
+
+Files: 
+
+----
+
+Downloads: 
+
+----
+
+Author: 
+
+----
+
+Headline: Super nicer scheiss

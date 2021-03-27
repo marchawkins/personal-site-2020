@@ -1,0 +1,45 @@
+Title: John Favreau with Hot Toys Mandalorian
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Jon Favreau checking out the (link: https://www.sideshow.com/collectibles/star-wars-the-mandalorian-hot-toys-905333 text: Hot Toys The Mandalorian sixth scale figure), distributed by Sideshow.
+
+(image: 122114919_10158210227454145_6079193452605599884_o.jpg)
+
+----
+
+Mymap:
+
+lat: 34.0536909
+lon: -118.242766
+city: Los Angeles
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2019-10-19 14:25:00
+
+----
+
+Tags: Jon Favreau, Hot Toys, Sideshow, work, collectibles, Mandalorian, Star Wars
+
+----
+
+Feature-image:
+
+- >
+  122114919_10158210227454145_6079193452605599884_o.jpg
+
+----
+
+Gallery: 

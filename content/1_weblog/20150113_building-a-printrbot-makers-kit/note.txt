@@ -1,0 +1,49 @@
+Title: Building a Printrbot Makers Kit
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+(image: printrbot-spaceship-3d-print.jpg)
+
+Posting some old shots from one of my first real DIY builds, a (link: https://en.wikipedia.org/wiki/Printrbot text: Printrbot) Makers Kit. Took about a week of working late into the night, including quite a few mis-steps, but man, when it fired up for the first time it was quite a feeling of accomplishment. The quality was decent, for this was one of the first affordable 3d printers available to consumers. Despite shutting down in 2018, looks like they might be making a comeback in 2020. I'd be down to build another one of these someday.
+
+{{ gallery }}
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: Chester Springs
+country: United States of America
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-01-13 02:55
+
+----
+
+Tags: 3d, 3d printer, project
+
+----
+
+Feature-image:
+
+- printrbot-makers-kit.jpg
+
+----
+
+Gallery:
+
+- photography/printrbot-makers-kit

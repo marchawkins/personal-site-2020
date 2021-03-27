@@ -1,0 +1,44 @@
+Title: Marsh Creek Park Hike
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Took the kids on a short hike around (link: https://www.dcnr.pa.gov/StateParks/FindAPark/MarshCreekStatePark/Pages/default.aspx text: Marsh Creek State Park) to enjoy the start of Fall.
+
+(image: 2013-09-30-park.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.07045385
+lon: "-75.730216763"
+city: Upper Uwchlan Township
+country: United States of America
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2013-09-30 09:00
+
+----
+
+Tags: Carter, Maddie, Megan, park, Marsh Creek, family
+
+----
+
+Feature-image:
+
+- 2013-09-30-park.jpeg
+
+----
+
+Gallery: 

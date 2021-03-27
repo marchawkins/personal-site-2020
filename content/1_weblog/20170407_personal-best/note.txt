@@ -1,0 +1,45 @@
+Title: Personal Best
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+In my opinion, this is about as funny as I'm ever going to get.  
+
+(image: car-wash.jpg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: Chester Springs
+country: United States of America
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-04-07 04:15
+
+----
+
+Tags: meme, marc
+
+----
+
+Feature-image:
+
+- car-wash.jpg
+
+----
+
+Gallery: 

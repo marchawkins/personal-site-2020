@@ -1,0 +1,49 @@
+Title: Celebrating Abby's Bat Mitzvah
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Out for the evening to celebrate our friends Larry and Karen's daughter, Abby's, bat mitzvah. Mazel tov! 
+
+Such a great night, and we forgot to take a photo of anyone but ourselves. Obviously, we forget how to have an evening out. Sorry, Abby.
+
+(image: img_0437.jpeg)
+(image: img_0434.jpeg)
+(image: img_0433.jpeg)
+(image: photobooth-abby-batmitzvah.jpg)
+
+----
+
+Mymap:
+
+lat: 31.1393439
+lon: -85.5191005
+city: Malvern
+country: United States of America
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2013-10-05 09:30
+
+----
+
+Tags: Marc, Danielle, Abby, Larry, bat mitzvah
+
+----
+
+Feature-image:
+
+- img_0434.jpeg
+
+----
+
+Gallery: 

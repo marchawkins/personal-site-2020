@@ -65,15 +65,15 @@
 
 <?php else: ?>
     <header class="">
-      <div class="flex sm:items-center justify-between sm:justify-center p-4 sm:bg-black">
+      <div class="flex sm:items-center justify-between sm:justify-center p-4 sm:pb-0 bg-black">
           <div class="sm:flex sm:items-center">
             <a href="<?php echo $site->url(); ?>" title="<?php echo $site->title() ?>">
-              <img src="/assets/img/marc-hawkins-logo.png" width="290" height="150" alt="<?php echo $site->title() ?>" class=""/>
+              <img src="/assets/img/marc-hawkins-logo-sm.png" width="200" height="105" alt="<?php echo $site->title() ?>"/>
             </a>
           </div>
 
           <div class="sm:hidden">
-            <button type="button" class="block text-gray-400 hover:text-white focus:text-white focus:outline-none" onclick="navToggle()">
+            <button type="button" class="block text-gray-400 hover:tesasxt-white focus:text-white focus:outline-none" onclick="navToggle()">
               <svg class="h-6 w-8 fill-current icon-menu" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                 <path id="nav_menu_icon" fill-rule="evenodd" d="M4 5h16a1 1 0 0 1 0 2H4a1 1 0 1 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2z"/>
               </svg>
@@ -81,14 +81,14 @@
           </div>
       </div>
 
-      <div class="hidden px-2 pt-2 pb-4 sm:flex sm:items-center sm:justify-center sm:mx-4" id="nav_menu">
+      <div class="hidden sm:flex sm:pb-4 items-center justify-center bg-black text-2xl sm:text-3xl" id="nav_menu">
         <?php foreach ($site->children()->listed() as $item): ?>
-          <a class="block mt-1 px-2 py-2 text-white font-title uppercase rounded hover:bg-gray-800 sm:py-0 sm:text-gray-600 sm:text-xl sm:hover:bg-transparent sm:hover:text-gray-900" href="<?php echo $item->url() ?>" title="<?php echo $item->title() ?>"><?php echo $item->title() ?></a>
+          <a class="block px-2 py-2 font-mono text-terminal uppercase hover:text-opacity-50 " href="<?php echo $item->url() ?>" title="<?php echo $item->title() ?>"><?php echo $item->title() ?></a>
         <?php endforeach ?>
-        <a class="block mt-1 px-2 py-2 text-white font-title uppercase rounded hover:bg-gray-800 sm:py-0 sm:text-gray-600 sm:text-xl sm:hover:bg-transparent sm:hover:text-gray-900" href="/search" title="Search Notes">Search</a>
+        <a class="block px-2 py-2 font-mono text-terminal uppercase hover:text-opacity-50 " href="/search" title="Search Notes">Search</a>
 
         <?php if($user && $user->isAdmin()): ?>
-          <a class="block mt-1 px-2 py-2 text-white font-title uppercase rounded hover:bg-gray-800 sm:py-0 sm:text-gray-600 sm:text-xl sm:hover:bg-transparent sm:hover:text-gray-900" href="/panel" title="Admin Panel">Admin</a>
+          <a class="block px-2 py-2 font-mono text-terminal uppercase hover:text-opacity-50 " href="/panel" title="Admin Panel">Admin</a>
         <?php endif ?>
       </div>
     </header>

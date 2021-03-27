@@ -1,0 +1,54 @@
+Title: Maddie's 9th Birthday
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Maddie's 9th birthday party with friends at (link: https://www.skyzone.com text: Sky Zone) trampoline park.
+
+(image: img_0686.jpeg)
+(image: img_0688.jpeg)
+(image: img_0698.jpeg)
+(image: img_0726.jpeg)
+
+(videoself: MVI_0693.mp4 width:100% height:100% class:video-post poster: MVI_0693.jpg title:Maddie Birthday Cake caption:Maddie Birthday Cake)
+
+(videoself: MVI_0705.mp4 width:100% height:100% class:video-post poster: MVI_0705.jpg title:Trampoline Jumping caption:Trampoline Jumping)
+
+(videoself: MVI_0712.mp4 width:100% height:100% class:video-post poster: MVI_0712.jpg title:Tramploine Jumping 2 caption:Trampoline Jumping 2)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2014-02-12 11:00:00
+
+----
+
+Tags: birthday, Madeline, trampoline
+
+----
+
+Feature-image:
+
+- img_0698.jpeg
+
+----
+
+Gallery: 

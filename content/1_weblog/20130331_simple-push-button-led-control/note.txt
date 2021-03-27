@@ -1,0 +1,41 @@
+Title: Simple Push Button LED Control
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Arduino Push Button LED Control - push and hold to illuminate LED, release to turn off.
+
+(video: https://www.youtube.com/watch?v=IuiDoXZvDHU)
+
+(gist: https://gist.github.com/marchawkins/186e2594e18b64914d34)
+
+----
+
+Mymap: 
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2013-03-31 01:15
+
+----
+
+Tags: arduino, code, video, led
+
+----
+
+Feature-image:
+
+- push-button-led-arduino.jpg
+
+----
+
+Gallery: 

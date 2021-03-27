@@ -1,0 +1,41 @@
+Title: Holiday Happenings 2013
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+A random selection of holiday activities throughout December, including: first snowfall of the season, preschool Christmas concert, a trip to (link: https://www.koziarschristmasvillage.com text: Koziar's Christmas Village), breakfast with Santa and the resurgence of Furbies(?).
+
+(videoself: MVI_0638.mp4 width:100% height:100% class:video-post poster: MVI_0638.jpg title:Twins Preschool Christmas Concert caption:Twins Preschool Christmas Concert)
+
+{{ gallery }}
+
+----
+
+Mymap: 
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2013-12-01 14:05
+
+----
+
+Tags: Maddie, Megan, Carter, Danielle, Grandpa, Nana, Christmas, Koziars, concert, preschool
+
+----
+
+Feature-image: 
+
+----
+
+Gallery:
+
+- photography/holiday-2013

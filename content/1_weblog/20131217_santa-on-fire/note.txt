@@ -1,0 +1,48 @@
+Title: Santa on Fire
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Clickbait title. Santa is actually the opposite of on fire here.
+
+(image: img_0620.jpeg)
+(image: img_0625.jpeg)
+(image: img_0626.jpeg)
+(image: img_0628.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: Chester Springs
+country: United States of America
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2013-12-17 13:55
+
+----
+
+Tags: Carter, Megan, Maddie, Danielle, Santa, fire truck
+
+----
+
+Feature-image:
+
+- img_0625.jpeg
+
+----
+
+Gallery: 

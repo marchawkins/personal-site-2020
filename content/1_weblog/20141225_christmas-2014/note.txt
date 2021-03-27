@@ -1,0 +1,47 @@
+Title: Christmas 2014
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+(image: img_0411.jpeg)
+
+Random shots from the holidays, December 2014. 
+
+{{ gallery }}
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2014-12-25 00:00:00
+
+----
+
+Tags: family, Marc, Danielle, Megan, Carter, Brooks, Madeline, christmas
+
+----
+
+Feature-image: 
+
+----
+
+Gallery:
+
+- photography/christmas-2014

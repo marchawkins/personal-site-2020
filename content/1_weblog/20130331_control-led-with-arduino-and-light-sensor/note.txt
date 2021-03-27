@@ -1,0 +1,41 @@
+Title: Control LED with Arduino and Light Sensor
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Using an arduino and a light sensor to turn an LED on and off.
+
+(video: https://www.youtube.com/watch?v=Z6x5y3_LpWE)
+
+(gist: https://gist.github.com/marchawkins/34d5c384b50fbe222353)
+
+----
+
+Mymap: 
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2013-03-31 21:35
+
+----
+
+Tags: arduino, led, code, video
+
+----
+
+Feature-image:
+
+- arduino-led-light-sensor-control.jpg
+
+----
+
+Gallery: 
