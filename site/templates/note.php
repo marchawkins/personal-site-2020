@@ -25,13 +25,10 @@
                 </div><!-- .note-content -->
                 
                 <!-- tags -->
-                <div class="flex items-center justify-between mt-2 text-sm text-gray-500">
+                <div class="flex items-center justify-between mt-2 text-xs text-gray-400">
                  <?php if ($page->tags()->isNotEmpty()) : ?>
                     <div class="tags">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="w-8 mr-1 icon-tag inline-block">
-                        <path class="primary" d="M2.59 13.41A1.98 1.98 0 0 1 2 12V7a5 5 0 0 1 5-5h4.99c.53 0 1.04.2 1.42.59l8 8a2 2 0 0 1 0 2.82l-8 8a2 2 0 0 1-2.82 0l-8-8zM7 9a2 2 0 1 0 0-4 2 2 0 0 0 0 4z"/>
-                        <path class="secondary" d="M12 18l6-6-4-4-6 6.01L12 18z"/>
-                      </svg>
+                      <h5 class="my-2 font-bold uppercase">Explore Posts Tagged with:</h5>
                       <?php 
                         $tagArray = array();
                         foreach($page->tags()->split(',') as $tag):
@@ -52,13 +49,13 @@
                 </div>
 
                 <!-- author and date -->
-                <div class="author flex items-center justify-between my-3">
-                    <h4 class="text-sm tracking-tight font-normal text-gray-500">
-                        Posted on <time class="note-date"><?= $page->date()->toDate('l, F jS, Y') ?>,</time>
+                <div class="flex items-center justify-between my-3 text-xs text-gray-400">
+                    <h6 class="font-normal text-xs">
+                        Posted on <time class="note-date font-bold"><?= $page->date()->toDate('l, F jS, Y') ?>,</time>
                         <?php if($loc = $page->mymap()->yaml()): ?>
-                          from <?php echo $loc['city'] ?>
+                          at <span class="font-bold"><?php echo $loc['city'] ?></span>
                         <?php endif ?>
-                    </h4>
+                    </h6>
                     <div class="user-logo">
                       <?php if($avatar = $kirby->user('marchawkins@gmail.com')->avatar()): ?>
                         <a href="/about" title="About the author"><img class="w-10 h-10 object-cover rounded-full mx-4  shadow" src="<?= $avatar->url() ?>" alt="Marc" class="h-6"/></a>
