@@ -2,7 +2,7 @@ module.exports = {
   purge: [],
   theme: {
     fontFamily: {
-      'title': ['NeilvardOne','Arial'],
+      'title': ['Helvegen','Arial'],
       'mono': ['VT323','Arial'],
       'hand': ['PermanentMarker-Regular','Arial'],
     },

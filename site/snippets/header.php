@@ -81,7 +81,7 @@
           </div>
       </div>
 
-      <div class="hidden sm:flex sm:pb-4 sm:pt-4 items-center justify-center bg-black text-2xl sm:text-3xl" id="nav_menu">
+      <div class="hidden sm:flex sm:pb-4 sm:pt-4 items-center justify-center bg-black text-lg sm:text-xl" id="nav_menu">
         <?php foreach ($site->children()->listed() as $item): ?>
           <a class="block px-2 font-mono text-terminal uppercase hover:text-opacity-50 " href="<?php echo $item->url() ?>" title="<?php echo $item->title() ?>"><?php echo $item->title() ?></a>
         <?php endforeach ?>

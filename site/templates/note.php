@@ -12,20 +12,20 @@
 <?php global $user; ?>
 <?php snippet('header') ?>
 
-<main>
-  <article class="note mx-auto pb-4 max-w-4xl">
+<main class="flex-grow bg-black">
+  <article class="note mx-auto max-w-4xl">
 
-        <div class="bg-white shadow-2xl mb-4 tracking-wide" >
-            <div class="px-2 sm:px-4 pb-2 mt-2">
-                <h1 class="px-2 mr-1 mb-2 font-normal text-4xl text-gray-800 text-center tracking-tight uppercase font-title leading-tight sm:leading-normal"><?php echo $page->title() ?></h1>
+        <div class="bg-white mb-4 tracking-wide" >
+            <div class="p-4">
+                <h1 class="px-2 font-normal text-4xl text-gray-800 text-center tracking-tight uppercase font-title leading-tight sm:leading-normal"><?php echo $page->title() ?></h1>
                 
                 <!-- main content -->
-                <div class="note-content text-sm text-gray-700 px-2 mr-1 mb-6">
+                <div class="note-content text-sm text-gray-700 mb-6">
                   <?php echo $page->text()->kirbytext();?>
-                </div>
+                </div><!-- .note-content -->
                 
                 <!-- tags -->
-                <div class="flex items-center justify-between mt-2 mx-2 text-sm text-gray-500">
+                <div class="flex items-center justify-between mt-2 text-sm text-gray-500">
                  <?php if ($page->tags()->isNotEmpty()) : ?>
                     <div class="tags">
                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="w-8 mr-1 icon-tag inline-block">
@@ -35,7 +35,7 @@
                       <?php 
                         $tagArray = array();
                         foreach($page->tags()->split(',') as $tag):
-                          $tagArray[] = "<a href=\"". url('/notes/', ['params' => ['tag' => $tag]])."\" title=\"More notes tagged '".html($tag)."'\">".html($tag)."</a>";
+                          $tagArray[] = "<a href=\"". url('/weblog/', ['params' => ['tag' => $tag]])."\" title=\"More posts tagged '".html($tag)."'\">".html($tag)."</a>";
                         endforeach;
                         echo implode( ', ', $tagArray);
                       ?>
@@ -53,11 +53,11 @@
 
                 <!-- author and date -->
                 <div class="author flex items-center justify-between my-3">
-                    <h4 class="ml-4 text-sm tracking-tight font-normal text-gray-500">
-                        Posted on <time class="note-date"><?= $page->date()->toDate('l, F jS, Y') ?></time>
-                        <?php /* if($loc = $page->mymap()->yaml()): ?>
+                    <h4 class="text-sm tracking-tight font-normal text-gray-500">
+                        Posted on <time class="note-date"><?= $page->date()->toDate('l, F jS, Y') ?>,</time>
+                        <?php if($loc = $page->mymap()->yaml()): ?>
                           from <?php echo $loc['city'] ?>
-                        <?php endif */ ?>
+                        <?php endif ?>
                     </h4>
                     <div class="user-logo">
                       <?php if($avatar = $kirby->user('marchawkins@gmail.com')->avatar()): ?>
@@ -70,16 +70,13 @@
         </div>
 
   </article>
+  
+  <nav class="text-xl my-2">
+    <ul class="flex justify-center">
+      <li class="text-terminal font-mono uppercase"><a href="/weblog" title="Go back to the weblog">Back to weblog</a></li>
+    </ul>
+  </nav>
 
-  <div class="flex pagination justify-center my-4">
-        <a href="/notes" title="older notes">
-          <button class="border border-gray-500 text-gray-500 block rounded-sm font-bold py-4 px-6 mr-2 flex items-center hover:bg-gray-900 hover:text-white">
-          <svg class="h-5 w-5 mr-2 fill-current" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-49 141 512 512" style="enable-background:new -49 141 512 512;" xml:space="preserve">
-              <path id="XMLID_10_" d="M438,372H36.355l72.822-72.822c9.763-9.763,9.763-25.592,0-35.355c-9.763-9.764-25.593-9.762-35.355,0 l-115.5,115.5C-46.366,384.01-49,390.369-49,397s2.634,12.989,7.322,17.678l115.5,115.5c9.763,9.762,25.593,9.763,35.355,0 c9.763-9.763,9.763-25.592,0-35.355L36.355,422H438c13.808,0,25-11.193,25-25S451.808,372,438,372z"></path>
-          </svg> Back to Notes
-        </button>
-      </a>
-  </div><!-- .pagination -->
 </main>
 
 <?php snippet('footer') ?>

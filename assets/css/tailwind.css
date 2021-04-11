@@ -3,14 +3,14 @@
 @tailwind base;
 
 @font-face {
-  font-family: "NeilvardOne";
-  src: url("/assets/fonts/NeilvardOne.eot"); /* IE9 Compat Modes */
-  src: url("/assets/fonts/NeilvardOne.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-    url("/assets/fonts/NeilvardOne.otf") format("opentype"), /* Open Type Font */
-    url("/assets/fonts/NeilvardOne.svg") format("svg"), /* Legacy iOS */
-    url("/assets/fonts/NeilvardOne.ttf") format("truetype"), /* Safari, Android, iOS */
-    url("/assets/fonts/NeilvardOne.woff") format("woff"), /* Modern Browsers */
-    url("/assets/fonts/NeilvardOne.woff2") format("woff2"); /* Modern Browsers */
+  font-family: "Helvegen";
+  src: url("/assets/fonts/helvegen_regular-webfont.eot"); /* IE9 Compat Modes */
+  src: url("/assets/fonts/helvegen_regular-webfont.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("/assets/fonts/helvegen_regular-webfont.otf") format("opentype"), /* Open Type Font */
+    url("/assets/fonts/helvegen_regular-webfont.svg") format("svg"), /* Legacy iOS */
+    url("/assets/fonts/helvegen_regular-webfont.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("/assets/fonts/helvegen_regular-webfont.woff") format("woff"), /* Modern Browsers */
+    url("/assets/fonts/helvegen_regular-webfont.woff2") format("woff2"); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
 }

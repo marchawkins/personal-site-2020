@@ -10,102 +10,75 @@
  */
 ?>
 
+<?php
+  $postsPerPage = 24;
+?>
+
 <?php snippet('header') ?>
 
-<main class="flex-grow">
+<main class="flex-grow bg-black">
 
 <div class="container note_list mx-auto">
   <div class="notes">
     <?php 
       $notes = $page->children()->listed()->flip();
-      if($tag = param('tag')):
+      if($tag = urldecode(param('tag'))):
         $notes = $notes->filterBy('tags', $tag, ',');
       endif;
-      $notes = $notes->paginate(20)
+      $notes = $notes->paginate($postsPerPage);
     ?>
     
-    <h1 class="text-center text-2xl font-title pt-2 sm:pt-0 sm:text-3xl">
+    <h1 class="text-center text-2xl font-title text-white p-4 sm:text-3xl">
     <?php if($tag = param('tag')): ?>
-      Posts tagged with &ldquo;<?php echo param('tag') ?>&rdquo;
+      Posts tagged with &ldquo;<?php echo urldecode(param('tag')) ?>&rdquo;
     <?php else : ?>
       Weblog
     <?php endif ?>
     </h1>
 
-    <?php foreach ($notes as $note): ?>
-      <div class="note p-2 m-2 even:bg-gray-400">
-      <a class="block sm:flex" href="<?= $note->url() ?>" title="Read: <?php echo $note->title() ?>">
-        <span class="block text-5xl font-mono tracking-tighter text-gray-900 sm:inline-block"><?php echo $note->date()->toDate('Y') ?>_<?php echo $note->date()->toDate('m') ?>.<?php echo $note->date()->toDate('d') ?></span>
-        <?php /* if($feature_image = $note->feature_image()->toFile()): ?>
-          <span class="hidden sm:block w-16 h-16">
-                <img src="<?php echo $feature_image->thumb()->url() ?>" alt="<?php echo $note->title() ?>" class="object-scale-down">
-            </span>
-          <?php endif */ ?>
-        <span class="block text-sm leading-tight sm:inline-block sm:mt-2 sm:ml-4">
-          <span class="block text-xs uppercase text-gray-500"><?php echo $note->date()->toDate('l, M jS') ?></span>
-          <h2 class="text-2xl font-medium leading-tight text-gray-900"><?php echo $note->title() ?></h2>
-          <?php /* if($loc = $note->mymap()->yaml()): ?>
-            <span class="hidden sm:block text-xs text-gray-700"><?php echo($loc['city']) ?></span>
-          <?php endif */ ?>
-        </span>
-      </a>
-    </div><!-- .note -->
-    <?php /*
-    <article class="note">
-      <header class="note-header">
-        <a href="<?= $note->url() ?>">
-          <h2><?= $note->title() ?></h2>
-          <time><?= $note->date()->toDate('d F Y') ?></time>
-        </a>
-      </header>
-      <!-- <figure>
-      <?php
-          // the `cover()` method defined in the `album.php` page model can be used 
-          // everywhere across the site for this type of page ?>
-          <figcaption>
-            <span>
-              <span class="example-name"><?php echo $note->title() ?>: <?php echo $note->date()->toDate('Ymd') ?></span>
-              <?php if($image = $note->image()): ?>
-              <img src="<?= $image->url() ?>" alt="<?php echo $note->title() ?>"/>
-              <?php endif ?>
-            </span>
-          </figcaption>
-        </figure> -->
-    </article>
-    */ ?>
-    <?php endforeach ?>
-    
-    <?php if ($notes->pagination()->hasPages()): ?>
-    <!-- pagination component -->
-    <div class="flex pagination justify-center my-4">
-    
-      <?php if ($notes->pagination()->hasNextPage()): ?>
-        <a href="<?= $notes->pagination()->nextPageURL() ?>" title="older notes">
-          <button class="border border-gray-500 text-gray-500 block rounded-sm font-bold py-4 px-6 mr-2 flex items-center hover:bg-gray-900 hover:text-white">
-          <svg class="h-5 w-5 mr-2 fill-current" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-49 141 512 512" style="enable-background:new -49 141 512 512;" xml:space="preserve">
-              <path id="XMLID_10_" d="M438,372H36.355l72.822-72.822c9.763-9.763,9.763-25.592,0-35.355c-9.763-9.764-25.593-9.762-35.355,0 l-115.5,115.5C-46.366,384.01-49,390.369-49,397s2.634,12.989,7.322,17.678l115.5,115.5c9.763,9.762,25.593,9.763,35.355,0 c9.763-9.763,9.763-25.592,0-35.355L36.355,422H438c13.808,0,25-11.193,25-25S451.808,372,438,372z"></path>
-          </svg> Previous page
-        </button>
-      </a>
-      <?php endif ?>
-      
-      <?php if ($notes->pagination()->hasPrevPage()): ?>
-        <a href="<?= $notes->pagination()->prevPageURL() ?>" title="newer notes">
-          <button class="border border-gray-500 text-gray-500 block rounded-sm font-bold py-4 px-6 mr-2 flex items-center hover:bg-gray-900 hover:text-white">
-          Next page <svg class="h-5 w-5 ml-2 fill-current" clasversion="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-              viewBox="-49 141 512 512" style="enable-background:new -49 141 512 512;" xml:space="preserve">
-          <path id="XMLID_11_" d="M-24,422h401.645l-72.822,72.822c-9.763,9.763-9.763,25.592,0,35.355c9.763,9.764,25.593,9.762,35.355,0
-              l115.5-115.5C460.366,409.989,463,403.63,463,397s-2.634-12.989-7.322-17.678l-115.5-115.5c-9.763-9.762-25.593-9.763-35.355,0
-              c-9.763,9.763-9.763,25.592,0,35.355l72.822,72.822H-24c-13.808,0-25,11.193-25,25S-37.808,422-24,422z"/>
-          </svg>
-          </button>
-        </a>
-      <?php endif ?>
+    <div class="grid grid-cols-2 gap-4 px-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 sm:gap-4 sm:px-0">
+      <?php foreach ($notes as $note): ?>
+        <div class="">
+        <?php if($feature_image = $note->feature_image()->toFile()):
+          $imgSrc = $feature_image->thumb()->url();
+        else:
+          $imgSrc = "/assets/img/weblog-thumb-missing.gif";
+        endif ?>
+          <a class="block sm:flex" href="<?= $note->url() ?>" title="Read: <?php echo $note->title() ?>"><img src="<?php echo $imgSrc ?>" alt="<?php echo $note->title() ?>" width="300" class="object-cover h-48 sm:h-48 w-full"></a>
+          <h2 class="text-base text-white font-title leading-tight mt-2"><a class="block hover:underline sm:flex" href="<?= $note->url() ?>" title="Read: <?php echo $note->title() ?>"><?php echo $note->title() ?></a></h2>
+          <h3 class="text-xs text-gray-500"><?php echo $note->date()->toDate('l, M jS') ?></h3>
+        </div>
+      <?php endforeach ?>
+    </div><!-- .grid -->
 
-    </div><!-- .flex -->
-<?php endif ?>
-   
+    <?php $pagination = $notes->pagination() ?>
+    <?php if ($pagination->hasPages()): ?>
+      <nav class="text-xl my-2">
+        <ul class="flex justify-center">
+          <?php if ($pagination->hasPrevPage()): ?>
+            <li class="mx-1 px-3 py-2 text-terminal font-mono uppercase">
+            <a href="<?= $pagination->prevPageURL() ?>" class="flex items-center"><span class="mx-1">&laquo; newer</span></a>
+          </li>
+          <?php endif ?>
 
+          <?php foreach ($pagination->range($postsPerPage) as $r): ?>
+            <li class="mx-1 px-3 py-2 text-terminal font-mono uppercase">
+            <?php if($pagination->page() === $r ): ?>
+              <span class="underline text-gray-600"><?php echo $r ?></span>
+            <?php else: ?>
+              <a<?php $pagination->page() === $r ? ' aria-current="page"' : '' ?> href="<?php echo $pagination->pageURL($r) ?>"><?php echo $r ?></a>
+            <?php endif ?>
+          </li>
+          <?php endforeach ?>
+
+          <?php if ($pagination->hasNextPage()): ?>
+            <li class="mx-1 px-3 py-2 text-terminal font-mono uppercase">
+            <a href="<?= $pagination->nextPageURL() ?>" class="flex items-center"><span class="mx-1">older &raquo;</span></a>
+            </li>
+          <?php endif ?>
+        </ul>
+      </nav>
+    <?php endif ?>
 </div><!-- .container -->
 </main>
 
