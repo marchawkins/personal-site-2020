@@ -11,6 +11,7 @@
 ?>
 
 <?php
+  global $postsPerPage;
   $postsPerPage = 24;
 ?>
 
@@ -18,8 +19,7 @@
 
 <main class="flex-grow bg-black">
 
-<div class="container note_list mx-auto">
-  <div class="notes">
+<div class="container mx-auto">
     <?php 
       $notes = $page->children()->listed()->flip();
       if($tag = urldecode(param('tag'))):
@@ -38,46 +38,13 @@
 
     <div class="grid grid-cols-2 gap-4 px-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 sm:gap-4 sm:px-0">
       <?php foreach ($notes as $note): ?>
-        <div class="">
-        <?php if($feature_image = $note->feature_image()->toFile()):
-          $imgSrc = $feature_image->thumb()->url();
-        else:
-          $imgSrc = "/assets/img/weblog-thumb-missing.gif";
-        endif ?>
-          <a class="block sm:flex" href="<?= $note->url() ?>" title="Read: <?php echo $note->title() ?>"><img src="<?php echo $imgSrc ?>" alt="<?php echo $note->title() ?>" width="300" class="object-cover h-48 sm:h-48 w-full"></a>
-          <h2 class="text-base text-white font-title leading-tight mt-2"><a class="block hover:underline sm:flex" href="<?= $note->url() ?>" title="Read: <?php echo $note->title() ?>"><?php echo $note->title() ?></a></h2>
-          <h3 class="text-xs text-gray-500"><?php echo $note->date()->toDate('l, M jS') ?></h3>
-        </div>
+        <?php snippet('note-block-single',['note' => $note]) ?>
       <?php endforeach ?>
     </div><!-- .grid -->
 
     <?php $pagination = $notes->pagination() ?>
     <?php if ($pagination->hasPages()): ?>
-      <nav class="text-xl my-2">
-        <ul class="flex justify-center">
-          <?php if ($pagination->hasPrevPage()): ?>
-            <li class="mx-1 px-3 py-2 text-terminal font-mono uppercase">
-            <a href="<?= $pagination->prevPageURL() ?>" class="flex items-center"><span class="mx-1">&laquo; newer</span></a>
-          </li>
-          <?php endif ?>
-
-          <?php foreach ($pagination->range($postsPerPage) as $r): ?>
-            <li class="mx-1 px-3 py-2 text-terminal font-mono uppercase">
-            <?php if($pagination->page() === $r ): ?>
-              <span class="underline text-gray-600"><?php echo $r ?></span>
-            <?php else: ?>
-              <a<?php $pagination->page() === $r ? ' aria-current="page"' : '' ?> href="<?php echo $pagination->pageURL($r) ?>"><?php echo $r ?></a>
-            <?php endif ?>
-          </li>
-          <?php endforeach ?>
-
-          <?php if ($pagination->hasNextPage()): ?>
-            <li class="mx-1 px-3 py-2 text-terminal font-mono uppercase">
-            <a href="<?= $pagination->nextPageURL() ?>" class="flex items-center"><span class="mx-1">older &raquo;</span></a>
-            </li>
-          <?php endif ?>
-        </ul>
-      </nav>
+      <?php snippet('pagination',['pagination' => $pagination]) ?>
     <?php endif ?>
 </div><!-- .container -->
 </main>

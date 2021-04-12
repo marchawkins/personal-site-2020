@@ -13,8 +13,8 @@
   // example: search entire site, in the title and text fields
   // $results = $site->search($query, 'title|text');
   // search notes, within title, text and tags fields
-  $results = page('notes')->search($query, 'title|text|tags|mymap|excerpt-text');
-  $results = $results->paginate(20);
+  $results = page('weblog')->index()->listed()->search($query, 'title|text|tags|mymap|excerpt-text');
+  $results = $results->paginate(24);
 
   return [
     'query'   => $query,
