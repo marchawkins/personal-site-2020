@@ -13,6 +13,11 @@
   // example: search entire site, in the title and text fields
   // $results = $site->search($query, 'title|text');
   // search notes, within title, text and tags fields
+  // if need to search multiple pages/sections, try this:
+  // $collection1 = page('exhibitions')->children()->listed();
+  // $collection2 = page('news')->children()->listed());
+  // $newCollection = $collection1->merge($collection2);
+  
   $results = page('weblog')->index()->listed()->search($query, 'title|text|tags|mymap|excerpt-text');
   $results = $results->paginate(24);
 

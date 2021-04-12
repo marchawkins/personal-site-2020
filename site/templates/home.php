@@ -17,7 +17,7 @@
       <li><a href="" class="cursor-text text-terminal hover:text-opacity-50" title="pictures i've taken">photos</a></li>
       <li><a href="" class="cursor-text text-terminal hover:text-opacity-50" title="come in and stay awhile">guestbook</a></li>
       <li><a href="" class="cursor-text text-terminal hover:text-opacity-50" title="about my home office">office</a></li>
-      <li><a href="" class="cursor-text text-terminal hover:text-opacity-50" title="about me and this website">about</a></li>
+      <li><a href="/about" class="cursor-text text-terminal hover:text-opacity-50" title="about me and this website">about</a></li>
       <li><a href="" class="cursor-text text-terminal hover:text-opacity-50" title="free crap you don't need, and neither do i">downloads</a></li>
       <li><a href="/search" class="cursor-text text-terminal hover:text-opacity-50" title="search for something">search</a></li>
       <li>&nbsp;</li>
