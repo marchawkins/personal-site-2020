@@ -18,8 +18,7 @@
 <?php snippet('header') ?>
 
 <main class="flex-grow bg-black">
-
-<div class="container mx-auto">
+  <div class="container mx-auto">
     <?php 
       $notes = $page->children()->listed()->flip();
       if($tag = urldecode(param('tag'))):
@@ -46,7 +45,7 @@
     <?php if ($pagination->hasPages()): ?>
       <?php snippet('pagination',['pagination' => $pagination]) ?>
     <?php endif ?>
-</div><!-- .container -->
+  </div><!-- .container -->
 </main>
 
 <?php snippet('footer') ?>

@@ -53,7 +53,7 @@
                     <h6 class="font-normal text-xs">
                         Posted on <time class="note-date font-bold"><?= $page->date()->toDate('l, F jS, Y') ?>,</time>
                         <?php if($loc = $page->mymap()->yaml()): ?>
-                          at <span class="font-bold"><?php echo $loc['city'] ?></span>
+                          in <span class="font-bold"><?php echo $loc['city'] ?></span>
                         <?php endif ?>
                     </h6>
                     <div class="user-logo">
