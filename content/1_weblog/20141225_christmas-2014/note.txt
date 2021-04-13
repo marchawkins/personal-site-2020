@@ -38,7 +38,9 @@ Tags: family, Marc, Danielle, Megan, Carter, Brooks, Madeline, christmas
 
 ----
 
-Feature-image: 
+Feature-image:
+
+- img_0411.jpeg
 
 ----
 

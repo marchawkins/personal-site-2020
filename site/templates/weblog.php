@@ -35,7 +35,7 @@
     <?php endif ?>
     </h1>
 
-    <div class="grid grid-cols-2 gap-4 px-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 sm:gap-4 sm:px-0">
+    <div class="grid grid-cols-2 gap-4 px-2 sm:grid-cols-4 lg:grid-cols-6">
       <?php foreach ($notes as $note): ?>
         <?php snippet('note-block-single',['note' => $note]) ?>
       <?php endforeach ?>

@@ -39,7 +39,7 @@
   <?php endif; ?>
 
 </head>
-<body class="flex flex-col min-h-screen pg-<?= $page->slug() ?>">
+<body class="flex flex-col min-h-screen pg-<?= $page->slug() ?> bg-black">
 <?php if($page->isHomePage()): ?>
 
   <header class="container mx-auto text-center w-full sm:w-1/2 lg:w-1/3 text-white">

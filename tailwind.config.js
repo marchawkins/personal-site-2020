@@ -10,6 +10,10 @@ module.exports = {
       colors: {
         'terminal': '#02c618',
       },
+      backgroundImage: theme => ({
+        'vhs-spine-1': "url('/assets/img/bg-vhs-spine-001.jpg')",
+        //'footer-texture': "url('/img/footer-texture.png')",
+      }),
       variants: {
         margin: ['responsive','even','odd','first','last','hover','focus'],
         padding: ['responsive','even','odd','first','last','hover','focus'],

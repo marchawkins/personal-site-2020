@@ -46,7 +46,7 @@ Menu-text:
 
 ----
 
-Date: 2010-11-08 17:30
+Date: 2010-11-08 17:30:00
 
 ----
 
@@ -54,7 +54,9 @@ Tags: modeling, project, railroading, 3d, woodworking
 
 ----
 
-Feature-image: 
+Feature-image:
+
+- 06.jpg
 
 ----
 
