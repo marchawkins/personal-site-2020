@@ -9,7 +9,6 @@
  * More about templates: https://getkirby.com/docs/guide/templates/basics
  */
 ?>
-
 <?php
   global $postsPerPage;
   $postsPerPage = 24;
