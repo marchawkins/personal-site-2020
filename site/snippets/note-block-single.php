@@ -17,7 +17,7 @@
     endif ?>
     <a class="block sm:flex" href="<?= $note->url() ?>" title="Read: <?php echo $note->title() ?>"><img src="<?php echo $imgSrc ?>" alt="<?php echo $note->title() ?>" width="300" class="object-cover h-48 sm:h-48 w-full"></a>
     <h2 class="text-base text-white font-title leading-tight mt-2"><a class="block hover:underline sm:flex" href="<?= $note->url() ?>" title="Read: <?php echo $note->title() ?>"><?php echo $note->title() ?></a></h2>
-    <h3 class="text-xs text-gray-500"><?php echo $note->date()->toDate('l, M jS') ?></h3>
+    <h3 class="text-xs text-gray-500"><?php echo $note->date()->toDate('l, M jS, Y') ?></h3>
 </div>
 
 <?php /*
