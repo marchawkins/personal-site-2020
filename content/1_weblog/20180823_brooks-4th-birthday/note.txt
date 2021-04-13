@@ -1,0 +1,49 @@
+Title: Brooks's 4th Birthday
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+(image: brooks-4th-birthday.jpg)
+
+**B:** "Dad, am I four?"
+
+**Me:** "Yes. Yes, you are."
+
+**B:** "I did it!"
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-08-23 00:00:00
+
+----
+
+Tags: Brooks, birthday
+
+----
+
+Feature-image:
+
+- brooks-4th-birthday.jpg
+
+----
+
+Gallery: 
