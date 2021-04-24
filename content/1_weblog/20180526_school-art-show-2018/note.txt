@@ -1,0 +1,47 @@
+Title: School Art Show 2018
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Art shows at the kids' schools.
+
+{{ gallery }}
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-05-26 00:00:00
+
+----
+
+Tags: Madeline, Megan, Carter, Brooks, art, school
+
+----
+
+Feature-image:
+
+- school-art-show-2018-00010.jpg
+
+----
+
+Gallery:
+
+- photography/school-art-show-2018

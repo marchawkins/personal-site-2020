@@ -1,0 +1,45 @@
+Title: Dungeons and Dragons Prep
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+(image: dungeons-and-dragons-map.jpg)
+
+Might have gone a little overboard in my excitement to DM a Dungeons and Dragons session with my kids.
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-05-28 00:00:00
+
+----
+
+Tags: kids, D&D, Marc
+
+----
+
+Feature-image:
+
+- dungeons-and-dragons-map.jpg
+
+----
+
+Gallery: 

@@ -1,0 +1,45 @@
+Title: Brooks' Last Day of Preschool - 2018
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+(image: brooks-preschool-2yr-finale.jpg)
+
+Brooks' Last Day of Preschool!
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-05-23 00:00:00
+
+----
+
+Tags: Brooks, school
+
+----
+
+Feature-image:
+
+- brooks-preschool-2yr-finale.jpg
+
+----
+
+Gallery: 
