@@ -1,0 +1,45 @@
+Title: Meg at Horse Camp 2018
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+(image: meg-horse-camp.jpg)
+
+Megan at horse camp at (link: https://www.facebook.com/plainbrooke/ text: Plainbrooke Farms).
+
+----
+
+Mymap:
+
+lat: 40.1295463
+lon: -75.6376989
+city: West Vincent Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-08-03 00:00:00
+
+----
+
+Tags: Megan, horse, camp
+
+----
+
+Feature-image:
+
+- meg-horse-camp.jpg
+
+----
+
+Gallery: 

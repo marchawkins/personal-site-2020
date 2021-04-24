@@ -1,0 +1,44 @@
+Title: Adventure Aquarium 2018
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+(image: adventure-aquariam-2018.jpg)
+
+A visit to the (link: https://www.adventureaquarium.com text: Adventure Aquarium) in Camden, NJ, with friends on a summer Friday.
+
+----
+
+Mymap:
+
+lat: 39.9448402
+lon: -75.1198911
+city: Camden
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-07-13 00:00:00
+
+----
+
+Tags: Carter, Brooks, Danielle, Jen, Effie, Izzy, aquarium
+
+----
+
+Feature-image:
+
+- adventure-aquariam-2018.jpg
+
+----
+
+Gallery: 

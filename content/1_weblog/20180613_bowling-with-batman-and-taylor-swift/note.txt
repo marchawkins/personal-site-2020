@@ -1,0 +1,44 @@
+Title: Bowling with Batman and Taylor Swift
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+(image: bowling-with-celebrities.jpg)
+
+Just a typical Wednesday night, bowling with Batman and Taylor Swift. No biggie.
+
+----
+
+Mymap:
+
+lat: 40.0064958
+lon: -75.7032742
+city: Downingtown
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-06-13 00:00:00
+
+----
+
+Tags: Carter, Megan, Madeline, Brooks, Marc, Danielle, family, bowling
+
+----
+
+Feature-image:
+
+- bowling-with-celebrities.jpg
+
+----
+
+Gallery: 
