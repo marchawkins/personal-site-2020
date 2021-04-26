@@ -1,0 +1,45 @@
+Title: Yard Sale 2018
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+(image: yard-sale-2018.jpg)
+
+Carter's contribution to the annual neighborhood yard sale. Well played, son.
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-04-21 00:00:00
+
+----
+
+Tags: Carter, yard sale, design
+
+----
+
+Feature-image:
+
+- yard-sale-2018.jpg
+
+----
+
+Gallery: 

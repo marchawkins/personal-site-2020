@@ -1,0 +1,48 @@
+Title: Meg's First Horse Riding Lesson
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+(image: meg-first-horse-riding-lesson-001.jpg)
+
+Meg's first time on a horse! I have a feeling it's the first of many to come.
+
+(image: meg-first-horse-riding-lesson-002.jpg)
+(image: meg-first-horse-riding-lesson-003.jpg)
+
+----
+
+Mymap:
+
+lat: 40.1295463
+lon: -75.6376989
+city: West Vincent Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-04-07 00:00:00
+
+----
+
+Tags: Meg, horse
+
+----
+
+Feature-image:
+
+- meg-first-horse-riding-lesson-001.jpg
+
+----
+
+Gallery: 

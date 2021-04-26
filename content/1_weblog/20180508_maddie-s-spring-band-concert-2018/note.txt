@@ -1,0 +1,44 @@
+Title: Maddie's Spring Band Concert 2018
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+(image: maddie-spring-concert-2018.jpg)
+
+Front and center, rocking the drums at the school band concert.
+
+----
+
+Mymap:
+
+lat: 40.0455398
+lon: '-75.660420233683'
+city: Uwchlan Township
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-05-08 00:00:00
+
+----
+
+Tags: Madeline, school, music, drums
+
+----
+
+Feature-image:
+
+- maddie-spring-concert-2018.jpg
+
+----
+
+Gallery: 

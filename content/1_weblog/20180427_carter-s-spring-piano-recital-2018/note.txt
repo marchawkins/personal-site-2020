@@ -1,0 +1,45 @@
+Title: Carter's Spring Piano Recital 2018
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+(videoself: carter-piano-recital-spring-2018.mp4 width:100% height:100% class:video-post poster: carter-piano-recital-spring-2018.jpg title:Carter at his piano recital caption: Carter at his piano recital)
+
+Carter's piano recital at (link: https://valottastudios.com/ text: Valotta Studios).
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-04-27 00:00:00
+
+----
+
+Tags: Carter, piano, music, concert
+
+----
+
+Feature-image:
+
+- carter-piano-recital-april-27-2018.jpg
+
+----
+
+Gallery: 

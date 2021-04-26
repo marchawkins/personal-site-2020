@@ -1,0 +1,45 @@
+Title: Twins' First Day of 4th Grade
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+(image: carter-megan-4th-grade.jpg)
+
+Carter and Megan's first day of 4th grade.
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-08-27 00:00:00
+
+----
+
+Tags: Carter, Megan, school
+
+----
+
+Feature-image:
+
+- carter-megan-4th-grade.jpg
+
+----
+
+Gallery: 

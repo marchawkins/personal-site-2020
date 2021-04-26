@@ -1,0 +1,44 @@
+Title: End of Summer Water Ice
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+(image: chong-hawkins-ritas-summer-2018.jpg)
+
+Closing out summer with one last trip to Rita's with friends.
+
+----
+
+Mymap:
+
+lat: 40.0064958
+lon: -75.7032742
+city: Downingtown
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-09-02 00:00:00
+
+----
+
+Tags: Carter, Megan, Madeline, Brooks, Effie, Izzy, friends, water ice
+
+----
+
+Feature-image:
+
+- chong-hawkins-ritas-summer-2018.jpg
+
+----
+
+Gallery: 

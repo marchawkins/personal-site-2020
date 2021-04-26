@@ -1,0 +1,44 @@
+Title: Incredibles 2
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+(image: incredibles-2-movie.jpg)
+
+Checking out Incredibles 2 with the family.
+
+----
+
+Mymap:
+
+lat: 40.0064958
+lon: -75.7032742
+city: Downingtown
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-05-12 00:00:00
+
+----
+
+Tags: Madeline, Megan, Carter, Brooks, movies
+
+----
+
+Feature-image:
+
+- incredibles-2-movie.jpg
+
+----
+
+Gallery: 

@@ -1,0 +1,44 @@
+Title: Maddie's 7th Grade Dance
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+(image: maddie-7th-grade-dance-2018.jpg)
+
+Am I the only one that absolutely hates this idea? Everyone else seems thrilled...
+
+----
+
+Mymap:
+
+lat: 40.0455398
+lon: '-75.660420233683'
+city: Uwchlan Township
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-03-23 00:00:00
+
+----
+
+Tags: Madeline, dance
+
+----
+
+Feature-image:
+
+- maddie-7th-grade-dance-2018.jpg
+
+----
+
+Gallery: 

@@ -1,0 +1,45 @@
+Title: Runnin' in the Rain
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Pounded out my second 5k at the (link: http://byersstation5k.com text: Byers Station 5k) in the **pouring** rain. Seriously. (link: https://www.wunderground.com/history/daily/KOQN/date/2018-5-19?req_city=Chester%20Springs&req_state=PA&req_statename=Pennsylvania&reqdb.zip=19425&reqdb.magic=1&reqdb.wmo=99999 text: This sucked).
+
+(image: byers-5k-2018.jpg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-05-19 00:00:00
+
+----
+
+Tags: Marc, run, 5k, rain
+
+----
+
+Feature-image:
+
+- byers-5k-2018.jpg
+
+----
+
+Gallery: 

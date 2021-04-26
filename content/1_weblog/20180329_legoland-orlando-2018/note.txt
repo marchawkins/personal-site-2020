@@ -1,0 +1,46 @@
+Title: Legoland Orlando 2018
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Finished up our Florida vacation with a stop at Legoland in Orlando.
+
+{{ gallery }}
+
+----
+
+Mymap:
+
+lat: 28.5421109
+lon: -81.3790304
+city: Orlando
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-03-29 00:00:00
+
+----
+
+Tags: family, vacation, Lego
+
+----
+
+Feature-image:
+
+- legoland-orlando-vacation-2018-00004.jpg
+
+----
+
+Gallery:
+
+- photography/legoland-orlando-2018
