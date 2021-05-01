@@ -68,9 +68,15 @@
 
   </article>
   
-  <nav class="text-xl my-2">
-    <ul class="flex justify-center">
+  <nav class="mx-auto max-w-4xl text-xl my-2">
+    <ul class="flex justify-between">
+      <?php if ($page->hasPrev()): ?>
+        <li class="text-terminal font-mono uppercase"><a href="<?= $page->prev()->url() ?>" title="Check out the previous post">&laquo; previous</a></li>
+      <?php endif ?>
       <li class="text-terminal font-mono uppercase"><a href="/weblog" title="Go back to the weblog">Back to weblog</a></li>
+      <?php if ($page->hasNext()): ?>
+        <li class="text-terminal font-mono uppercase"><a href="<?= $page->next()->url() ?>" title="Check out the next post">next &raquo;</a>
+      <?php endif ?>
     </ul>
   </nav>
 
