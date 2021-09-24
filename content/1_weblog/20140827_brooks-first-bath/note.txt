@@ -1,0 +1,48 @@
+Title: Brooks First Bath
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+B's first bath, and he is not having a good time. Luckily big sis was available for a little post-bath snuggle.
+
+(image: 2014-08-27-first-bath-01.jpeg)
+(image: 2014-08-27-first-bath-02.jpeg)
+(image: 2014-08-27-first-bath-03.jpeg)
+(image: 2014-08-27-first-bath-04.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2014-08-27 00:00:00
+
+----
+
+Tags: Brooks, Maddie, bath
+
+----
+
+Feature-image:
+
+- 2014-08-27-first-bath-03.jpeg
+
+----
+
+Gallery: 

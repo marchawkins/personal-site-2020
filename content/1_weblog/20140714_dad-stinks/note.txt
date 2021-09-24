@@ -1,0 +1,47 @@
+Title: Dad Stinks
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Thanks, kids.
+
+(image: 2014-07-21-sidewalk-chalk.jpeg)
+(image: 2014-07-21-hoops-01.jpeg)
+(image: 2014-07-21-hoops-02.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2014-07-14 00:00:00
+
+----
+
+Tags: Carter, Megan, Maddie
+
+----
+
+Feature-image:
+
+- 2014-07-21-sidewalk-chalk.jpeg
+
+----
+
+Gallery: 

@@ -1,0 +1,45 @@
+Title: Kayaks at Marsh Creek
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+A little Labor Day fun at Marsh Creek State Park with Tom and Deb, who took Maddie on her first kayak on the lake!
+
+(image: 2014-08-30-marsh-creek-01.jpeg)
+(image: 2014-08-30-marsh-creek-02.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.06672045
+lon: '-75.72912889633'
+city: Upper Uwchlan Township
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2014-08-30 00:00:00
+
+----
+
+Tags: Maddie, Labor Day
+
+----
+
+Feature-image:
+
+- 2014-08-30-marsh-creek-02.jpeg
+
+----
+
+Gallery: 

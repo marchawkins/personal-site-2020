@@ -1,0 +1,45 @@
+Title: Proud Big Brother
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Carter, the smiling, proud, big brother with the little guy, Brooks.
+
+(image: 2014-09-04-big-brother.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2014-09-04 00:00:00
+
+----
+
+Tags: Carter, Brooks
+
+----
+
+Feature-image:
+
+- 2014-09-04-big-brother.jpeg
+
+----
+
+Gallery: 

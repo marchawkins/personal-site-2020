@@ -1,0 +1,45 @@
+Title: Ham Radio License Acquired
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+(image: 2014-07-25-ham-radio-license.jpeg)
+
+When all else fails, ham radio works. (link: https://kc3dfx.com text: https://kc3dfx.com)
+
+----
+
+Mymap:
+
+lat: 40.1303822
+lon: -75.5149128
+city: Phoenixville
+country: United States
+postcode: "19460"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2014-07-25 00:00:00
+
+----
+
+Tags: Marc, Ham Radio
+
+----
+
+Feature-image:
+
+- 2014-07-25-ham-radio-license.jpeg
+
+----
+
+Gallery: 
