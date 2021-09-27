@@ -1,0 +1,48 @@
+Title: Highland Orchards
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Annual trip to Highland Orchards for apples, donuts, and too many other snacks.
+
+(image: img_0053.jpeg)
+(image: img_0056.jpeg)
+(image: img_0057.jpeg)
+
+----
+
+Mymap:
+
+lat: 39.9610488
+lon: -75.697764
+city: West Bradford Township
+country: United States
+postcode: "19380"
+address: Marshallton Thorndale Road
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2014-09-20 00:00:00
+
+----
+
+Tags: Megan, Carter, Maddie, fall
+
+----
+
+Feature-image:
+
+- img_0053.jpeg
+
+----
+
+Gallery: 

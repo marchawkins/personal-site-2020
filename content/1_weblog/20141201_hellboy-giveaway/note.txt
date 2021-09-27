@@ -1,0 +1,48 @@
+Title: Hellboy Giveaway
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Winner winner. I was luck enough to win this awesome set of Hellboy stuff from work. Just arrived today.
+
+(image: img_0339.jpeg)
+(image: img_0340.jpeg)
+(image: img_0341.jpeg)
+(image: img_0342.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2014-12-01 00:00:00
+
+----
+
+Tags: Hellboy, Sideshow, Home office
+
+----
+
+Feature-image:
+
+- img_0339.jpeg
+
+----
+
+Gallery: 

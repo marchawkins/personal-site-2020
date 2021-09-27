@@ -1,0 +1,45 @@
+Title: Chemtrails are a thing
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Move along. Nothing to see here. This is completely natural. Might not want to breath too deep.
+
+(image: 2014-12-27-chemtrails.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2014-12-27 00:00:00
+
+----
+
+Tags: Chemtrails, Conspiracy
+
+----
+
+Feature-image:
+
+- 2014-12-27-chemtrails-thumb.jpg
+
+----
+
+Gallery: 

@@ -1,0 +1,39 @@
+Title: Happy birthday, Momma!
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Happy birthday, Momma! Celebrating with a birthday dinner at (link: https://www.limoncellorestaurant.com/ text: Limoncello's). Delicious as always.
+
+(image: 2014-10-17-moms-birthday.jpeg)
+
+----
+
+Mymap: 
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2014-10-17 00:00:00
+
+----
+
+Tags: Danielle, birthday, Megan, Brooks
+
+----
+
+Feature-image:
+
+- 2014-10-17-moms-birthday.jpeg
+
+----
+
+Gallery: 

@@ -1,0 +1,44 @@
+Title: Brooks meets great-grammy
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Brooks meeting Great-Grammy Kate for the first time.
+
+(image: 2014-11-12-brooks-great-grammy-kate.jpeg)
+
+----
+
+Mymap:
+
+lat: 41.20484
+lon: -76.7870991
+city: Muncy
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2014-11-12 00:00:00
+
+----
+
+Tags: Brooks, Grammy Kate
+
+----
+
+Feature-image:
+
+- 2014-11-12-brooks-great-grammy-kate.jpeg
+
+----
+
+Gallery: 

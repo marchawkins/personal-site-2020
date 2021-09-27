@@ -1,0 +1,44 @@
+Title: Chuck e cheese Excitement
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+I can assure you this ride is not as exciting as it looks in the photo.
+
+(image: 2014-11-02-carter-chucky-cheese.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0064958
+lon: -75.7032742
+city: Downingtown
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2014-11-02 00:00:00
+
+----
+
+Tags: Carter, birthday
+
+----
+
+Feature-image:
+
+- 2014-11-02-carter-chucky-cheese.jpeg
+
+----
+
+Gallery: 

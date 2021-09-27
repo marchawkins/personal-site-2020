@@ -1,0 +1,47 @@
+Title: Halloween 2014
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Halloween line-up for 2014: Mario, Anna and Elsa and the cutest damn candy corn ever!
+
+{{ gallery }}
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2014-10-31 00:00:00
+
+----
+
+Tags: Maddie, Megan, Carter, Brooks, Halloween
+
+----
+
+Feature-image:
+
+- img_0227.jpeg
+
+----
+
+Gallery:
+
+- photography/halloween-2014

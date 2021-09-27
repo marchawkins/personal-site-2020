@@ -1,0 +1,41 @@
+Title: Babbling with Mom
+
+----
+
+Excerpt-text: 
+
+----
+
+Text: (videoself: 2014-11-21-brooks-babble.mp4 width:100% height:100% class:video-post poster: 2014-11-21-brooks-babble.jpg title:Babbling with Mom caption:Babbling with Mom)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2014-11-21 00:00:00
+
+----
+
+Tags: Brooks, Danielle
+
+----
+
+Feature-image:
+
+- 2014-11-21-brooks-babble.jpg
+
+----
+
+Gallery: 

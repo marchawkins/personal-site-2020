@@ -1,0 +1,45 @@
+Title: Brooks at 3 months
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Brooks at 3 months old!
+
+(image: 2014-12-07-brooks-3-months.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2014-12-07 00:00:00
+
+----
+
+Tags: Brooks
+
+----
+
+Feature-image:
+
+- 2014-12-07-brooks-3-months.jpeg
+
+----
+
+Gallery: 

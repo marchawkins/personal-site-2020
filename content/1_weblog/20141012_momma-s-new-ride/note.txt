@@ -1,0 +1,47 @@
+Title: Momma's new ride
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Momma got a new ride - a Nissan Armada. Needed something to fit our now family of six(!). Brooks approves.
+
+(image: 2014-10-12-new-armada.jpeg)
+(image: 2014-10-12-new-armada-danielle.jpeg)
+(image: 2014-10-12-new-armada-brooks.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.02985865
+lon: '-75.628977638473'
+city: West Whiteland Township
+country: United States
+postcode: "19341"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2014-10-12 00:00:00
+
+----
+
+Tags: Danielle, Brooks, Armada, car
+
+----
+
+Feature-image:
+
+- 2014-10-12-new-armada-danielle.jpeg
+
+----
+
+Gallery: 

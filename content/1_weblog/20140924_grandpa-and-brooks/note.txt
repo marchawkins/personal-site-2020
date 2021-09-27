@@ -1,0 +1,45 @@
+Title: Grandpa and Brooks
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Brooks taking a snooze on Grandpa.
+
+(image: 2014-09-24-grandpa-brooks.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2014-09-24 00:00:00
+
+----
+
+Tags: Brooks, Grandpa
+
+----
+
+Feature-image:
+
+- 2014-09-24-grandpa-brooks.jpeg
+
+----
+
+Gallery: 

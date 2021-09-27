@@ -1,0 +1,45 @@
+Title: Brooks and Clark stare down
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+The boys have a little staring contest.
+
+(image: 2014-11-14-brooks-clark.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2014-11-15 00:00:00
+
+----
+
+Tags: Brooks, Clark
+
+----
+
+Feature-image:
+
+- 2014-11-14-brooks-clark.jpeg
+
+----
+
+Gallery: 

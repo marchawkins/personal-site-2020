@@ -1,0 +1,45 @@
+Title: Thanksgiving 2014
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Celebrating Thanksgiving at Nana and Grandpa's house. Brooks' first!
+
+(image: 2014-11-27-thanksgiving-kids.jpeg)
+(image: 2014-11-27-thanksgiving-brooks.jpeg)
+
+----
+
+Mymap:
+
+lat: 32.1522075
+lon: '-86.704201118839'
+city: Gordonville
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2014-11-27 00:00:00
+
+----
+
+Tags: Maddie, Brooks, Megan, Carter, Grammy, Thanksgiving
+
+----
+
+Feature-image:
+
+- 2014-11-27-thanksgiving-kids.jpeg
+
+----
+
+Gallery: 

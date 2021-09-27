@@ -1,0 +1,45 @@
+Title: Brooks at 2 months
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Brooks at two months old!
+
+(image: 2014-10-26-brooks-2-months.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2014-10-26 00:00:00
+
+----
+
+Tags: Brooks
+
+----
+
+Feature-image:
+
+- 2014-10-26-brooks-2-months.jpeg
+
+----
+
+Gallery: 
