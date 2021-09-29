@@ -1,0 +1,46 @@
+Title: Zac and Miquela's Wedding
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Congratulations to my nephew, Zac, and his new wife Miquela. Great time had by all, including the flower girl. Also Brooks' first big family function. Obviously, he was wiped out from the big event.
+
+{{ gallery }}
+
+----
+
+Mymap:
+
+lat: 40.2854881
+lon: -76.6506001
+city: Hershey
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2014-09-20 00:00:00
+
+----
+
+Tags: Marc, Danielle, Maddie, Megan, Carter, Brooks, Zac, Miquela, wedding
+
+----
+
+Feature-image:
+
+- img_0017.jpeg
+
+----
+
+Gallery:
+
+- photography/zac-miquela-wedding

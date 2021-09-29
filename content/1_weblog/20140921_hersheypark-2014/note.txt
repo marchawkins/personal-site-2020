@@ -1,0 +1,49 @@
+Title: Hersheypark 2014
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Family trip to (link: https://www.hersheypark.com text: Hersheypark)!
+
+(image: img_0059.jpeg)
+(image: img_0060.jpeg)
+(image: img_0062.jpeg)
+(image: img_0064.jpeg)
+(image: img_0068.jpeg)
+(image: img_0077.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.2854881
+lon: -76.6506001
+city: Hershey
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2014-09-21 00:00:00
+
+----
+
+Tags: Maddie, Megan, Carter, Brooks, Hersheypark
+
+----
+
+Feature-image:
+
+- img_0077.jpeg
+
+----
+
+Gallery: 

@@ -1,0 +1,48 @@
+Title: Greater Philly Comic-Con 2014
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Hit up the (link: http://www.philadelphiacomiccon.com text: Greater Philadelphia Comic-Con) this weekend. Best find of the day was a replica of One-Eyed Willy's key to the treasure.
+
+{{ gallery }}
+
+----
+
+Mymap:
+
+lat: 40.1317722
+lon: -75.4596319
+city: Upper Providence Township
+country: United States
+postcode: "19456"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2014-09-28 00:00:00
+
+----
+
+Tags: Marc, Comic-Con, collectibles
+
+----
+
+Feature-image:
+
+- img_0099.jpeg
+
+----
+
+Gallery:
+
+- >
+  photography/greater-philadelphia-comic-con-2014

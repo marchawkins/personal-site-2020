@@ -10,6 +10,8 @@ Text:
 
 Fall 2014 soccer season with the Maddie, Megan and Carter.
 
+(videoself: carter-soccer.mp4 width:100% height:100% class:video-post poster: carter-soccer.jpg title:Carter playing soccer caption:Carter playing soccer)
+
 {{ gallery }}
 
 ----
@@ -17,7 +19,7 @@ Fall 2014 soccer season with the Maddie, Megan and Carter.
 Mymap:
 
 lat: 40.0455398
-lon: '-75.660420410461'
+lon: "-75.660420410461"
 city: Uwchlan Township
 country: United States
 

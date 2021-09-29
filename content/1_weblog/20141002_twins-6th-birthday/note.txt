@@ -1,0 +1,51 @@
+Title: Twins 6th Birthday
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Celebrating the twins 6th birthday today. Treated Meg to Red Robin after dance class for birthday sundae.
+
+(videoself: meg-red-robin-2.mp4 width:100% height:100% class:video-post poster: meg-red-robin-2.jpg title:Meg at Red Robin caption:Meg at Red Robin)
+
+(videoself: twins-cake.mp4 width:100% height:100% class:video-post poster: twins-cake.jpg title:Twins birthday cake caption:Twins birthday cake)
+
+{{ gallery }}
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2014-10-02 00:00:00
+
+----
+
+Tags: Carter, Megan, Birthday
+
+----
+
+Feature-image:
+
+- img_0124.jpeg
+
+----
+
+Gallery:
+
+- photography/twins-6th-birthday

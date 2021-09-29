@@ -1,0 +1,47 @@
+Title: Brooks has arrived
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Brooks has arrived! Weighing in at a healthy 7.2lbs. Momma and baby are doing great!
+
+{{ gallery }}
+
+----
+
+Mymap:
+
+lat: 40.040739
+lon: "-75.492844494814"
+city: Tredyffrin Township
+country: United States
+postcode: "19301"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2014-08-23 00:00:00
+
+----
+
+Tags: Brooks, Danielle
+
+----
+
+Feature-image:
+
+- img_0843.jpeg
+
+----
+
+Gallery:
+
+- photography/brooks-has-arrived
