@@ -1,0 +1,45 @@
+Title: Carter's 1st Grade School Photo
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+This one's a keeper. Happy 1st grade.
+
+(image: 2015-04-11-carter-school-photo.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-04-11 00:00:00
+
+----
+
+Tags: Carter, school
+
+----
+
+Feature-image:
+
+- 2015-04-11-carter-school-photo.jpeg
+
+----
+
+Gallery: 

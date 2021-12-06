@@ -1,0 +1,45 @@
+Title: Kids Winter Portrait 2015
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Finally got all the kids to take a photo and actually LOOK AT THE CAMERA. Merry freakin' Christmas, a month later.
+
+(image: 2015-01-30-winter-portrait.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.02985865
+lon: '-75.628977638473'
+city: West Whiteland Township
+country: United States
+postcode: "19341"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-01-30 00:00:00
+
+----
+
+Tags: Maddie, Megan, Carter, Brooks, portrait, family
+
+----
+
+Feature-image:
+
+- 2015-01-30-winter-portrait.jpeg
+
+----
+
+Gallery: 

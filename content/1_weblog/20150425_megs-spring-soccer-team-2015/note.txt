@@ -1,0 +1,45 @@
+Title: Meg's Spring Soccer Team 2015
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Meg's first soccer team - the Bluebirds. Shout out to my old buddy, Coach Mike (far left). 
+
+(image: 2015-04-25-meg-spring-soccer.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-04-25 00:00:00
+
+----
+
+Tags: Megan, soccer, Mike Vanemon
+
+----
+
+Feature-image:
+
+- 2015-04-25-meg-spring-soccer.jpeg
+
+----
+
+Gallery: 

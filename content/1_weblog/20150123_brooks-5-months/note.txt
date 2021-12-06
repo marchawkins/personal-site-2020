@@ -1,0 +1,45 @@
+Title: Brooks - 5 Months
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+(image: 2015-01-23-001.jpeg)
+(image: 2015-01-23-002.jpeg)
+(image: 2015-01-25-brooks-5-months.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-01-23 00:00:00
+
+----
+
+Tags: Brooks
+
+----
+
+Feature-image:
+
+- 2015-01-23-001.jpeg
+
+----
+
+Gallery: 

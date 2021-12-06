@@ -1,0 +1,44 @@
+Title: Jerry Seinfeld on Tour
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Mad that this was the best photo, but we could only find tickets for the cheap seats. Great night out with Danielle to see Jerry Seinfeld in Philly.
+
+(image: 2015-02-20-seinfeld.jpeg)
+
+----
+
+Mymap:
+
+lat: 39.9527237
+lon: -75.1635262
+city: Philadelphia
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2021-12-06 00:00:00
+
+----
+
+Tags: Jerry Seinfeld, Danielle, comedy
+
+----
+
+Feature-image:
+
+- 2015-02-20-seinfeld.jpeg
+
+----
+
+Gallery: 

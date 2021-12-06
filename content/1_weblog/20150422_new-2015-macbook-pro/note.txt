@@ -1,0 +1,41 @@
+Title: New 2015 MacBook Pro
+
+----
+
+Excerpt-text: 
+
+----
+
+Text: (image: 2015-04-22-new-macbook-pro.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-04-22 00:00:00
+
+----
+
+Tags: office, Apple, MacbookPro
+
+----
+
+Feature-image:
+
+- 2015-04-22-new-macbook-pro.jpeg
+
+----
+
+Gallery: 

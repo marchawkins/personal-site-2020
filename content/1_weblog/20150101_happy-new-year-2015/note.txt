@@ -1,0 +1,41 @@
+Title: Happy New Year 2015
+
+----
+
+Excerpt-text: 
+
+----
+
+Text: (image: 2015-01-01-brooks-meg-new-year.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-01-01 00:00:00
+
+----
+
+Tags: Megan, Brooks
+
+----
+
+Feature-image:
+
+- 2015-01-01-brooks-meg-new-year.jpeg
+
+----
+
+Gallery: 

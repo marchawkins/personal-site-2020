@@ -1,0 +1,45 @@
+Title: Coloring Eggs for Easter 2015
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Dying Easter eggs with our friend (and neighbor), Tori.
+
+(image: 2015-04-04-egg-dye.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-04-04 00:00:00
+
+----
+
+Tags: Megan, Maddie, Tori, Easter
+
+----
+
+Feature-image:
+
+- 2015-04-04-egg-dye.jpeg
+
+----
+
+Gallery: 

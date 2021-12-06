@@ -1,0 +1,47 @@
+Title: Brooks - 6 Months
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+(image: 2015-02-28-brooks-6mos.jpeg)
+
+(image: 2015-02-26.jpeg)
+
+He still sleeps with this blanket to this day (as of Dec. 2021).
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-02-26 00:00:00
+
+----
+
+Tags: Brooks
+
+----
+
+Feature-image:
+
+- 2015-02-28-brooks-6mos.jpeg
+
+----
+
+Gallery: 

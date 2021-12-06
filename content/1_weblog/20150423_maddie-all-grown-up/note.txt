@@ -1,0 +1,45 @@
+Title: Maddie - All Grown Up
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+All grown up and showing off her new outfit. Oh, little Maddie :-(
+
+(image: 2015-04-23-maddie.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-04-23 00:00:00
+
+----
+
+Tags: Maddie
+
+----
+
+Feature-image:
+
+- 2015-04-23-maddie.jpeg
+
+----
+
+Gallery: 
