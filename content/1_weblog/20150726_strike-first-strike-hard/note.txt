@@ -1,0 +1,49 @@
+Title: Strike First. Strike Hard.
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Maddie, Carter and Megan went to a karate-themed birthday party this weekend.
+
+(videoself: 2015-07-26-karate-party1.mp4 width:100% height:100% class:video-post poster: 2015-07-26-karate-party1.jpg title:Strike First caption: Strike First)
+
+(videoself: 2015-07-26-karate-party2.mp4 width:100% height:100% class:video-post poster: 2015-07-26-karate-party2.jpg title:Strike Hard caption: Strike Hard)
+
+(videoself: 2015-07-26-karate-party3.mp4 width:100% height:100% class:video-post poster: 2015-07-26-karate-party3.jpg title:No Mercy caption: No Mercy)
+
+----
+
+Mymap:
+
+lat: 40.02985865
+lon: '-75.628977638473'
+city: West Whiteland Township
+country: United States
+postcode: "19341"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-07-26 00:00:00
+
+----
+
+Tags: Maddie, Megan, Carter, karate, birthday
+
+----
+
+Feature-image:
+
+- 2015-07-26-karate-party1.jpg
+
+----
+
+Gallery: 
