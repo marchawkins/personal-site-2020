@@ -1,0 +1,44 @@
+Title: Jurassic Target
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+(image: 2015-06-20-carter.jpeg)
+(image: 2015-06-20-meg.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.02985865
+lon: '-75.628977638473'
+city: West Whiteland Township
+country: United States
+postcode: "19341"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-06-20 00:00:00
+
+----
+
+Tags: Megan, Carter, dinosaurs, Target
+
+----
+
+Feature-image:
+
+- 2015-06-20-carter.jpeg
+
+----
+
+Gallery: 

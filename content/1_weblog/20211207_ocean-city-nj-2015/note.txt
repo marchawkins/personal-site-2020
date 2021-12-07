@@ -1,0 +1,50 @@
+Title: Ocean City, NJ 2015
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Annual family vacation to Ocean City, NJ. Lots of fun, sun and great food. Even brought along everyone's favorite cousin, Alexandra, to help wrangle all the kids.
+
+(videoself: IMG_1291.mp4 width:100% height:100% class:video-post poster: IMG_1291.jpg title:Go Kart Racing caption: Go Kart Racing)
+
+(videoself: IMG_1369.mp4 width:100% height:100% class:video-post poster: IMG_1369.jpg title:The Double Shot caption: The Double Shot)
+
+{{ gallery }}
+
+----
+
+Mymap:
+
+lat: 39.2776156
+lon: -74.5746001
+city: Ocean City
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2021-12-07 00:00:00
+
+----
+
+Tags: Maddie, Megan, Carter, Brooks, Danielle, Marc, Alexandra, vacation, beach
+
+----
+
+Feature-image:
+
+- img_1345.jpeg
+
+----
+
+Gallery:
+
+- photography/ocean-city-nj-2015

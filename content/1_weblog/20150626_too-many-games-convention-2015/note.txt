@@ -1,0 +1,46 @@
+Title: Too Many Games Convention 2015
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Took Carter to his first convention - (link: https://toomanygames.com text: Too Many Games). Lots of good stuff, and a surprising number of cosplayers.
+
+(image: 2015-06-26-too-many-games1.jpeg)
+(image: 2015-06-26-too-many-games2.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.1317722
+lon: -75.4596319
+city: Upper Providence Township
+country: United States
+postcode: "19456"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-06-26 00:00:00
+
+----
+
+Tags: Carter, Marc, convention, video games, Scorpion, Mario, Mortal Kombat, Nintendo
+
+----
+
+Feature-image:
+
+- 2015-06-26-too-many-games2.jpeg
+
+----
+
+Gallery: 
