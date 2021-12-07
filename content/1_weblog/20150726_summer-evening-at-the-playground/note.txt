@@ -1,0 +1,41 @@
+Title: Summer Evening at the Playground
+
+----
+
+Excerpt-text: 
+
+----
+
+Text: (image: 2015-07-26-kids.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-07-26 00:00:00
+
+----
+
+Tags: Maddie, Megan, Carter, playground, summer
+
+----
+
+Feature-image:
+
+- 2015-07-26-kids.jpeg
+
+----
+
+Gallery: 

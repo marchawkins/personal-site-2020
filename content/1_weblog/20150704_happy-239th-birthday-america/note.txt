@@ -1,0 +1,44 @@
+Title: Happy 239th Birthday, America.
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+We are a patriotic bunch.
+
+(image: 2015-07-04-july4-kids.jpeg)
+(image: 2015-07-04-july4-popsicles.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-07-04 00:00:00
+
+----
+
+Tags: Maddie, Megan, Carter, Brooks
+
+----
+
+Feature-image: 
+
+----
+
+Gallery: 

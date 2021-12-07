@@ -1,0 +1,45 @@
+Title: Splish Splash
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Brooks chilling at the pool, and doing a little splashing.
+
+(image: 2015-07-11-swimming.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-07-11 00:00:00
+
+----
+
+Tags: Brooks, Danielle, swimming
+
+----
+
+Feature-image:
+
+- 2015-07-11-swimming.jpeg
+
+----
+
+Gallery: 

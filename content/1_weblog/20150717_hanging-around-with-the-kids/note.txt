@@ -1,0 +1,47 @@
+Title: Hanging Around with the Kids
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Took the twins to the mall, bummed around and finished off with pancakes for dinner.
+
+(image: 2015-07-17-kids1.jpeg)
+(image: 2015-07-17-kids2.jpeg)
+(image: 2015-07-17-kids3.jpeg)
+(image: 2015-07-17-kids4.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.09476245
+lon: '-75.385133356342'
+city: Upper Merion Township
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-07-17 00:00:00
+
+----
+
+Tags: Carter, Megan, Brooks
+
+----
+
+Feature-image:
+
+- 2015-07-17-kids3.jpeg
+
+----
+
+Gallery: 
