@@ -1,0 +1,45 @@
+Title: School Photos 2015
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+All dressed up for the annual spring school photo shoot. Maddie (4th grade), Carter and Megan (1st grade).  
+
+(image: 2015-05-20-school-photos.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-05-20 00:00:00
+
+----
+
+Tags: Maddie, Megan, Carter, school
+
+----
+
+Feature-image:
+
+- 2015-05-20-school-photos.jpeg
+
+----
+
+Gallery: 

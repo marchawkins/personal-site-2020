@@ -1,0 +1,48 @@
+Title: Pickering Valley Spring Fair 2015
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Annual Spring Fair at Pickering Valley Elementary.
+
+(image: 2015-05-08-pve-fair1.jpeg)
+(image: 2015-05-08-pve-fair2.jpeg)
+(image: 2015-05-08-pve-fair3.jpeg)
+(image: 2015-05-08-pve-fair4.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-05-08 00:00:00
+
+----
+
+Tags: Carter, Megan, fair, Pickering Valley Elementary
+
+----
+
+Feature-image:
+
+- 2015-05-08-pve-fair1.jpeg
+
+----
+
+Gallery: 

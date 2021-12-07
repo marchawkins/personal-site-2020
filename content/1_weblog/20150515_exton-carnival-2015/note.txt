@@ -1,0 +1,47 @@
+Title: Exton Carnival 2015
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Who does love a good old carnival - Fried all the things? Check. Rides that might kill you? Check. 400lb carnies? Check.
+
+{{ gallery }}
+
+----
+
+Mymap:
+
+lat: 40.02985865
+lon: '-75.628977638473'
+city: West Whiteland Township
+country: United States
+postcode: "19341"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-05-15 00:00:00
+
+----
+
+Tags: Maddie, Megan, Carter, carnival, family
+
+----
+
+Feature-image:
+
+- img_1177.jpeg
+
+----
+
+Gallery:
+
+- photography/exton-carnival-2015

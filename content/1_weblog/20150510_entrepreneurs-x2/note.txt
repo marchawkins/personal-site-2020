@@ -1,0 +1,45 @@
+Title: Entrepreneurs (x2)
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Twins trying to make some dough at the neighborhood yard sale. Spoiler alert - the cost to make the lemonade far outweighed the profits.
+
+(image: 2015-05-10-lemonade.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-05-10 00:00:00
+
+----
+
+Tags: Carter, Megan, yard sale
+
+----
+
+Feature-image:
+
+- 2015-05-10-lemonade.jpeg
+
+----
+
+Gallery: 

@@ -1,0 +1,45 @@
+Title: Me and Meg at the Mall
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Me and Meg grabbing lunch at the Mall food court.
+
+(image: 2015-05-07-meg-mall.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.02985865
+lon: '-75.628977638473'
+city: West Whiteland Township
+country: United States
+postcode: "19341"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-05-07 00:00:00
+
+----
+
+Tags: Megan, Marc, mall, lunch
+
+----
+
+Feature-image:
+
+- 2015-05-07-meg-mall.jpeg
+
+----
+
+Gallery: 
