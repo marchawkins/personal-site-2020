@@ -1,0 +1,49 @@
+Title: Christmas Photos 2015
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Merry Christmas, from our family to yours!
+
+(image: 2015-11-29-family-xmas-2015.jpeg)
+(image: 2015-11-29-kids-christmas-2015.jpeg)
+(image: 2015-11-29-kids-xmas-2015-card.jpeg)
+(image: 2015-11-29-kids-xmas-2015.jpeg)
+(image: 2015-11-29-kids-xmas-2015-grammy.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.02985865
+lon: '-75.628977638473'
+city: West Whiteland Township
+country: United States
+postcode: "19341"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-11-29 00:00:00
+
+----
+
+Tags: Christmas, Maddie, Megan, Carter, Brooks, Marc, Danielle, Grammy
+
+----
+
+Feature-image:
+
+- 2015-11-29-family-xmas-2015.jpeg
+
+----
+
+Gallery: 

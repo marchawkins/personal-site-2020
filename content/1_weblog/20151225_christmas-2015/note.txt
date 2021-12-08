@@ -1,0 +1,48 @@
+Title: Christmas 2015
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+(image: 2015-12-20-santa.jpeg)
+(image: 2015-12-24-xmas1.jpeg)
+(image: 2015-12-24-xmas2.jpeg)
+(image: 2015-12-25-xmas.jpeg)
+(image: 2015-12-24-xmas3.jpeg)
+(image: 2015-12-25-juniors.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-12-25 00:00:00
+
+----
+
+Tags: Maddie, Megan, Carter, Brooks, Santa, Christmas, Clark
+
+----
+
+Feature-image:
+
+- 2015-12-25-xmas.jpeg
+
+----
+
+Gallery: 

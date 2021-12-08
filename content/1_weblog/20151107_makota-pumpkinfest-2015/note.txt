@@ -1,0 +1,55 @@
+Title: Makota Pumpkinfest 2015
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Took the kids to the annual Pumpkinfest put on by (link: http://www.makotoway.com text: Makoto Martial Arts Studio). We always have a great time at this event - pie eating contest, chili cook-off, magicians, face painting, free beer, pumpkin catapults, tug-of-war and more. Did I mention the free beer?
+
+(image: 2015-11-07-pumpkinfest1.jpeg)
+(image: 2015-11-07-pumpkinfest2.jpeg)
+(image: 2015-11-07-pumpkinfest3.jpeg)
+(image: 2015-11-07-pumpkinfest4.jpeg)
+(image: 2015-11-07-pumpkinfest5.jpeg)
+(image: 2015-11-07-pumpkinfest7.jpeg)
+(image: 2015-11-07-pumpkinfest8.jpeg)
+(image: 2015-11-07-pumpkinfest9.jpeg)
+
+(videoself: 2015-11-07-pumpkinfest6.mp4 width:100% height:100% class:video-post poster: 2015-11-07-pumpkinfest6.jpg title:Pumpkin Chuckin caption: Pumpkin Chuckin)
+
+(videoself: 2015-11-07-pumpkinfest9a.mp4 width:100% height:100% class:video-post poster: 2015-11-07-pumpkinfest9a.jpg title:Tug-of-War competition caption: Tug-of-War competition)
+
+----
+
+Mymap:
+
+lat: 40.0064958
+lon: -75.7032742
+city: Downingtown
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-11-07 00:00:00
+
+----
+
+Tags: Makota, Maddie, Carter, Pumpkinfest, Megan, karate
+
+----
+
+Feature-image:
+
+- 2015-11-07-pumpkinfest8.jpeg
+
+----
+
+Gallery: 

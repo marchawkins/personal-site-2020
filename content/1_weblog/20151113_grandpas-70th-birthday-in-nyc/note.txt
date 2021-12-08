@@ -1,0 +1,57 @@
+Title: Grandpa's 70th Birthday in NYC
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Spent the weekend in New York City celebrating Grandpa's 70th birthday. The whole family went to Radio City to see the Christmas show with the Rockettes, ate cheesecake at Junior's, ice skated at Rockefeller Center and much more. A packed weekend full of some of his favorite things. Such a great weekend. Happy birthday, Dad.
+
+{{ gallery }}
+
+(videoself: IMG_0244.mp4 width:100% height:100% class:video-post poster: IMG_0244.jpg title:Maddie ice skating at Rockefeller Center caption: Maddie ice skating at Rockefeller Center)
+
+(videoself: IMG_0252.mp4 width:100% height:100% class:video-post poster: IMG_0252.jpg title:More ice skating at Rockefeller Center caption: More ice skating at Rockefeller Center)
+
+(videoself: IMG_0263.mp4 width:100% height:100% class:video-post poster: IMG_0263.jpg title:Maddie warping down the pipe caption: Maddie warping down the pipe)
+
+(videoself: IMG_0264.mp4 width:100% height:100% class:video-post poster: IMG_0264.jpg title:Carter warping caption: Carter warping)
+
+(videoself: IMG_0265.mp4 width:100% height:100% class:video-post poster: IMG_0265.jpg title:Ok we get it, Meg caption: Ok we get it, Meg)
+
+----
+
+Mymap:
+
+lat: 40.7127281
+lon: -74.0060152
+city: New York
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-11-13 00:00:00
+
+----
+
+Tags: Grandpa, Nana, birthday, Maddie, Megan, Carter, Brooks, Danielle, Marc, Rockettes, Lego, Nintendo, Junior's, NYC, Mariott, family, Radio City
+
+----
+
+Feature-image:
+
+- img_0218.jpeg
+
+----
+
+Gallery:
+
+- >
+  photography/grandpas-70th-birthday-in-nyc

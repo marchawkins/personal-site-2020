@@ -1,0 +1,54 @@
+Title: Greenberg Bat Mitzvah 1 of 3
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Congratulations, Aby!
+
+(image: 2015-11-21-bat-mitzvah3.jpeg)
+(image: 2015-11-21-bat-mitzvah2.jpeg)
+(image: 2015-11-21-bat-mitzvah1.jpeg)
+(image: 2015-11-21-bat-mitzvah4.jpeg)
+(image: 2015-11-21-bat-mitzvah-paris.jpeg)
+(image: 2015-11-21-bat-mitzvah-hollywood.jpeg)
+
+Meanwhile at home...
+
+(image: 2015-11-21-babysitter.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.02985865
+lon: '-75.628977638473'
+city: West Whiteland Township
+country: United States
+postcode: "19341"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-11-21 00:00:00
+
+----
+
+Tags: Danielle, Marc, bat mitzvah, Larry, Kelly, Maddie, Megan, Carter, Brooks
+
+----
+
+Feature-image:
+
+- 2015-11-21-bat-mitzvah3.jpeg
+
+----
+
+Gallery: 

@@ -1,0 +1,45 @@
+Title: Maddie Learning to Code
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Maddie is taking an after-school coding class - great skill for the future!
+
+(image: 2015-12-07-coding.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-12-07 00:00:00
+
+----
+
+Tags: Maddie, school, computers, coding
+
+----
+
+Feature-image:
+
+- 2015-12-07-coding.jpeg
+
+----
+
+Gallery: 

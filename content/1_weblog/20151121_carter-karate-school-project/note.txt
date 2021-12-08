@@ -1,0 +1,46 @@
+Title: Carter's Karate School Project
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Carter had a school project to take a favorite stuffed animal and bring it along to an activity. He chose to bring his dog puppet to karate. He was like a proud papa!
+
+(image: 2015-11-21-karate1.jpeg)
+(image: 2015-11-21-karate2.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-11-21 00:00:00
+
+----
+
+Tags: Carter, Makoto, karate, school
+
+----
+
+Feature-image:
+
+- 2015-11-21-karate2.jpeg
+
+----
+
+Gallery: 

@@ -1,0 +1,45 @@
+Title: Always a Gentleman
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+While waiting for the kids to get off the bus, I noticed Carter walking a younger neighborhood girl to her house. So proud of this kid. Also - they may have been holding hands :-)
+
+(image: 2015-11-12-carter.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-11-12 00:00:00
+
+----
+
+Tags: Carter, school
+
+----
+
+Feature-image:
+
+- 2015-11-12-carter.jpeg
+
+----
+
+Gallery: 

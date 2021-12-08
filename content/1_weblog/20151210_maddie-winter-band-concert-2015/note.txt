@@ -1,0 +1,49 @@
+Title: Maddie's Winter Band Concert 2015
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Family went to support Maddie at her annual Winter Band concert. Way to go, kid!
+
+(image: 2015-12-10-recital1.jpeg)
+(image: 2015-12-10-recital2.jpeg)
+(image: 2015-12-10-recital3.jpeg)
+(image: 2015-12-10-recital4.jpeg)
+(image: 2015-12-10-recital5.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-12-10 00:00:00
+
+----
+
+Tags: Maddie, drums, school, Megan, Carter, Brooks, Danielle, Marc, Grandpa, Nana
+
+----
+
+Feature-image:
+
+- 2015-12-10-recital4.jpeg
+
+----
+
+Gallery: 
