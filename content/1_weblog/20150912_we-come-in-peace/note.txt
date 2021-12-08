@@ -1,0 +1,41 @@
+Title: We Come in Peace
+
+----
+
+Excerpt-text: 
+
+----
+
+Text: (image: 2015-09-12-v.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.1317722
+lon: -75.4596319
+city: Upper Providence Township
+country: United States
+postcode: "19456"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-09-12 00:00:00
+
+----
+
+Tags: Marc, aliens, V
+
+----
+
+Feature-image:
+
+- 2015-09-12-v.jpeg
+
+----
+
+Gallery: 

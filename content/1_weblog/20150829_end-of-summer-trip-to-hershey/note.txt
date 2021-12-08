@@ -1,0 +1,47 @@
+Title: End of Summer Trip to Hershey
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Mourning the end of summer, but celebrating the start of school, baby! Enjoy it while it lasts, kids.
+
+(image: 2015-08-29-hershey1.jpeg)
+(image: 2015-08-29-hershey2.jpeg)
+(image: 2015-08-29-hershey3.jpeg)
+(image: 2015-08-29-hershey4.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.2854881
+lon: -76.6506001
+city: Hershey
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-08-29 00:00:00
+
+----
+
+Tags: Maddie, Megan, Carter, Hersheypark, vacation
+
+----
+
+Feature-image:
+
+- 2015-08-29-hershey2.jpeg
+
+----
+
+Gallery: 

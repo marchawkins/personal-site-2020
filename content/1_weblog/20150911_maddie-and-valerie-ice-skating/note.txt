@@ -1,0 +1,47 @@
+Title: Maddie and Valerie Ice Skating
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Maddie and Valerie ice skating at (link: https://skatepowerplay.com text: Power Play Rinks).
+
+(image: 2015-09-11-ice-skating1.jpeg)
+(image: 2015-09-11-ice-skating2.jpeg)
+(image: 2015-09-11-ice-skating3.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-09-11 00:00:00
+
+----
+
+Tags: Maddie, Valerie, ice skating
+
+----
+
+Feature-image:
+
+- 2015-09-11-ice-skating1.jpeg
+
+----
+
+Gallery: 

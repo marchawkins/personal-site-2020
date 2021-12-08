@@ -42,7 +42,9 @@ Tags: Megan, dance, Brooks, Carter, Maddie
 
 ----
 
-Feature-image: 
+Feature-image:
+
+- 2015-06-13-meg-recital3.jpeg
 
 ----
 

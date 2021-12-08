@@ -1,0 +1,47 @@
+Title: Grandpa and Mom's Birthday
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Celebrating October 17th with two birthdays - Grandpa and Mom!
+
+(image: 2015-10-17-grandpa-mom-bday1.jpeg)
+(image: 2015-10-17-grandpa-mom-bday2.jpeg)
+(image: 2015-10-17-grandpa-mom-bday3.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2021-12-08 00:00:00
+
+----
+
+Tags: Maddie, Carter, Megan, Brooks, Grandpa, Danielle, birthday, family
+
+----
+
+Feature-image:
+
+- 2015-10-17-grandpa-mom-bday1.jpeg
+
+----
+
+Gallery: 

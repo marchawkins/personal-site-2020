@@ -1,0 +1,49 @@
+Title: Halloween 2015
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Nothing better than trick-or-treating on a Saturday Halloween night. Neighborhood kids made out like bandits.
+
+(image: 2015-10-31-halloween1.jpeg)
+(image: 2015-10-31-halloween2.jpeg)
+(image: 2015-10-31-halloween3.jpeg)
+(image: 2015-10-31-halloween4.jpeg)
+(image: 2015-10-31-halloween5.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-10-31 00:00:00
+
+----
+
+Tags: Halloween, Maddie, Megan, Carter, Brooks, Paige, Lily, Valerie
+
+----
+
+Feature-image:
+
+- 2015-10-31-halloween2.jpeg
+
+----
+
+Gallery: 

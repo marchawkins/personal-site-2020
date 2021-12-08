@@ -1,0 +1,45 @@
+Title: School Photos - Fall 2015
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+All dressed up and lookin' like a million bucks.
+
+(image: 2015-09-25-school-photos.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-09-25 00:00:00
+
+----
+
+Tags: Maddie, Megan, Carter, school
+
+----
+
+Feature-image:
+
+- 2015-09-25-school-photos.jpeg
+
+----
+
+Gallery: 

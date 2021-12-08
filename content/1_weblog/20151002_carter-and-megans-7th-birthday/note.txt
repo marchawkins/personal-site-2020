@@ -1,0 +1,46 @@
+Title: Carter and Megan's 7th Birthday
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Carter and Megan celebrate their 7th birthday at the movies with friends.
+
+{{ gallery }}
+
+----
+
+Mymap:
+
+lat: 40.0064958
+lon: -75.7032742
+city: Downingtown
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-10-02 00:00:00
+
+----
+
+Tags: Carter, Megan, birthday, movies
+
+----
+
+Feature-image:
+
+- img_0038.jpeg
+
+----
+
+Gallery:
+
+- photography/carter-megans-7th-birthday

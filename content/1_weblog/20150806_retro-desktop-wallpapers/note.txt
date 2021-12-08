@@ -1,0 +1,45 @@
+Title: Retro Desktop Wallpapers
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+I can't remember where I got these computer wallpapers, but, damn - they look cool.
+
+(image: 2015-08-06-office.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-08-06 00:00:00
+
+----
+
+Tags: Mac, Apple, computer, office, wallpaper
+
+----
+
+Feature-image:
+
+- 2015-08-06-office.jpeg
+
+----
+
+Gallery: 

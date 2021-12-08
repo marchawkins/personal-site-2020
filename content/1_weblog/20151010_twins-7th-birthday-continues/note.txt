@@ -1,0 +1,48 @@
+Title: Twins' 7th Birthday Continues
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+The twins 7th birthday partying continues with family fun at Chocolate World!
+
+(image: 2015-10-10-birthday.jpeg)
+(image: 2015-10-10-brooks.jpeg)
+(image: 2015-10-10-carter.jpeg)
+(image: 2015-10-10-carter2.jpeg)
+(image: 2015-10-10-megan-maddie.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.2854881
+lon: -76.6506001
+city: Hershey
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-10-10 00:00:00
+
+----
+
+Tags: Carter, Megan, birthday, family, Hersheypark, Grammy, Maddie, Brooks
+
+----
+
+Feature-image:
+
+- 2015-10-10-birthday.jpeg
+
+----
+
+Gallery: 

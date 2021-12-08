@@ -1,0 +1,45 @@
+Title: Ice Skating Backwards
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Show off.
+
+(videoself: 2015-09-25-ice-skating-backwards.mp4 width:100% height:100% class:video-post poster: 2015-09-25-ice-skating-backwards.jpg title:Ice skating in reverse caption: Ice skating in reverse)
+
+----
+
+Mymap:
+
+lat: 40.02985865
+lon: '-75.628977638473'
+city: West Whiteland Township
+country: United States
+postcode: "19341"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-09-25 00:00:00
+
+----
+
+Tags: Maddie, ice skating
+
+----
+
+Feature-image:
+
+- 2015-09-25-ice-skating-backwards.jpg
+
+----
+
+Gallery: 

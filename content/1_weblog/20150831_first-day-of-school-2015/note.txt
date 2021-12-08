@@ -1,0 +1,47 @@
+Title: First Day of School 2015
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+First day of school for Maddie (5th grade) and Carter & Megan (2nd grade). Good luck!
+
+(image: 2015-08-31-1st-day-school1.jpeg)
+(image: 2015-08-31-1st-day-school2.jpeg)
+(image: 2015-08-31-1st-day-school3.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-08-31 00:00:00
+
+----
+
+Tags: Maddie, Megan, Carter, school, Johnny, Mackenzie
+
+----
+
+Feature-image:
+
+- 2015-08-31-1st-day-school1.jpeg
+
+----
+
+Gallery: 

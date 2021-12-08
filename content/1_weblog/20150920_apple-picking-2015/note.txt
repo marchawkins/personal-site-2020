@@ -1,0 +1,51 @@
+Title: Apple Picking 2015
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Annual apple picking at (link: https://highlandorchards.net text: Highland Orchards)!
+
+(image: img_0023.jpeg)
+(image: img_0025.jpeg)
+(image: img_0027.jpeg)
+(image: img_0030.jpeg)
+(image: img_0031.jpeg)
+(image: img_0033.jpeg)
+(image: img_0040.jpeg)
+(image: img_0044.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0064958
+lon: -75.7032742
+city: Downingtown
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-09-20 00:00:00
+
+----
+
+Tags: Maddie, Megan, Carter, Brooks, Danielle, Marc, apples, fall
+
+----
+
+Feature-image:
+
+- img_0030.jpeg
+
+----
+
+Gallery: 

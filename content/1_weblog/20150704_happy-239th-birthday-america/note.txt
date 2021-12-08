@@ -37,7 +37,9 @@ Tags: Maddie, Megan, Carter, Brooks
 
 ----
 
-Feature-image: 
+Feature-image:
+
+- 2015-07-04-july4-kids.jpeg
 
 ----
 
