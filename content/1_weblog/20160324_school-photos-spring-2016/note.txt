@@ -1,0 +1,47 @@
+Title: School Photos Spring 2016
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Since when do school photos get such production value? Tax dollars well spent.
+
+(image: 03-24-2016-maddie.jpeg)
+(image: 03-24-2016-megan.jpeg)
+(image: 03-24-2016-carter.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2016-03-24 00:00:00
+
+----
+
+Tags: Madeline, Megan, Carter, school
+
+----
+
+Feature-image:
+
+- 03-24-2016-maddie.jpeg
+
+----
+
+Gallery: 

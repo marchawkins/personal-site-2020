@@ -1,0 +1,42 @@
+Title: LA Trip Winter 2016
+
+----
+
+Excerpt-text: 
+
+----
+
+Text: {{ gallery }}
+
+----
+
+Mymap:
+
+lat: 34.0536909
+lon: -118.242766
+city: Los Angeles
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2016-01-24 00:00:00
+
+----
+
+Tags: Los Angeles, Marc, Sideshow, work, Star Wars
+
+----
+
+Feature-image:
+
+- img_0537.jpeg
+
+----
+
+Gallery:
+
+- photography/la-trip-winter-2016

@@ -1,0 +1,45 @@
+Title: Clark on the DL
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Posted without comment. You poor bastard.
+
+(image: 03-25-106-no-chasing-tail.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.02985865
+lon: "-75.628977638473"
+city: West Whiteland Township
+country: United States
+postcode: "19341"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2016-03-25 00:00:00
+
+----
+
+Tags: Clark
+
+----
+
+Feature-image:
+
+- 03-25-106-no-chasing-tail.jpeg
+
+----
+
+Gallery: 

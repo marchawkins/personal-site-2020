@@ -1,0 +1,53 @@
+Title: Easter 2016
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Lots of Easter fun, with a few tantrums thrown in for good measure.
+
+(image: img_0648.jpeg)
+(image: img_0649.jpeg)
+(image: img_0658.jpeg)
+(image: img_0660.jpeg)
+(image: img_0664.jpeg)
+
+(videoself:IMG_0662.mp4 width:100% height:100% class:video-post poster:IMG_0662.jpg title:Brooks Hunts for Eggs caption:Brooks Hunts for Eggs)
+
+(videoself:IMG_0666.mp4 width:100% height:100% class:video-post poster:IMG_0666.jpg title:Brooks Hunts for Eggs caption:Brooks Hunts for Eggs)
+
+----
+
+Mymap:
+
+lat: 40.0201
+lon: -76.1335653
+city: Paradise
+country: United States
+postcode: "17529"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2016-03-27 00:00:00
+
+----
+
+Tags: Madeline, Megan, Carter, Brooks, Danielle, Uncle Mike, Grandpa, Easter, egg hunt, family
+
+----
+
+Feature-image:
+
+- img_0658.jpeg
+
+----
+
+Gallery: 

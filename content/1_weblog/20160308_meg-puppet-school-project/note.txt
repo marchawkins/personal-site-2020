@@ -1,0 +1,48 @@
+Title: Meg Puppet School Project
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Last weekend was Meg's turn to take her class puppet home and photograph their travels together. We did our best, and I think these two had some fun together.
+
+(image: 03-08-2016-meg-puppet-1.jpeg)
+(image: 03-08-2016-meg-puppet-2.jpeg)
+(image: 03-08-2016-meg-puppet-3.jpeg)
+(image: 03-08-2016-meg-puppet-4.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2016-03-08 00:00:00
+
+----
+
+Tags: Megan, school, puppet
+
+----
+
+Feature-image:
+
+- 03-08-2016-meg-puppet-2.jpeg
+
+----
+
+Gallery: 

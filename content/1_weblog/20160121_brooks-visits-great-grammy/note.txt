@@ -1,0 +1,44 @@
+Title: Brooks Visits Great-Grammy
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Brooks makes his first visit to Great-Grammy Kate.
+
+(image: 01-21-2016-great-grammy.jpeg)
+
+----
+
+Mymap:
+
+lat: 41.2552213
+lon: -76.9128928
+city: Montoursville
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2016-01-21 00:00:00
+
+----
+
+Tags: Brooks, Grammy Kate
+
+----
+
+Feature-image:
+
+- 01-21-2016-great-grammy.jpeg
+
+----
+
+Gallery: 

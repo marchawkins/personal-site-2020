@@ -1,0 +1,44 @@
+Title: Happy 2016
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+(image: 01-01-2016-brooks-happy-new-year.jpeg)
+Happy New Year, from Brooks to you.
+
+----
+
+Mymap:
+
+lat: 40.02985865
+lon: '-75.628977638473'
+city: West Whiteland Township
+country: United States
+postcode: "19341"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2016-01-01 00:00:00
+
+----
+
+Tags: Brooks, new year
+
+----
+
+Feature-image:
+
+- 01-01-2016-brooks-happy-new-year.jpeg
+
+----
+
+Gallery: 

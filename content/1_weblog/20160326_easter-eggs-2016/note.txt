@@ -1,0 +1,47 @@
+Title: Easter Eggs 2016
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Egg coloring with friends.
+
+(image: 03-26-2016-bffs.jpeg)
+(image: 03-26-2016-eggs-1.jpeg)
+(image: 03-26-2016-eggs-2.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2016-03-26 00:00:00
+
+----
+
+Tags: Megan, Tori, Brooks, Easter
+
+----
+
+Feature-image:
+
+- 03-26-2016-eggs-1.jpeg
+
+----
+
+Gallery: 

@@ -1,0 +1,47 @@
+Title: School House Rocks 2016
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+We check out Maddie in her second performance of School House Rocks, the school musical.
+
+{{ gallery }}
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2016-03-03 00:00:00
+
+----
+
+Tags: Madeline, Brooks, Grandpa, Valerie, school, musical
+
+----
+
+Feature-image:
+
+- dsc_0087.jpeg
+
+----
+
+Gallery:
+
+- photography/maddie-school-house-rocks

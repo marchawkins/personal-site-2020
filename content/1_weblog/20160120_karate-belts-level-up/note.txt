@@ -1,0 +1,48 @@
+Title: Karate Belts - Level Up
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+All three kids level up in karate. Nice work, guys!
+
+(image: 01-20-2016-karate-belts.jpeg)
+(image: 01-20-2016-karate-carter.jpeg)
+(image: 01-20-2016-karate-maddie.jpeg)
+(image: 01-20-2016-karate-megan.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.02985865
+lon: '-75.628977638473'
+city: West Whiteland Township
+country: United States
+postcode: "19341"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2016-01-20 00:00:00
+
+----
+
+Tags: Megan, Carter, Madeline, karate
+
+----
+
+Feature-image:
+
+- 01-20-2016-karate-belts.jpeg
+
+----
+
+Gallery: 
