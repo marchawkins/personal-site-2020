@@ -1,0 +1,52 @@
+Title: Exton Carnival 2016
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Annual trip to the Exton carnival.
+
+(image: 05-11-2016-carnival-1.jpeg)
+(image: 05-11-2016-carnival-2.jpeg)
+(image: 05-11-2016-carnival-3.jpeg)
+(image: 05-11-2016-carnival-4.jpeg)
+(image: 05-11-2016-carnival-5.jpeg)
+(image: 05-11-2016-carnival-6.jpeg)
+(image: 05-11-2016-carnival-7.jpeg)
+(image: 05-11-2016-carnival-8.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.02985865
+lon: '-75.628977638473'
+city: West Whiteland Township
+country: United States
+postcode: "19341"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2016-05-11 00:00:00
+
+----
+
+Tags: Madeline, Megan, Carter, carnival, rides
+
+----
+
+Feature-image:
+
+- 05-11-2016-carnival-3.jpeg
+
+----
+
+Gallery: 

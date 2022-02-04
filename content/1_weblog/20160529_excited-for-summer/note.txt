@@ -1,0 +1,47 @@
+Title: Excited for Summer
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Little bugger took off like a shot as soon as his feet hit the ground.
+
+(image: 05-29-2016-brooks-spring-1.jpeg)
+(image: 05-29-2016-brooks-spring-2.jpeg)
+(image: 05-29-2016-brooks-spring-3.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2016-05-29 00:00:00
+
+----
+
+Tags: Brooks, outside
+
+----
+
+Feature-image:
+
+- 05-29-2016-brooks-spring-3.jpeg
+
+----
+
+Gallery: 

@@ -1,0 +1,48 @@
+Title: Movie Tavern Opens
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Celebrating the opening of (link: https://www.marcustheatres.com/theatre-locations/movie-tavern-exton text: Movie Tavern in Exton) with the Academy-award winning film, Angry Birds.
+*/me sighs*
+
+(image: 05-21-2016-movies-1.jpeg)
+(image: 05-21-2016-movies-2.jpeg)
+(image: 05-21-2016-movies-3.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.02985865
+lon: "-75.628977638473"
+city: West Whiteland Township
+country: United States
+postcode: "19341"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2016-05-21 00:00:00
+
+----
+
+Tags: Madeline, Megan, Carter, movies, friends
+
+----
+
+Feature-image:
+
+- 05-21-2016-movies-2.jpeg
+
+----
+
+Gallery: 

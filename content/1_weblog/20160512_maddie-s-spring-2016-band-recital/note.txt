@@ -1,0 +1,48 @@
+Title: Maddie's Spring 2016 Band Recital
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+A little tough to see, but she's in the back in the percussion section. Way to rock the drums, MJ!
+
+(image: 05-12-2016-band-concert-1.jpeg)
+(image: 05-12-2016-band-concert-2.jpeg)
+(image: 05-12-2016-band-concert-3.jpeg)
+(image: 05-12-2016-band-concert-4.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2016-05-12 00:00:00
+
+----
+
+Tags: Madeline, band, recital, school
+
+----
+
+Feature-image:
+
+- 05-12-2016-band-concert-3.jpeg
+
+----
+
+Gallery: 

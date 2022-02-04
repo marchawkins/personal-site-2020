@@ -1,0 +1,45 @@
+Title: Mothers Day 2016
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Celebrating Mothers' Day with a dinner at Buca di Beppo.
+
+(image: 05-08-2016-mothers-day.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.02985865
+lon: '-75.628977638473'
+city: West Whiteland Township
+country: United States
+postcode: "19341"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2016-05-08 00:00:00
+
+----
+
+Tags: Danielle, Nana, Madeline, Megan, Carter, Brooks, family, mothers day, dinner
+
+----
+
+Feature-image:
+
+- 05-08-2016-mothers-day.jpeg
+
+----
+
+Gallery: 

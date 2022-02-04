@@ -1,0 +1,49 @@
+Title: Maddie's Field Trip to Peddler's Village
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Maddie's first overnight field trip to (link: https://peddlersvillage.com text: Peddler's Village)
+
+(image: 05-18-2016-maddie-field-trip-1.jpeg)
+(image: 05-18-2016-maddie-field-trip-2.jpeg)
+(image: 05-18-2016-maddie-field-trip-3.jpeg)
+(image: 05-18-2016-maddie-field-trip-4.jpeg)
+(image: 05-18-2016-maddie-field-trip-5.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.3465199
+lon: -75.031152
+city: Buckingham Township
+country: United States
+postcode: "18931"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2016-05-18 00:00:00
+
+----
+
+Tags: Madeline, field trip, school
+
+----
+
+Feature-image:
+
+- 05-18-2016-maddie-field-trip-4.jpeg
+
+----
+
+Gallery: 

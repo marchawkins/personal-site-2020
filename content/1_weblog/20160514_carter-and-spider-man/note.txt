@@ -1,0 +1,44 @@
+Title: Carter and Spider-Man
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Does this kid love superheroes or what? Actually, he couldn't care less.
+
+(image: 05-14-2016-carter-spiderman.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.09476245
+lon: '-75.385133356342'
+city: Upper Merion Township
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2016-05-14 00:00:00
+
+----
+
+Tags: Carter, Spider-Man, superhero
+
+----
+
+Feature-image:
+
+- 05-14-2016-carter-spiderman.jpeg
+
+----
+
+Gallery: 

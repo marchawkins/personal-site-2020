@@ -1,0 +1,41 @@
+Title: I Scream, You Scream
+
+----
+
+Excerpt-text: 
+
+----
+
+Text: (image: 05-18-2016-brooks-ice-cream.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2016-05-18 00:00:00
+
+----
+
+Tags: Brooks, ice cream
+
+----
+
+Feature-image:
+
+- 05-18-2016-brooks-ice-cream.jpeg
+
+----
+
+Gallery: 
