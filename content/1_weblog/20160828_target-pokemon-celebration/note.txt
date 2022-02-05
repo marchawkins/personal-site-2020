@@ -1,0 +1,41 @@
+Title: Target Pokemon Celebration
+
+----
+
+Excerpt-text: 
+
+----
+
+Text: (image: 08-28-2016-target-pokemon.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.02985865
+lon: '-75.628977638473'
+city: West Whiteland Township
+country: United States
+postcode: "19341"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2016-08-28 00:00:00
+
+----
+
+Tags: Madeline, Megan, Carter, Target, pokemon, wtf
+
+----
+
+Feature-image:
+
+- 08-28-2016-target-pokemon.jpeg
+
+----
+
+Gallery: 

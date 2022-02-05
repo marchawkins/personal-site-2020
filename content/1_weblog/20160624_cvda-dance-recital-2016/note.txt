@@ -1,0 +1,53 @@
+Title: CVDA Dance Recital 2016
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Megan and Carter's (his first) dance recital. They did a fantastic job - Carter was right at home up there with the seasoned pro (Meg). Meg was in ballet and jazz. Both were in Irish.
+
+(image: 06-24-2016-dance-recital-1.jpeg)
+(image: 06-24-2016-dance-recital-2.jpeg)
+(image: 06-24-2016-dance-recital-3.jpeg)
+(image: 06-24-2016-dance-recital-4.jpeg)
+(image: 06-24-2016-dance-recital-5.jpeg)
+(image: 06-24-2016-dance-recital-6.jpeg)
+(image: 06-24-2016-dance-recital-7.jpeg)
+(image: 06-24-2016-dance-recital-8.jpeg)
+(image: 06-24-2016-dance-recital-9.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.1303822
+lon: -75.5149128
+city: Phoenixville
+country: United States
+postcode: "19460"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2016-06-24 00:00:00
+
+----
+
+Tags: Megan, Carter, dance, recital, Danielle
+
+----
+
+Feature-image:
+
+- 06-24-2016-dance-recital-2.jpeg
+
+----
+
+Gallery: 

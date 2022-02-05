@@ -1,0 +1,45 @@
+Title: Sideshow Movie Winner
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Winner of an impromptu giveaway at work. Hit the jackpot with the Schwarzenegger blu-ray collection. Definitely not a Raw Deal.
+
+(image: 08-16-2016-sideshow-movie-winner.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2016-08-16 00:00:00
+
+----
+
+Tags: Sideshow, Marc, work, arnold
+
+----
+
+Feature-image:
+
+- 08-16-2016-sideshow-movie-winner.jpeg
+
+----
+
+Gallery: 

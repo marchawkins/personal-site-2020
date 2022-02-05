@@ -1,0 +1,48 @@
+Title: Ocean City, NJ 2016
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Annual trip to Ocean City, NJ. Great week of sunny weather and tasty, fattening beach food. Even Uncle Nate dropped by to see us. Until next time, OCNJ.
+
+{{ gallery }}
+
+(videoself: IMG_0993.mp4 width:100% height:100% class:video-post poster: IMG_0993.jpg title:Double Shot caption: Double Shot)
+
+----
+
+Mymap:
+
+lat: 39.2776156
+lon: -74.5746001
+city: Ocean City
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2016-06-24 00:00:00
+
+----
+
+Tags: Marc, Danielle, Madeline, Megan, Carter, Brooks, Uncle Nate, beach, vacation
+
+----
+
+Feature-image:
+
+- img_1045.jpeg
+
+----
+
+Gallery:
+
+- photography/ocean-city-nj-2016

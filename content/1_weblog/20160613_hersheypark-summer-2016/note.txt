@@ -1,0 +1,50 @@
+Title: Hersheypark Summer 2016
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Family trip to Hersheypark. Got some fun videos of the Flume and Super Duper Looper. Hot as $%#, so the water park area felt fantastic.
+
+(image: 06-13-2016-hersheypark-1.jpeg)
+
+(videoself: 06-13-2016-hersheypark-2.mp4 width:100% height:100% class:video-post poster: 06-13-2016-hersheypark-2.jpg title:The Flume caption: The Flume)
+
+(videoself: 06-13-2016-hersheypark-3.mp4 width:100% height:100% class:video-post poster: 06-13-2016-hersheypark-3.jpg title:Super Duper Looper caption: Super Duper Looper)
+
+(image: 06-13-2016-hersheypark-4.jpeg)
+
+----
+
+Mymap:
+
+lat: '40.2850285'
+lon: '-76.653466223197'
+city: Dauphin County
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2016-06-13 00:00:00
+
+----
+
+Tags: Madeline, Megan, Carter, Brooks, vacation, family
+
+----
+
+Feature-image:
+
+- 06-13-2016-hersheypark-1.jpeg
+
+----
+
+Gallery: 

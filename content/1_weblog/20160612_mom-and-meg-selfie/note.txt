@@ -1,0 +1,41 @@
+Title: Mom and Meg Selfie
+
+----
+
+Excerpt-text: 
+
+----
+
+Text: (image: 06-12-2016-mom-megan-selfie.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.02985865
+lon: "-75.628977638473"
+city: West Whiteland Township
+country: United States
+postcode: "19341"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2016-06-12 00:00:00
+
+----
+
+Tags: Danielle, Megan, selfie, cuties
+
+----
+
+Feature-image:
+
+- 06-12-2016-mom-megan-selfie.jpeg
+
+----
+
+Gallery: 

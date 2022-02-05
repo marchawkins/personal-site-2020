@@ -1,0 +1,43 @@
+Title: Happy Birthday, America
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+(image: 07-04-2016-july-4th-1.jpeg)
+(image: 07-04-2016-july-4th-2.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0087246
+lon: "-75.699022139729"
+city: Chester County
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2016-07-04 00:00:00
+
+----
+
+Tags: Madeline, Megan, Carter, Brooks, holiday, America
+
+----
+
+Feature-image:
+
+- 07-04-2016-july-4th-1.jpeg
+
+----
+
+Gallery: 
