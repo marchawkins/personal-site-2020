@@ -10,11 +10,13 @@ Text:
 
 Surprised the kids with a trip to Disney World! I think the photos and videos speak for themselves. We all had an absolutely fantastic time!
 
-(videoself: _IMG_0138.mp4 width:100% height:100% class:video-post poster: _IMG_0138.jpg title:The Big Unveil caption:The Big Unveil)
+(videoself: IMG_0138.mp4 width:100% height:100% class:video-post poster: IMG_0138.jpg title:The Big Unveil caption:The Big Unveil)
 
 (videoself: IMG_0164.mp4 width:100% height:100% class:video-post poster: IMG_0164.jpg title:Meeting Mickey for the First Time caption:Meeting Mickey for the First Time)
 
-(videoself: _IMG_0138.mp4 width:100% height:100% class:video-post poster: _IMG_0138.jpg title:Brooks Love Mickey caption:Brooks Love Mickey)
+(videoself: IMG_0194.mp4 width:100% height:100% class:video-post poster: IMG_0194.jpg title:Brooks Love Mickey caption:Brooks Love Mickey)
+
+{{ gallery }}
 
 ----
 
@@ -39,8 +41,12 @@ Tags: Danielle, Marc, Madeline, Megan, Carter, Brooks, vacation, family, Disney
 
 ----
 
-Feature-image: 
+Feature-image:
+
+- ak_brdgmdl_20161027_7842346892.jpeg
 
 ----
 
-Gallery: 
+Gallery:
+
+- photography/disney-trip-2016
