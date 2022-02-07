@@ -1,0 +1,45 @@
+Title: Happy New Year's 2016
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Celebrating New Year's (early) at Chicago Uno. Fortunately, they do a countdown at 6pm so all the kids get to experience it.
+
+(videoself: 12-31-2016-new-years.mp4 width:100% height:100% class:video-post poster: 12-31-2016-new-years.jpg title:Happy 2016 caption: Happy 2016)
+
+----
+
+Mymap:
+
+lat: 40.02985865
+lon: '-75.628977638473'
+city: West Whiteland Township
+country: United States
+postcode: "19341"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2016-12-31 00:00:00
+
+----
+
+Tags: 
+
+----
+
+Feature-image:
+
+- 12-31-2016-new-years.jpg
+
+----
+
+Gallery: 

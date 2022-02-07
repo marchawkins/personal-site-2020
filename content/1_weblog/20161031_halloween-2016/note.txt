@@ -1,0 +1,51 @@
+Title: Halloween 2016
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Great night for trick-or-treating. Lots of friends got together and raided the neighborhood. This was also Brooks's first time going "alone" with the big kids.
+
+(image: 10-31-2016-halloween-1.jpeg)
+(image: 10-31-2016-halloween-2.jpeg)
+
+(videoself: 10-31-2016-halloween-3.mp4 width:100% height:100% class:video-post poster: 10-31-2016-halloween-3.jpg title:Trick-or-Treat caption: Trick-or-Treat)
+
+(image: 10-31-2016-halloween-4.jpeg)
+(image: 10-31-2016-halloween-5.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2016-10-31 00:00:00
+
+----
+
+Tags: Madeline, Megan, Carter, Brooks, Star Wars, Valerie, Paige, Johnny, Lily
+
+----
+
+Feature-image:
+
+- 10-31-2016-halloween-1.jpeg
+
+----
+
+Gallery: 

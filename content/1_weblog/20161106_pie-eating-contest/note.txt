@@ -1,0 +1,46 @@
+Title: Pie Eating Contest
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Carter decided to step up and compete in the pumpkin pie eating contest at (link: http://www.makotoway.com text: Makota's) annual Pumpkinfest. Didn't win, but man did he have fun.
+
+(image: 11-06-2016-pumpkinfest-1.jpeg)
+
+(videoself: 11-06-2016-pumpkinfest-2.mp4 width:100% height:100% class:video-post poster: 11-06-2016-pumpkinfest-2.jpg title:Pie Eating Contest caption:Pie Eating Contest)
+
+----
+
+Mymap:
+
+lat: 40.0087246
+lon: '-75.699022139729'
+city: Chester County
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2016-11-06 00:00:00
+
+----
+
+Tags: Carter, pie eating, karate
+
+----
+
+Feature-image:
+
+- 11-06-2016-pumpkinfest-1.jpeg
+
+----
+
+Gallery: 

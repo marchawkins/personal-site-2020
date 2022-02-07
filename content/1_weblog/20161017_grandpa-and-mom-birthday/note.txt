@@ -1,0 +1,46 @@
+Title: Grandpa and Mom's Birthday
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Happy birthday Mom and Grandpa!
+
+(image: 10-17-2016-grandpa-danielle-birthday.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2016-10-17 00:00:00
+
+----
+
+Tags: Danielle, Madeline, Megan, Carter, Brooks, Nana, birthday
+
+----
+
+Feature-image:
+
+- >
+  10-17-2016-grandpa-danielle-birthday.jpeg
+
+----
+
+Gallery: 

@@ -1,0 +1,69 @@
+Title: Twins 8th Birthday
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Celebrating the twins 8th birthday with family, complete with a Chocolate Piñata bomb.
+
+(image: 10-02-2016-twins-8th-birthday-01.jpeg)
+
+(videoself: 10-02-2016-twins-8th-birthday-02.mp4 width:100% height:100% class:video-post poster: 10-02-2016-twins-8th-birthday-02.jpg title:Chocolate Bomb caption:Chocolate Bomb)
+
+(image: 10-02-2016-twins-8th-birthday-03.jpeg)
+(image: 10-02-2016-twins-8th-birthday-04.jpeg)
+(image: 10-02-2016-twins-8th-birthday-05.jpeg)
+(image: 10-02-2016-twins-8th-birthday-06.jpeg)
+
+(videoself: 10-02-2016-twins-8th-birthday-07.mp4 width:100% height:100% class:video-post poster: 10-02-2016-twins-8th-birthday-07.jpg title:Stuffed Animal Racing caption: Stuffed Animal Racing)
+
+(image: 10-02-2016-twins-8th-birthday-08.jpeg)
+(image: 10-02-2016-twins-8th-birthday-09.jpeg)
+(image: 10-02-2016-twins-8th-birthday-10.jpeg)
+(image: 10-02-2016-twins-8th-birthday-11.jpeg)
+
+(videoself: 10-02-2016-twins-8th-birthday-12.mp4 width:100% height:100% class:video-post poster: 10-02-2016-twins-8th-birthday-12.jpg title:Chewbacca Mask caption: Chewbacca Mask)
+
+(videoself: 10-02-2016-twins-8th-birthday-13.mp4 width:100% height:100% class:video-post poster: 10-02-2016-twins-8th-birthday-13.jpg title:Birthday Gifts caption: Birthday Gifts)
+
+(videoself: 10-02-2016-twins-8th-birthday-14.mp4 width:100% height:100% class:video-post poster: 10-02-2016-twins-8th-birthday-14.jpg title:Birthday Cake caption: Birthday Cake)
+
+(image: 10-02-2016-twins-8th-birthday-15.jpeg)
+
+(videoself: 10-02-2016-twins-8th-birthday-16.mp4 width:100% height:100% class:video-post poster: 10-02-2016-twins-8th-birthday-16.jpg title:Birthday Cake pt 2 caption: Birthday Cake pt 2)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2016-10-02 00:00:00
+
+----
+
+Tags: Danielle, Megan, Carter, Madeline, Brooks, birthday
+
+----
+
+Feature-image:
+
+- 10-02-2016-twins-8th-birthday-01.jpeg
+
+----
+
+Gallery: 

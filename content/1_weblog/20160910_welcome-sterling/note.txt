@@ -1,0 +1,44 @@
+Title: Welcome Sterling!
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Welcome to the family, Sterling!
+
+(image: 09-10-2016-maddie-sterling.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.2663107
+lon: -76.8861122
+city: Harrisburg
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2016-09-10 00:00:00
+
+----
+
+Tags: Madeline, Sterling, family
+
+----
+
+Feature-image:
+
+- 09-10-2016-maddie-sterling.jpeg
+
+----
+
+Gallery: 
