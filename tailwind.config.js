@@ -1,5 +1,8 @@
 module.exports = {
   purge: [],
+  plugins: [
+    require('@tailwindcss/aspect-ratio'),
+  ],
   theme: {
     fontFamily: {
       'title': ['Helvegen','Arial'],
