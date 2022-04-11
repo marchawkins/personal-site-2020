@@ -1,44 +1,18 @@
 <?php
-var_dump($_POST);
-/*
-  if($_POST['name']) {
-    echo('photo received');
+  date_default_timezone_set("America/New_York");
+
+  if($_POST['photo']) {
+    $imgData = str_replace(' ','+',$_POST['photo']);
+    $imgData =  substr($imgData,strpos($imgData,",")+1);
+    $imgData = base64_decode($imgData);
+    $fileName = date("Y-m-d_H-i-s").'.jpg';
+    $filePath = $_SERVER['DOCUMENT_ROOT'].'/_uploads/guestbook/'.$fileName; // path where the image is going to be saved
+    $file = fopen($filePath, 'w'); // write $imgData into the image file
+    fwrite($file, $imgData);
+    fclose($file);
+    echo('/_uploads/guestbook/'.$fileName);
   } else {
-    echo('zilch');
+    echo('error');
   }
-*/
 
-/*
-if($_FILES["file"]["error"] > 0) {
-  echo "Return Code: " . $_FILES["file"]["error"] . "<br />";
-} else {
-  echo "Upload: " . $_FILES["file"]["name"] . "<br />";
-  echo "Type: " . $_FILES["file"]["type"] . "<br />";
-  echo "Size: " . ($_FILES["file"]["size"] / 1024) . " Kb<br />";
-  echo "Temp file: " . $_FILES["file"]["tmp_name"] . "<br />";
-}
-   
-ini_set('max_upload_filesize', 8388608);
-if ($_FILES["file"]["error"] > 0)
-  {
-  echo "Return Code: " . $_FILES["file"]["error"] . "<br />";
-  }
-else
-  {
-  echo "Upload: " . $_FILES["file"]["name"] . "<br />";
-  echo "Type: " . $_FILES["file"]["type"] . "<br />";
-  echo "Size: " . ($_FILES["file"]["size"] / 1024) . " Kb<br />";
-  echo "Temp file: " . $_FILES["file"]["tmp_name"] . "<br />";
-
-  if (file_exists("upload/" . $_FILES["file"]["name"]))
-    {
-    echo $_FILES["file"]["name"] . " already exists. ";
-    }
-  else
-    {
-    move_uploaded_file($_FILES["file"]["tmp_name"],
-    "upload/" . $_FILES["file"]["name"]);
-    echo "Stored in: " . "upload/" . $_FILES["file"]["name"];
-    }
-*/
 ?>

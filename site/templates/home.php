@@ -13,7 +13,7 @@
     <ul class="mx-4 sm:mx-0">
       <li><a href="/weblog" class="cursor-text text-terminal hover:text-opacity-50" title="random notes and thoughts">weblog</a></li>
       <li><a href="" class="cursor-text text-terminal hover:text-opacity-50 line-through" title="pictures i've taken">photos</a></li>
-      <li><a href="" class="cursor-text text-terminal hover:text-opacity-50 line-through" title="stay awhile and listen">guestbook</a></li>
+      <li><a href="/guestbook" class="cursor-text text-terminal hover:text-opacity-50" title="stay awhile and listen">guestbook</a></li>
       <li><a href="" class="cursor-text text-terminal hover:text-opacity-50 line-through" title="about my home office">office</a></li>
       <li><a href="/about" class="cursor-text text-terminal hover:text-opacity-50" title="about me and this website">about</a></li>
       <li><a href="" class="cursor-text text-terminal hover:text-opacity-50 line-through" title="free crap you don't need, and neither do i">downloads</a></li>

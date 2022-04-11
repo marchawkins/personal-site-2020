@@ -13,8 +13,8 @@
 <?php snippet('header') ?>
 
 <main class="flex-grow bg-black text-gray-600 body-font"  id="guestbook">
- <div class="container mx-auto" id="guestCapture">
-  <h1 class="text-center text-2xl font-title text-white pt-2 sm:pt-0 sm:text-3xl">Post to Guestbook</h1>
+ <div class="container  mx-auto" id="guestCapture">
+  <h1 class="text-center text-2xl font-title text-white pt-2 sm:pt-0 sm:text-3xl">Sign my guestbook</h1>
   <div class="flex items-center">
     <div class="px-10 mx-auto align-middle">
       <div class="rounded-lg my-4 aspect-w-4 aspect-h-3 border-2 border-terminal overflow-hidden">
@@ -28,40 +28,15 @@
         <button id="take-button" class="hidden cursor-pointer mx-auto mt-6 text-black font-mono uppercase border-0 py-2 px-5 border-2 border-terminal bg-terminal focus:outline-none hover:bg-transparent hover:border-white hover:text-white rounded">Take photo</button>
         <button id="save-button" class="hidden cursor-pointer mx-auto mt-6 text-black font-mono uppercase border-0 py-2 px-5 border-2 border-terminal bg-terminal focus:outline-none hover:bg-transparent hover:border-white hover:text-white rounded">Save photo</button>
       </div><!--. flex -->
-      </div><!-- .px-10.mx-auto -->
-    </div><!-- .flex -->
-  </div><!-- .container -->
-  
-  <?php
-    $handle = opendir($_SERVER['DOCUMENT_ROOT'].'/_uploads/guestbook/');
-    $captureArray = [];
-    while($file = readdir($handle)){
-      if($file !== '.' && $file !== '..' && $file !== '.DS_Store'){
-       array_push($captureArray,$file);
-      }
-    }
 
-    if(count($captureArray)>0) {
-       // sort by filename, then put newest first
-      natsort($captureArray);
-      $captureArray = array_reverse($captureArray);
-  ?>
-    <div class="container py-12 mx-auto">
-      <div class="flex flex-wrap w-full mb-8">
-        <div class="w-full mb-6 lg:mb-0">
-          <h1 class="text-center text-2xl font-title text-white pt-2 sm:pt-0 sm:text-3xl">Recent Visitors</h1>  
-        </div><!-- .w-full -->
-      </div><!-- .flex -->
-      <div class="flex flex-wrap -m-4" id="thumbGallery">
-        <?php foreach ($captureArray as $capture): ?>
-          <div class="lg:w-1/4 p-4 w-1/2">
-            <a href="/_uploads/guestbook/<?php echo $capture ?>" title="View Bigger" target="_blank" class="block relative h-48 rounded overflow-hidden"><img src="/_uploads/guestbook/<?php echo $capture ?>" alt="Photo Guestbook" class="object-cover object-center w-full h-full block"/></a>
-          </div><!-- .lg -->
-        <?php endforeach ?>
-      </div><!-- .flex-wrap -->
-    </div><!-- .container -->
-  <?php } ?>
- <div id="debug" style="display:none; border: 1px solid #f00; padding: 10px; margin: 10px;"></div>
+      <p><a id="download-link" href="">Download Photo</a></p>
+      <div id="gallery"></div>
+    
+    </div><!-- .px-10.mx-auto -->
+  </div><!-- .flex -->
+ </div><!-- .container -->
+
+ <div id="debug" style="border: 1px solid #f00; padding: 10px; margin: 10px;"></div>
 </main>
 
 <script>
@@ -73,7 +48,7 @@
   const takeButton = document.querySelector("#take-button");
   const saveButton = document.querySelector("#save-button");
 
-  //const downloadLink = document.querySelector("#download-link");
+  const downloadLink = document.querySelector("#download-link");
 
   // define media elements
   const img = document.querySelector("#guestCapture #screenshot-img");
@@ -123,7 +98,7 @@
     canvas.getContext("2d").drawImage(video, 0, 0);
     img.src = canvas.toDataURL("image/jpg");
     img.style.display = "block";
-    //downloadLink.href = img.src;
+    downloadLink.href = img.src;
 
     // setup the buttons
     takeButton.classList.add('hidden');
@@ -131,35 +106,79 @@
     captureVideoButton.classList.remove('hidden');
     captureVideoButton.innerHTML = "Re-take Photo";
 
-    // turn off the camera stream
-    if(video.srcObject.active) {
-      var track = video.srcObject.getTracks()[0];
-      track.stop();
-    }
 
   };
   
   // function to save image to the server via ajax request
   saveButton.onclick = function(){
     var photo = canvas.toDataURL('image/jpeg', 1.0);
-    var data = new FormData();
-    data.append("name", "pic");
-    data.append("photo",photo);
-    fetch("_lib/php/guestbook-uploader.php", { method: "POST", body: data }).then(function(response) {
-      return response.text().then(function(text) {
-      addToGallery(text);
-      });
+    var form = new FormData();
+    //form.append('photo',photo);
+    form.append('name','profile pic');
+
+    var request = new XMLHttpRequest();
+    /*request.onreadystatechange = function () {
+      if (this.readyState == 4) {
+        debugOutput = document.querySelector("#debug");
+        debugOutput.innerHTML = this.response;
+      }
+    };*/
+    request.open('POST', '_lib/php/guestbook-uploader.php');
+    request.onload = function () {
+      debugOutput = document.querySelector("#debug");
+        if (request.status == 200) {
+          debugOutput.innerHTML = this.response;
+        } else {
+          alert('There was a problem. Try again later.');
+        }
+    };
+    request.setRequestHeader('Content-type', 'application/json');
+    request.send(JSON.stringify({
+      name: 'DelftStack'
+    }));
+
+    /*
+    canvas.toBlob(function(blob) {
+      url = URL.createObjectURL(blob);
+      savePhoto(url);
     });
-    document.querySelector("#guestCapture").style.display = "none";
+    */
+
   };
-  
-  function addToGallery(imgPath) {
-    var capturePath = imgPath;
-    newCapture = '<div class="lg:w-1/4 p-4 w-1/2 new"><a href="'+capturePath+'" title="View Bigger" target="_blank" class="block relative h-48 rounded overflow-hidden"><img src="'+capturePath+'" alt="Photo Guestbook" class="object-cover object-center w-full h-full block"/></a></div><!-- .lg -->';
 
-    document.querySelector("#thumbGallery").innerHTML = newCapture + document.querySelector("#thumbGallery").innerHTML;
+      /*
+      var http = new XMLHttpRequest();
+    http.onreadystatechange = function () {
+      if (this.readyState == 4) {
+        alert('Request has been sent, ' + this.response);
+      }};
 
-  }
+      http.open('POST', '/guestbook-uploader.php', true);
+      http.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
+      http.send('fruit=lemon&color=yellow');
+    };
+
+
+    var newImg = document.createElement('img'),
+      url = URL.createObjectURL(blob);
+    newImg.onload = function() {
+    // no longer need to read the blob so it's revoked
+      URL.revokeObjectURL(url);
+    };
+
+    newImg.src = url;
+    document.body.appendChild(newImg);
+  });*/
+
+    
+    /*
+    alert(img.src);
+    var opts = {
+      method: 'GET',      
+      headers: {}
+    }
+    */
+ 
 
 </script>
 
