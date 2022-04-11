@@ -14,7 +14,7 @@ use Exception;
  * @package   Kirby Toolkit
  * @author    Bastian Allgeier <bastian@getkirby.com>
  * @link      https://getkirby.com
- * @copyright Bastian Allgeier GmbH
+ * @copyright Bastian Allgeier
  * @license   https://opensource.org/licenses/MIT
  */
 class A
@@ -29,6 +29,27 @@ class A
     public static function append(array $array, array $append): array
     {
         return $array + $append;
+    }
+
+    /**
+     * Recursively loops through the array and
+     * resolves any item defined as `Closure`,
+     * applying the passed parameters
+     * @since 3.5.6
+     *
+     * @param array $array
+     * @param mixed ...$args Parameters to pass to the closures
+     * @return array
+     */
+    public static function apply(array $array, ...$args): array
+    {
+        array_walk_recursive($array, function (&$item) use ($args) {
+            if (is_a($item, 'Closure')) {
+                $item = $item(...$args);
+            }
+        });
+
+        return $array;
     }
 
     /**
@@ -132,9 +153,9 @@ class A
         return implode($separator, $value);
     }
 
-    const MERGE_OVERWRITE = 0;
-    const MERGE_APPEND    = 1;
-    const MERGE_REPLACE   = 2;
+    public const MERGE_OVERWRITE = 0;
+    public const MERGE_APPEND    = 1;
+    public const MERGE_REPLACE   = 2;
 
     /**
      * Merges arrays recursively
@@ -354,6 +375,20 @@ class A
     }
 
     /**
+     * A simple wrapper around array_map
+     * with a sane argument order
+     * @since 3.6.0
+     *
+     * @param array $array
+     * @param callable $map
+     * @return array
+     */
+    public static function map(array $array, callable $map): array
+    {
+        return array_map($map, $array);
+    }
+
+    /**
      * Move an array item to a new index
      *
      * @param array $array
@@ -397,7 +432,7 @@ class A
      *
      * $required = ['cat', 'elephant'];
      *
-     * $missng = A::missing($array, $required);
+     * $missing = A::missing($array, $required);
      * // missing: [
      * //    'elephant'
      * // ];
@@ -432,10 +467,7 @@ class A
     {
         // convert a simple ignore list to a nested $key => true array
         if (isset($ignore[0]) === true) {
-            $ignore = array_map(function () {
-                return true;
-            }, array_flip($ignore));
-
+            $ignore = array_map(fn () => true, array_flip($ignore));
             $ignore = A::nest($ignore);
         }
 
@@ -578,7 +610,7 @@ class A
     }
 
     /**
-     * Checks wether an array is associative or not
+     * Checks whether an array is associative or not
      *
      * <code>
      * $array = ['a', 'b', 'c'];
