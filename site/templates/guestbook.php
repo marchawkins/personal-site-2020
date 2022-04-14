@@ -12,8 +12,22 @@
 
 <?php snippet('header') ?>
 
+<style>
+  #guestCapture {
+    visibility: hidden;
+    opacity: 0;
+    max-height: 0;
+    transition: opacity 250ms ease-in, max-height 250ms ease-in, visibility 0ms ease-in 250ms;
+  }
+  #guestCapture.show {
+    visibility: visible;
+    opacity: 1;
+    max-height: 1000px;
+  }
+</style>
+
 <main class="flex-grow bg-black text-gray-600 body-font"  id="guestbook">
- <div class="container mx-auto" id="guestCapture">
+ <div class="container mx-auto show" id="guestCapture">
   <h1 class="text-center text-2xl font-title text-white pt-2 sm:pt-0 sm:text-3xl">Post to Guestbook</h1>
   <div class="flex items-center">
     <div class="px-10 mx-auto align-middle">
@@ -150,7 +164,8 @@
       addToGallery(text);
       });
     });
-    document.querySelector("#guestCapture").style.display = "none";
+    //document.querySelector("#guestCapture").style.display = "none";
+    document.querySelector("#guestCapture").classList.remove('show');
   };
   
   function addToGallery(imgPath) {
