@@ -1,0 +1,47 @@
+Title: Black Market
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Always nice to go to a con and see such affordable "premium" Sideshow prints. I'm callin' the cops, you bootleggers.
+
+(image: 2017-04-07-counterfeit.jpeg)
+
+----
+
+Mymap:
+
+lat: 39.95510695
+lon: '-75.160235818983'
+number: "1101"
+city: Philadelphia
+country: United States
+postcode: "19107"
+address: Arch Street
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-04-07 05:50:00
+
+----
+
+Tags: Sideshow, fake, convention
+
+----
+
+Feature-image:
+
+- 2017-04-07-counterfeit.jpeg
+
+----
+
+Gallery: 

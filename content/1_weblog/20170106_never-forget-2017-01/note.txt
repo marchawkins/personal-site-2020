@@ -1,0 +1,41 @@
+Title: Never Forget
+
+----
+
+Excerpt-text: 
+
+----
+
+Text: (image: 2017-01-06-never-forget.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-01-06 04:00:00
+
+----
+
+Tags: 218, college
+
+----
+
+Feature-image:
+
+- 2017-01-06-never-forget.jpeg
+
+----
+
+Gallery: 

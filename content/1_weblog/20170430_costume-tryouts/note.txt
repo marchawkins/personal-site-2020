@@ -1,0 +1,46 @@
+Title: Costume Tryouts
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Costume fittings for the kids' upcoming performance of Joseph and the Amazing Technicolor Dreamcoat at (link: https://www.saltpa.com text: SALT).
+
+(image: 2017-04-30-costume-tryout-01.jpeg)
+(image: 2017-04-30-costume-tryout-02.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-04-30 06:30:00
+
+----
+
+Tags: Carter, Madeline, SALT
+
+----
+
+Feature-image:
+
+- 2017-04-30-costume-tryout-01.jpeg
+
+----
+
+Gallery: 

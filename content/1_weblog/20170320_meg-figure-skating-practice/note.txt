@@ -1,0 +1,53 @@
+Title: Meg Figure Skating Practice
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Meg practicing for the Exton (link: https://skatepowerplay.com/figure-skating/ text: Edge Figure Skating Club) at Power Play Rinks.
+
+(image: 2017-03-20-meg-ice-skating-01.jpeg)
+(image: 2017-03-20-meg-ice-skating-02.jpeg)
+(image: 2017-03-20-meg-ice-skating-03.jpeg)
+(image: 2017-03-20-meg-ice-skating-04.jpeg)
+(image: 2017-03-20-meg-ice-skating-05.jpeg)
+(image: 2017-03-20-meg-ice-skating-06.jpeg)
+(image: 2017-03-20-meg-ice-skating-07.jpeg)
+(image: 2017-03-20-meg-ice-skating-08.jpeg)
+(image: 2017-03-20-meg-ice-skating-09.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-03-20 04:50:00
+
+----
+
+Tags: Megan, ice skating
+
+----
+
+Feature-image:
+
+- 2017-03-20-meg-ice-skating-01.jpeg
+
+----
+
+Gallery: 

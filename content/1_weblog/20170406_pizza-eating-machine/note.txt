@@ -1,0 +1,45 @@
+Title: Pizza Eatin' Machine
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+This boy can pound down some pizza!
+
+(image: 2017-04-06-pizza-machine.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.02985865
+lon: '-75.628977638473'
+city: West Whiteland Township
+country: United States
+postcode: "19341"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-04-06 05:40:00
+
+----
+
+Tags: Brooks, pizza
+
+----
+
+Feature-image:
+
+- 2017-04-06-pizza-machine.jpeg
+
+----
+
+Gallery: 

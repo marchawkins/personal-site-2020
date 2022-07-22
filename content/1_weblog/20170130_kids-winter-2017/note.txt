@@ -1,0 +1,41 @@
+Title: Kids Winter 2017
+
+----
+
+Excerpt-text: 
+
+----
+
+Text: (image: 2017-01-30-kids-winter.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.02985865
+lon: '-75.628977638473'
+city: West Whiteland Township
+country: United States
+postcode: "19341"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-01-30 04:10:00
+
+----
+
+Tags: kids, Madeline, Megan, Carter, Brooks, family
+
+----
+
+Feature-image:
+
+- 2017-01-30-kids-winter.jpeg
+
+----
+
+Gallery: 

@@ -1,0 +1,87 @@
+Title: iFly with Uncle Johnny
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Kids took Uncle Johnny to (link: https://www.iflyworld.com text: iFly) for some indoor skydiving fun!
+
+(image: 2017-04-01-ifly-uncle-johnny-00.jpeg)
+(image: 2017-04-01-ifly-uncle-johnny-01.jpeg)
+
+(videoself: 2017-04-01-ifly-uncle-johnny-02.mp4 width:100% height:100% class:video-post poster: 2017-04-01-ifly-uncle-johnny-02.jpg title:Carter flying high caption: Carter flying high)
+
+(image: 2017-04-01-ifly-uncle-johnny-03.jpeg)
+
+(videoself: 2017-04-01-ifly-uncle-johnny-04.mp4 width:100% height:100% class:video-post poster: 2017-04-01-ifly-uncle-johnny-04.jpg title:Megan flying high caption: Megan flying high)
+
+(image: 2017-04-01-ifly-uncle-johnny-05.jpeg)
+
+(videoself: 2017-04-01-ifly-uncle-johnny-06.mp4 width:100% height:100% class:video-post poster: 2017-04-01-ifly-uncle-johnny-06.jpg title:Maddie flying high caption: Maddie flying high)
+
+(image: 2017-04-01-ifly-uncle-johnny-07.jpeg)
+(image: 2017-04-01-ifly-uncle-johnny-08.jpeg)
+
+(videoself: 2017-04-01-ifly-uncle-johnny-09.mp4 width:100% height:100% class:video-post poster: 2017-04-01-ifly-uncle-johnny-09.jpg title:Uncle Johnny flying high caption: Uncle Johnny flying high)
+
+(image: 2017-04-01-ifly-uncle-johnny-10.jpeg)
+(image: 2017-04-01-ifly-uncle-johnny-11.jpeg)
+(image: 2017-04-01-ifly-uncle-johnny-12.jpeg)
+(image: 2017-04-01-ifly-uncle-johnny-13.jpeg)
+
+(videoself: 2017-04-01-ifly-uncle-johnny-14.mp4 width:100% height:100% class:video-post poster: 2017-04-01-ifly-uncle-johnny-14.jpg title:Carter flys for round two caption: Carter flys for round two)
+
+(image: 2017-04-01-ifly-uncle-johnny-15.jpeg)
+(image: 2017-04-01-ifly-uncle-johnny-16.jpeg)
+(image: 2017-04-01-ifly-uncle-johnny-17.jpeg)
+(image: 2017-04-01-ifly-uncle-johnny-18.jpeg)
+(image: 2017-04-01-ifly-uncle-johnny-19.jpeg)
+(image: 2017-04-01-ifly-uncle-johnny-20.jpeg)
+
+(videoself: 2017-04-01-ifly-uncle-johnny-21.mp4 width:100% height:100% class:video-post poster: 2017-04-01-ifly-uncle-johnny-21.jpg title:Megan flys for round two caption: Megan flys for round two)
+
+(image: 2017-04-01-ifly-uncle-johnny-22.jpeg)
+(image: 2017-04-01-ifly-uncle-johnny-23.jpeg)
+(image: 2017-04-01-ifly-uncle-johnny-24.jpeg)
+
+(videoself: 2017-04-01-ifly-uncle-johnny-25.mp4 width:100% height:100% class:video-post poster: 2017-04-01-ifly-uncle-johnny-25.jpg title:Maddie flys for round three caption: Maddie flys for round three)
+
+(image: 2017-04-01-ifly-uncle-johnny-26.jpeg)
+
+(videoself: 2017-04-01-ifly-uncle-johnny-27.mp4 width:100% height:100% class:video-post poster: 2017-04-01-ifly-uncle-johnny-27.jpg title:Uncle Johnny flys for round three caption: Uncle Johnny flys for round three)
+
+----
+
+Mymap:
+
+lat: 40.09476245
+lon: '-75.385133356342'
+city: Upper Merion Township
+country: United States
+postcode: "19406"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-03-01 05:10:00
+
+----
+
+Tags: Johnny, Madeline, Megan, Carter, family, skydiving
+
+----
+
+Feature-image:
+
+- 2017-04-01-ifly-uncle-johnny-00.jpeg
+
+----
+
+Gallery: 

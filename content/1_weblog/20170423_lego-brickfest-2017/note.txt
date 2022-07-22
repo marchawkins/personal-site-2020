@@ -1,0 +1,47 @@
+Title: Lego Brickfest 2017
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+{{ gallery }}
+
+(videoself: 2017-04-23-brickfest-2017-31.mp4 width:100% height:100% class:video-post poster: 2017-04-23-brickfest-2017-31.jpg title:Homemade Lego derby caption: Homemade Lego derby)
+
+----
+
+Mymap:
+
+lat: 40.1317722
+lon: -75.4596319
+city: Upper Providence Township
+country: United States
+postcode: "19456"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-04-23 06:00:00
+
+----
+
+Tags: Lego, convention, Madeline, Megan, Carter
+
+----
+
+Feature-image:
+
+- 2017-04-23-brickfest-2017-1.jpeg
+
+----
+
+Gallery:
+
+- photography/lego-brickfest-2017

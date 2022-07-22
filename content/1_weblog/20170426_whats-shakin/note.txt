@@ -1,0 +1,39 @@
+Title: What's Shakin'
+
+----
+
+Excerpt-text: 
+
+----
+
+Text: (image: 2017-04-26-brooks-milkshake.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.02985865
+lon: '-75.628977638473'
+city: West Whiteland Township
+country: United States
+postcode: "19341"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-04-26 06:30:00
+
+----
+
+Tags: Brooks, milkshake
+
+----
+
+Feature-image: - 2017-04-26-brooks-milkshake.jpeg
+
+----
+
+Gallery: 

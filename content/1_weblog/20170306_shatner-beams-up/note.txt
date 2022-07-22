@@ -1,0 +1,45 @@
+Title: Shatner beams up
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+A fine addition to the home office.
+
+(image: 2017-03-06-shatner-poster.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-03-06 04:45:00
+
+----
+
+Tags: office, Kirk, Shatner
+
+----
+
+Feature-image:
+
+- 2017-03-06-shatner-poster.jpeg
+
+----
+
+Gallery: 

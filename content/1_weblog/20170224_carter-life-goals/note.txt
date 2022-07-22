@@ -1,0 +1,41 @@
+Title: Carter: Life Goals
+
+----
+
+Excerpt-text: 
+
+----
+
+Text: (image: 2017-02-24-carter-youtuber.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-02-24 04:45:00
+
+----
+
+Tags: Carter
+
+----
+
+Feature-image:
+
+- 2017-02-24-carter-youtuber.jpeg
+
+----
+
+Gallery: 

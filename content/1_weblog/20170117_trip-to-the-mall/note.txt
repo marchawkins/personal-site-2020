@@ -1,0 +1,44 @@
+Title: Trip to the Mall
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+(image: 2017-01-17-mall-01.jpeg)
+(image: 2017-01-17-mall-02.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.02985865
+lon: '-75.628977638473'
+city: West Whiteland Township
+country: United States
+postcode: "19341"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-01-17 04:05:00
+
+----
+
+Tags: Brooks, mall
+
+----
+
+Feature-image:
+
+- 2017-01-17-mall-01.jpeg
+
+----
+
+Gallery: 
