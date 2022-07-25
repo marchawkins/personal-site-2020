@@ -1,0 +1,49 @@
+Title: SALT Camp 2017
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Kids continue the theater-vibe with summer camp at (link: https://www.saltpa.com text: SALT Performing Arts).
+
+(image: 2017-07-21-salt-camp-01.jpeg)
+(image: 2017-07-21-salt-camp-02.jpeg)
+(image: 2017-07-21-salt-camp-03.jpeg)
+(image: 2017-07-21-salt-camp-04.jpeg)
+(image: 2017-07-21-salt-camp-05.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-07-21 03:55:00
+
+----
+
+Tags: Madeline, Megan, Carter, SALT, theater, camp, summer
+
+----
+
+Feature-image:
+
+- 2017-07-21-salt-camp-05.jpeg
+
+----
+
+Gallery: 

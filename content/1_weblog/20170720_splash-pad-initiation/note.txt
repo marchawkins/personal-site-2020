@@ -1,0 +1,45 @@
+Title: Splash Pad Initiation
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Brooks kickin' the tires on the new splash pad at the community pool.
+
+(image: 2017-07-20-brooks-splash-pad.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-07-20 03:45:00
+
+----
+
+Tags: Brooks, summer
+
+----
+
+Feature-image:
+
+- 2017-07-20-brooks-splash-pad.jpeg
+
+----
+
+Gallery: 

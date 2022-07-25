@@ -1,0 +1,46 @@
+Title: Ocean City 2017
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Annual family vacation to Ocean City, NJ.
+
+{{ gallery }}
+
+----
+
+Mymap:
+
+lat: 39.2776156
+lon: -74.5746001
+city: Ocean City
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-06-25 02:40:00
+
+----
+
+Tags: Madeline, Megan, Carter, Brooks, Danielle, Marc, family, vacation, beach
+
+----
+
+Feature-image:
+
+- 2017-06-25-ocean-city-14.jpeg
+
+----
+
+Gallery:
+
+- photography/ocean-city-2017

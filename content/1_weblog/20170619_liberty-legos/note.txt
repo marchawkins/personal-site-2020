@@ -1,0 +1,46 @@
+Title: Liberty Legos
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+As seen at the Philadelphia International Airport.
+
+(image: 2017-06-19-philly-airport.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0834969
+lon: '-75.009749521019'
+city: Philadelphia
+country: United States
+postcode: "19114"
+address: PNE Trail
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-06-19 02:30:00
+
+----
+
+Tags: Legos
+
+----
+
+Feature-image:
+
+- 2017-06-19-philly-airport.jpeg
+
+----
+
+Gallery: 

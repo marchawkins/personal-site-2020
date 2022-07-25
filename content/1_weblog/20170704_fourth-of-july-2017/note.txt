@@ -1,0 +1,45 @@
+Title: Fourth of July 2017
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Downingtown Good Neighbor Day and fireworks to celebrate the 4th of July.
+
+(image: 2017-07-04-carnival-01.jpeg)
+(image: 2017-07-04-carnival-02.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0064958
+lon: -75.7032742
+city: Downingtown
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-07-04 02:50:00
+
+----
+
+Tags: Madeline, Megan, Carter, Brooks, Valerie, fireworks, carnival
+
+----
+
+Feature-image:
+
+- 2017-07-04-carnival-01.jpeg
+
+----
+
+Gallery: 

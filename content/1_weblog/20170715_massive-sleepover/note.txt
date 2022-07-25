@@ -1,0 +1,45 @@
+Title: Massive Sleepover
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Every time I turn around, the number of kids in this house doubles.
+
+(image: 2017-07-15-mondo-sleepover.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-07-15 03:05:00
+
+----
+
+Tags: Valerie, Madeline, Mackenzie, Megan, Carter, Johnny, sleepover
+
+----
+
+Feature-image:
+
+- 2017-07-15-mondo-sleepover.jpeg
+
+----
+
+Gallery: 

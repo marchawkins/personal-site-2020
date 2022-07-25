@@ -1,0 +1,45 @@
+Title: Final SALT Performance 2017
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Wrapping up a great summer of theater camp at (link: https://www.saltpa.com text: SALT Performing Arts).
+
+(image: 2017-08-04-salt-show.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-08-04 04:40:00
+
+----
+
+Tags: Madeline, Megan, Carter, SALT, theater, summer
+
+----
+
+Feature-image:
+
+- 2017-08-04-salt-show.jpeg
+
+----
+
+Gallery: 

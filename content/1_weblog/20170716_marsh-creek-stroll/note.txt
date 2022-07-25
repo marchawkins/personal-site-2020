@@ -1,0 +1,50 @@
+Title: Marsh Creek Stroll
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Took the boys for an evening stroll around (link: https://www.dcnr.pa.gov/StateParks/FindAPark/MarshCreekStatePark/Pages/default.aspx text: Marsh Creek State Park).
+
+(image: 2017-07-16-marsh-creek-01.jpeg)
+(image: 2017-07-16-marsh-creek-02.jpeg)
+(image: 2017-07-16-marsh-creek-03.jpeg)
+(image: 2017-07-16-marsh-creek-04.jpeg)
+(image: 2017-07-16-marsh-creek-05.jpeg)
+(image: 2017-07-16-marsh-creek-06.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-07-16 03:30:00
+
+----
+
+Tags: Brooks, Carter
+
+----
+
+Feature-image:
+
+- 2017-07-16-marsh-creek-06.jpeg
+
+----
+
+Gallery: 

@@ -1,0 +1,50 @@
+Title: Kimberton Fair 2017
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Annual trip to the Kimberton Fair for rides, food and homemade donuts.
+
+(image: 2017-07-26-kimberton-fair-01.jpeg)
+(image: 2017-07-26-kimberton-fair-02.jpeg)
+(videoself: 2017-07-26-kimberton-fair-03.mp4 width:100% height:100% class:video-post poster: 2017-07-26-kimberton-fair-03.jpg title:Super Slide caption: Fun Slide)
+(videoself: 2017-07-26-kimberton-fair-04.mp4 width:100% height:100% class:video-post poster: 2017-07-26-kimberton-fair-04.jpg title:Super Slide caption: Fun Slide)
+(image: 2017-07-26-kimberton-fair-05.jpeg)
+(image: 2017-07-26-kimberton-fair-06.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.1306588
+lon: -75.5721388
+city: East Pikeland Township
+country: United States
+postcode: "19442"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-07-26 04:15:00
+
+----
+
+Tags: Madeline, Megan, Carter, Brooks, carnival
+
+----
+
+Feature-image:
+
+- 2017-07-26-kimberton-fair-01.jpeg
+
+----
+
+Gallery: 

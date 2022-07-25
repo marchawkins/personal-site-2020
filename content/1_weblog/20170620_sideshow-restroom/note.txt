@@ -1,0 +1,44 @@
+Title: Sideshow Restroom
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Odd shot, but couldn't pass up capturing this mural in the (link: https://www.sideshow.com text: Sideshow) restroom. 
+
+(image: 2017-06-20-sideshow-bathroom.jpeg)
+
+----
+
+Mymap:
+
+lat: 34.1705609
+lon: -118.8375937
+city: Thousand Oaks
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-06-20 02:35:00
+
+----
+
+Tags: Sideshow, Wonder Woman
+
+----
+
+Feature-image:
+
+- 2017-06-20-sideshow-bathroom.jpeg
+
+----
+
+Gallery: 

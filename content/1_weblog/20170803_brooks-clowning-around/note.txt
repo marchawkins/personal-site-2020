@@ -1,0 +1,47 @@
+Title: Brooks Clowning Around
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+(image: 2017-08-03-brooks-01.jpeg)
+(image: 2017-08-03-brooks-02.jpeg)
+(image: 2017-08-03-brooks-03.jpeg)
+(image: 2017-08-03-brooks-04.jpeg)
+(image: 2017-08-17-herrs-factory.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-08-03 04:30:00
+
+----
+
+Tags: Brooks, summer
+
+----
+
+Feature-image:
+
+- 2017-08-03-brooks-01.jpeg
+
+----
+
+Gallery: 

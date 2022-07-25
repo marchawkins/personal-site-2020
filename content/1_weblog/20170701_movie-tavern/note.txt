@@ -1,0 +1,45 @@
+Title: Movie Tavern
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+I don't even remember what the movie was, but the Movie Tavern experience was great!
+
+(image: 2017-07-01-movie-tavern.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.02985865
+lon: '-75.628977638473'
+city: West Whiteland Township
+country: United States
+postcode: "19341"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-07-01 02:45:00
+
+----
+
+Tags: Madeline, Megan, Carter, Brooks, movies
+
+----
+
+Feature-image:
+
+- 2017-07-01-movie-tavern.jpeg
+
+----
+
+Gallery: 
