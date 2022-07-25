@@ -1,0 +1,52 @@
+Title: Twins Art Show
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Carter and Megan's end of the year Art Show at school.
+
+(image: 2017-05-25-school-art-show-01.jpeg)
+(image: 2017-05-25-school-art-show-02.jpeg)
+(image: 2017-05-25-school-art-show-03.jpeg)
+(image: 2017-05-25-school-art-show-04.jpeg)
+(image: 2017-05-25-school-art-show-05.jpeg)
+(image: 2017-05-25-school-art-show-06.jpeg)
+(image: 2017-05-25-school-art-show-07.jpeg)
+(image: 2017-05-25-school-art-show-08.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-05-25 01:30:00
+
+----
+
+Tags: Megan, Carter, art, school
+
+----
+
+Feature-image:
+
+- 2017-05-25-school-art-show-01.jpeg
+
+----
+
+Gallery: 

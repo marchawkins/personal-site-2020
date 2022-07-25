@@ -1,0 +1,47 @@
+Title: Brooks Last Day of School
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Brook's first year of preschool is in the books! Celebrated with a quick trip to the park.
+
+(image: 2017-05-30-brooks-last-day-preschool.jpeg)
+(image: 2017-05-27-brooks-playground.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-05-30 01:40:00
+
+----
+
+Tags: Brooks, school
+
+----
+
+Feature-image:
+
+- >
+  2017-05-30-brooks-last-day-preschool.jpeg
+
+----
+
+Gallery: 

@@ -1,0 +1,49 @@
+Title: Joseph & His Dreamcoat
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Kids did a great job in their performance of Joseph and the Amazing Technicolor Dreamcoat at (link: https://www.saltpa.com text: SALT Performing Arts).
+
+(image: 2017-05-07-joseph-technicolor-01.jpeg)
+(image: 2017-05-07-joseph-technicolor-02.jpeg)
+(image: 2017-05-07-joseph-technicolor-03.jpeg)
+(image: 2017-05-07-joseph-technicolor-04.jpeg)
+(image: 2017-05-07-joseph-technicolor-05.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-05-07 00:40:00
+
+----
+
+Tags: Madeline, Carter, SALT, theater
+
+----
+
+Feature-image:
+
+- 2017-05-07-joseph-technicolor-01.jpeg
+
+----
+
+Gallery: 

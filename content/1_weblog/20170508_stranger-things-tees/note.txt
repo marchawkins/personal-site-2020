@@ -1,0 +1,45 @@
+Title: Stranger Things Tees
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Picked up some Stranger Things t-shirts from my all-time favorite apparel company, (link: https://www.lastexittonowhere.com text: Last Exit to Nowhere). These guys put the fans first in everything they do.
+
+(image: 2017-05-08-last-exit-nowhere.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-05-08 00:45:00
+
+----
+
+Tags: Stranger Things, Netflix, collectibles, t-shirts, Last Exit to Nowhere
+
+----
+
+Feature-image:
+
+- 2017-05-08-last-exit-nowhere.jpeg
+
+----
+
+Gallery: 

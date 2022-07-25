@@ -1,0 +1,47 @@
+Title: Maddie Guitar Recital May '17
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Maddie's spring guitar recital at (link: https://valottastudios.com text: Valotta Studios). 
+
+(videoself: 2017-05-06-maddie-guitar-recital-01.mp4 width:100% height:100% class:video-post poster: 2017-05-06-maddie-guitar-recital-01.jpg title:Maddie guitar recital 1 caption: Maddie guitar recital 1)
+
+(videoself: 2017-05-06-maddie-guitar-recital-02.mp4 width:100% height:100% class:video-post poster: 2017-05-06-maddie-guitar-recital-02.jpg title:Maddie guitar recital 2 caption: Maddie guitar recital 2)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-05-06 04:10:00
+
+----
+
+Tags: Maddie, guitar, music
+
+----
+
+Feature-image:
+
+- 2017-05-06-maddie-guitar-recital-01.jpg
+
+----
+
+Gallery: 

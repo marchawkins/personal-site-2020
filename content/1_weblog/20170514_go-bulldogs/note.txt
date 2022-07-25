@@ -1,0 +1,45 @@
+Title: Go Bulldogs
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+A John Hughes classic - Shermer High. Featured in Ferris Bueller's Day Off, The Breakfast Club, Sixteen Candles, and Weird Science - staple films of anyone living through the 80s. Another great shirt from (link: https://www.lastexittonowhere.com text: Last Exit to Nowhere).
+
+(image: 2017-05-14-last-exit-nowhere.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-05-14 00:55:00
+
+----
+
+Tags: Ferris Bueller, Breakfast Club, t-shirt, Last Exit to Nowhere, collectibles, Sixteen Candles, Weird Science
+
+----
+
+Feature-image:
+
+- 2017-05-14-last-exit-nowhere.jpeg
+
+----
+
+Gallery: 

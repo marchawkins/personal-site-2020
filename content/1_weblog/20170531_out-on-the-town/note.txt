@@ -1,0 +1,45 @@
+Title: Out on the town
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Momma all dolled up and lookin' GOOD.
+
+(image: 2017-05-31-danielle-on-the-town.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.02985865
+lon: '-75.628977638473'
+city: West Whiteland Township
+country: United States
+postcode: "19341"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-05-31 01:50:00
+
+----
+
+Tags: Danielle
+
+----
+
+Feature-image:
+
+- 2017-05-31-danielle-on-the-town.jpeg
+
+----
+
+Gallery: 

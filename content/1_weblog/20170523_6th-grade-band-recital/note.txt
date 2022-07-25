@@ -1,0 +1,47 @@
+Title: 6th Grade Band Recital
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Maddie's end of the year, 6th grade Band Recital - percussion section. 
+
+(image: 2017-05-23-band-concert-01.jpeg)
+(image: 2017-05-23-band-concert-02.jpeg)
+(image: 2017-05-23-band-concert-03.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.02985865
+lon: '-75.628977638473'
+city: West Whiteland Township
+country: United States
+postcode: "19341"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-05-23 01:25:00
+
+----
+
+Tags: Madeline, recital, band, drums, school
+
+----
+
+Feature-image:
+
+- 2017-05-23-band-concert-01.jpeg
+
+----
+
+Gallery: 

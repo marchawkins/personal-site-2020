@@ -1,0 +1,41 @@
+Title: Never Forget June 2017
+
+----
+
+Excerpt-text: 
+
+----
+
+Text: (image: 2017-06-16-never-forget.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-06-16 02:05:00
+
+----
+
+Tags: 218
+
+----
+
+Feature-image:
+
+- 2017-06-16-never-forget.jpeg
+
+----
+
+Gallery: 

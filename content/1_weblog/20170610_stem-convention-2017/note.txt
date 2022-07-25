@@ -1,0 +1,52 @@
+Title: Stem Convention 2017
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Took the kids to a STEM convention. Tons of hands-on activities. Lots of fun. Highly recommended.
+
+(image: 2017-06-10-stem-show-01.jpeg)
+(image: 2017-06-10-stem-show-02.jpeg)
+(image: 2017-06-10-stem-show-03.jpeg)
+(image: 2017-06-10-stem-show-04.jpeg)
+(image: 2017-06-10-stem-show-05.jpeg)
+(image: 2017-06-10-stem-show-06.jpeg)
+(image: 2017-06-10-stem-show-07.jpeg)
+(image: 2017-06-10-stem-show-08.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.1317722
+lon: -75.4596319
+city: Upper Providence Township
+country: United States
+postcode: "19456"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-06-10 01:55:00
+
+----
+
+Tags: Madeline, Carter, Megan, STEM, convention
+
+----
+
+Feature-image:
+
+- 2017-06-10-stem-show-01.jpeg
+
+----
+
+Gallery: 

@@ -1,0 +1,45 @@
+Title: Mother's Day 2017
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Celebrating the best moms on Mother's Day.
+
+(image: 2017-05-14-mothers-day-01.jpeg)
+(image: 2017-05-14-mothers-day-02.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0064958
+lon: -75.7032742
+city: Downingtown
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-05-14 01:00:00
+
+----
+
+Tags: Madeline, Megan, Carter, Brooks, Danielle, Grammy, Nana, family
+
+----
+
+Feature-image:
+
+- 2017-05-14-mothers-day-01.jpeg
+
+----
+
+Gallery: 

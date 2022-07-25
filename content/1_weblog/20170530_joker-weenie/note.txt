@@ -1,0 +1,45 @@
+Title: Joker Weenie
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Posted without comment.
+
+(image: 2017-05-30-joker-big-weenie.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-05-30 01:45:00
+
+----
+
+Tags: Brooks, Joker, toys
+
+----
+
+Feature-image:
+
+- 2017-05-30-joker-big-weenie.jpeg
+
+----
+
+Gallery: 

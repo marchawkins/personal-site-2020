@@ -1,0 +1,46 @@
+Title: Brooks Kicks One Back
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+I'd say he gets it from his mother, but I don't think anyone would believe it.
+
+(image: 2017-06-10-brooks-beer-01.jpeg)
+(image: 2017-06-10-brooks-beer-02.jpeg)
+
+----
+
+Mymap:
+
+lat: 39.8743762
+lon: -75.7177672
+city: East Marlborough Township
+country: United States
+postcode: "19348"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-06-10 01:55:00
+
+----
+
+Tags: Brooks, beer, parenting
+
+----
+
+Feature-image:
+
+- 2017-06-10-brooks-beer-01.jpeg
+
+----
+
+Gallery: 

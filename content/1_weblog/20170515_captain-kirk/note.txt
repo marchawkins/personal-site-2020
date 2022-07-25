@@ -1,0 +1,45 @@
+Title: Captain Kirk
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Home office pickup: Star Trek 50th Anniversary Captain Kirk by (link: https://www.mezcotoyz.com text: Mezco Toyz).
+
+(image: 2017-05-15-captain-kirk.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-05-15 01:05:00
+
+----
+
+Tags: home office, Captain Kirk, collectibles
+
+----
+
+Feature-image:
+
+- 2017-05-15-captain-kirk.jpeg
+
+----
+
+Gallery: 
