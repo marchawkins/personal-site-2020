@@ -1,0 +1,48 @@
+Title: Nana's Birthday
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Happy birthday, Nana! And no, she's not 99 yet. My kids are %$#@ heads.
+
+(image: 2017-09-16-nana-birthday-01.jpeg)
+(image: 2017-09-16-nana-birthday-02.jpeg)
+(image: 2017-09-16-nana-birthday-03.jpeg)
+(image: 2017-09-16-nana-birthday-04.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-09-16 20:50:00
+
+----
+
+Tags: Nana, birthday, Madeline, Megan, Carter, Brooks, Grandpa, family
+
+----
+
+Feature-image:
+
+- 2017-09-16-nana-birthday-04.jpeg
+
+----
+
+Gallery: 

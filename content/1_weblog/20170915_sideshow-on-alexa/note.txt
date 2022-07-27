@@ -1,0 +1,46 @@
+Title: Sideshow on Alexa
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Prototyping an Alexa skill for work at (link: https://www.sideshow.com text: Sideshow).
+
+(image: 2017-09-15-marc-alexa-01.jpeg)
+(videoself: 2017-09-15-marc-alexa-02.mp4 width:100% height:100% class:video-post poster: 2017-09-15-marc-alexa-02.jpg title:Sideshow News on Alexa caption: Sideshow News on Alexa)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-09-15 19:45:00
+
+----
+
+Tags: Alexa, Sideshow
+
+----
+
+Feature-image:
+
+- 2017-09-15-marc-alexa-01.jpeg
+
+----
+
+Gallery: 

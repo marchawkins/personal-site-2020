@@ -1,0 +1,44 @@
+Title: Skywalker Duplicates
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+So cool to see Mark Hamill, aka Luke Skywalker, stop by the (link: https://www.sideshow.com/blog/mark-hamill-meets-his-sixth-scale-self-with-the-luke-skywalker-figure-at-nycc-2017/ text: Sideshow booth) at New York Comic-Con to check out his very own (link: https://www.sideshow.com/collectibles/star-wars-luke-skywalker-deluxe-version-hot-toys-903204 text: sixth scale figure)!
+
+(image: 2017-10-05-mark-hamill-sideshow.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.7127281
+lon: -74.0060152
+city: New York
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-10-05 21:25:00
+
+----
+
+Tags: Mark Hamill, Luke Skywalker, Sideshow, collectibles, New York Comic-Con
+
+----
+
+Feature-image:
+
+- 2017-10-05-mark-hamill-sideshow.jpeg
+
+----
+
+Gallery: 

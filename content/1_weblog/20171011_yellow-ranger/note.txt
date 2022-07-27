@@ -1,0 +1,41 @@
+Title: Yellow Ranger
+
+----
+
+Excerpt-text: 
+
+----
+
+Text: (image: 2017-10-11-brooks-power-ranger.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-10-11 21:30:00
+
+----
+
+Tags: Brooks, Power Ranger
+
+----
+
+Feature-image:
+
+- 2017-10-11-brooks-power-ranger.jpeg
+
+----
+
+Gallery: 

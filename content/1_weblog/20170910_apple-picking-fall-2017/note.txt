@@ -1,0 +1,50 @@
+Title: Apple Picking Fall 2017
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Family (and friend) apple-picking trip to (link: https://highlandorchards.net text: Highland Orchards). Bring on the pies!
+
+(image: 2017-09-10-apple-picking-01.jpeg)
+(image: 2017-09-10-apple-picking-02.jpeg)
+(image: 2017-09-10-apple-picking-03.jpeg)
+(image: 2017-09-10-apple-picking-04.jpeg)
+
+----
+
+Mymap:
+
+lat: 39.960728
+lon: -75.697499
+number: "1000"
+city: West Bradford Township
+country: United States
+postcode: "19380"
+address: Marshallton Thorndale Road
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-09-10 19:40:00
+
+----
+
+Tags: Madeline, Megan, Carter, Brooks, Danielle, Tori, apples, fall
+
+----
+
+Feature-image:
+
+- 2017-09-10-apple-picking-01.jpeg
+
+----
+
+Gallery: 

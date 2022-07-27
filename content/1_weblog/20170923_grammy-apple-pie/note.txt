@@ -1,0 +1,46 @@
+Title: Grammy's Apple Pie
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Grammy and Mom spent the day making Grammy's Famous Apple Pie (x4 !).
+
+(image: 2017-09-23-grammy-danielle-apple-pie.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-09-23 21:10:00
+
+----
+
+Tags: Grammy, Danielle, apple pie, family
+
+----
+
+Feature-image:
+
+- >
+  2017-09-23-grammy-danielle-apple-pie.jpeg
+
+----
+
+Gallery: 

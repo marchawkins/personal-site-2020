@@ -1,0 +1,45 @@
+Title: Get to Work, Meg
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+It's not "Take Your Child to Work" Day, but that ain't stopping Meg (or Mom).
+
+(image: 2017-10-02-mom-megan-working.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-10-02 21:15:00
+
+----
+
+Tags: Megan, Danielle
+
+----
+
+Feature-image:
+
+- 2017-10-02-mom-megan-working.jpeg
+
+----
+
+Gallery: 

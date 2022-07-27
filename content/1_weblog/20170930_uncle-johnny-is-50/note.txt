@@ -1,0 +1,45 @@
+Title: Uncle Johnny is 50
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Happy 50th birthday, Uncle Johnny!
+
+(videoself: 2017-09-30-uncle-johnny-50th.mp4 width:100% height:100% class:video-post poster: 2017-09-30-uncle-johnny-50th.jpg title: Surprise party entrance caption: Surprise party entrance)
+
+----
+
+Mymap:
+
+lat: 40.2854881
+lon: -76.6506001
+city: Hershey
+country: United States
+postcode: "17033"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-09-30 21:10:00
+
+----
+
+Tags: Johnny, birthday
+
+----
+
+Feature-image:
+
+- 2017-09-30-uncle-johnny-50th.jpg
+
+----
+
+Gallery: 

@@ -1,0 +1,47 @@
+Title: School Photos Fall 2017
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+School photos did **not** look this good when I was a kid. Maybe it was the subject.
+
+(image: 2017-10-11b-school-maddie-7th-grade.jpeg)
+(image: 2017-10-11b-school-carter-3rd-grade.jpeg)
+(image: 2017-10-11b-school-meg-3rd-grade.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-10-11 21:40:00
+
+----
+
+Tags: Madeline, Megan, Carter, school, photos
+
+----
+
+Feature-image:
+
+- 2017-10-11b-school-maddie-7th-grade.jpeg
+
+----
+
+Gallery: 

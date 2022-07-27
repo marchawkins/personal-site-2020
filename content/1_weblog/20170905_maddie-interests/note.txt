@@ -1,0 +1,45 @@
+Title: Maddie's Interests
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Accurate.
+
+(image: 2017-09-04-maddie-interests.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-09-05 19:35:00
+
+----
+
+Tags: Madeline, school
+
+----
+
+Feature-image:
+
+- 2017-09-04-maddie-interests.jpeg
+
+----
+
+Gallery: 

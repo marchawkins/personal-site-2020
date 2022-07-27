@@ -1,0 +1,49 @@
+Title: Megan & Carter 9th Birthday
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Celebrating Carter and Megan's 9th birthday with bowling and video games at Round 1. Followed by a cake at home with family.
+
+(videoself: 2017-10-02-twins-9th-birthday-01.mp4 width:100% height:100% class:video-post poster: 2017-10-02-twins-9th-birthday-01.jpg title: Birthday twins caption: Birthday twins)
+(image: 2017-10-02-twins-9th-birthday-02.jpeg)
+(image: 2017-10-02-twins-9th-birthday-03.jpeg)
+(image: 2017-10-02-twins-9th-birthday-04.jpeg)
+(image: 2017-10-02-twins-9th-birthday-05.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.02985865
+lon: '-75.628977638473'
+city: West Whiteland Township
+country: United States
+postcode: "19341"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-10-02 21:20:00
+
+----
+
+Tags: Carter, Megan, birthday, bowling, Madeline, Danielle, family
+
+----
+
+Feature-image:
+
+- 2017-10-02-twins-9th-birthday-01.jpg
+
+----
+
+Gallery: 

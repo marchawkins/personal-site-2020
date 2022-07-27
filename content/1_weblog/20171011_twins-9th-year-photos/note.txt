@@ -1,0 +1,52 @@
+Title: Twins 9th Year Photos
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Can't believe these stinkers are NINE.
+
+(image: 2017-10-11a-carter-9th-photos-01.jpeg)
+(image: 2017-10-11a-carter-9th-photos-02.jpeg)
+(image: 2017-10-11a-carter-9th-photos-03.jpeg)
+(image: 2017-10-11a-carter-9th-photos-04.jpeg)
+(image: 2017-10-11a-megan-9th-photos-01.jpeg)
+(image: 2017-10-11a-megan-9th-photos-02.jpeg)
+(image: 2017-10-11a-megan-9th-photos-03.jpeg)
+(image: 2017-10-11a-megan-9th-photos-04.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-10-11 21:35:00
+
+----
+
+Tags: Carter, Megan, photos, birthday
+
+----
+
+Feature-image:
+
+- 2017-10-11a-megan-9th-photos-03.jpeg
+
+----
+
+Gallery: 

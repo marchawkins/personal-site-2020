@@ -1,0 +1,45 @@
+Title: Duck Face
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Love these clowns, duck face and all.
+
+(image: 2017-10-11-jen-and-andrew.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.09476245
+lon: '-75.385133356342'
+city: Upper Merion Township
+country: United States
+postcode: "19406"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-10-11 21:30:00
+
+----
+
+Tags: Jen, Andrew, family
+
+----
+
+Feature-image:
+
+- 2017-10-11-jen-and-andrew.jpeg
+
+----
+
+Gallery: 
