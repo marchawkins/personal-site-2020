@@ -1,0 +1,46 @@
+Title: Karate Proud
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Gotta say this note from Carter's karate teacher brought a tear to our eyes. Couldn't be more proud of the young man this kid is becoming. Nice job, Carter!
+
+(image: 2018-03-09-karate-note02.jpeg)
+(image: 2018-03-09-karate-note01.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-03-09 04:00:00
+
+----
+
+Tags: Carter, karate, proud
+
+----
+
+Feature-image:
+
+- 2018-03-09-karate-note02.jpeg
+
+----
+
+Gallery: 

@@ -1,0 +1,45 @@
+Title: Breakfast by Himself
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Believe it or not, Brooks made this breakfast all by himself. Three years old, ladies and gentlemen.
+
+(image: 2017-12-19-brooks-breakfast.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-12-19 16:15:00
+
+----
+
+Tags: Brooks, breakfast
+
+----
+
+Feature-image:
+
+- 2017-12-19-brooks-breakfast.jpeg
+
+----
+
+Gallery: 

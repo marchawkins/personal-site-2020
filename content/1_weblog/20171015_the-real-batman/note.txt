@@ -1,0 +1,41 @@
+Title: The Real Batman
+
+----
+
+Excerpt-text: 
+
+----
+
+Text: (image: 2017-10-15-brooks-batman.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.2854881
+lon: -76.6506001
+city: Hershey
+country: United States
+postcode: "17033"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-10-15 15:00:00
+
+----
+
+Tags: Brooks, batman, superhero
+
+----
+
+Feature-image:
+
+- 2017-10-15-brooks-batman.jpeg
+
+----
+
+Gallery: 

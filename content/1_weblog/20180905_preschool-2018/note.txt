@@ -1,0 +1,46 @@
+Title: Preschool 2018
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Brooks' first day of preschool - September 2018.
+
+(image: 2018-09-05-brooks-first-day01.jpeg)
+(image: 2018-09-05-brooks-first-day02.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-09-05 03:50:00
+
+----
+
+Tags: Brooks, preschool
+
+----
+
+Feature-image:
+
+- 2018-09-05-brooks-first-day02.jpeg
+
+----
+
+Gallery: 

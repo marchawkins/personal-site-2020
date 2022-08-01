@@ -1,0 +1,45 @@
+Title: Home for Kaiju
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Finally found a home for the Godzilla collectibles.
+
+(image: 2018-04-24-home-office-godzilla.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-04-24 04:15:00
+
+----
+
+Tags: Godzilla, Kaiju, home office, collectibles
+
+----
+
+Feature-image:
+
+- 2018-04-24-home-office-godzilla.jpeg
+
+----
+
+Gallery: 

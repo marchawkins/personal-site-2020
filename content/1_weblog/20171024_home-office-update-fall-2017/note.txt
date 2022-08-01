@@ -1,0 +1,46 @@
+Title: Home Office Update Fall 2017
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Some updates for the office this year.
+
+(image: 2017-10-24-home-office-01.jpeg)
+(image: 2017-10-24-home-office-02.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-10-24 16:35:00
+
+----
+
+Tags: office, collectibles
+
+----
+
+Feature-image:
+
+- 2017-10-24-home-office-01.jpeg
+
+----
+
+Gallery: 

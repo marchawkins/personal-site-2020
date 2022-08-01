@@ -1,0 +1,44 @@
+Title: Turkey Trot 2017
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Convinced Maddie to join me on her first (my second) (link: https://runsignup.com/Race/PA/Downingtown/ChesterCountyTurkeyTrot text: Chester County Turkey Trot). It was freezing, but we had a blast! I even let her beat me... by like 10 seconds, at least.
+
+(image: 2017-11-23-turkey-trot.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0064958
+lon: -75.7032742
+city: Downingtown
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-11-23 15:35:00
+
+----
+
+Tags: Madeline, Marc, running
+
+----
+
+Feature-image:
+
+- 2017-11-23-turkey-trot.jpeg
+
+----
+
+Gallery: 

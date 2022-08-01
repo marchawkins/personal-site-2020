@@ -1,0 +1,45 @@
+Title: Happy Earth Day!
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Meg wishes you a Happy Earth Day!
+
+(image: 2018-04-20-meg-earth-day.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-04-20 04:10:00
+
+----
+
+Tags: Megan, Earth Day, art
+
+----
+
+Feature-image:
+
+- 2018-04-20-meg-earth-day.jpeg
+
+----
+
+Gallery: 

@@ -1,0 +1,47 @@
+Title: Winter Band Concert 2017
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Maddie performed percussion in the Middle School Band Concert this past Monday. Rocked it!
+
+(image: 2017-12-11-maddie-band-concert-01.jpeg)
+(image: 2017-12-11-maddie-band-concert-02.jpeg)
+(image: 2017-12-11-maddie-band-concert-03.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-12-11 15:45:00
+
+----
+
+Tags: Madeline, band, concert, recital, drums
+
+----
+
+Feature-image:
+
+- 2017-12-11-maddie-band-concert-03.jpeg
+
+----
+
+Gallery: 

@@ -1,0 +1,50 @@
+Title: Greater Philadelphia Comic-Con 2017
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Hit up the (link: http://www.philadelphiacomiccon.com text: Greater Philadelphia Comic-Con) this weekend. Walked away with a holy grail in my home office - a vintage Planet of the Apes metal trash can from the late 60s / early 70s. Still kicking myself for not buying that King Kong poster.
+
+(image: 2017-10-15-greater-philly-comiccon-01.jpeg)
+(image: 2017-10-15-greater-philly-comiccon-02.jpeg)
+(image: 2017-10-15-greater-philly-comiccon-03.jpeg)
+(image: 2017-10-15-greater-philly-comiccon-04.jpeg)
+(image: 2017-10-15-greater-philly-comiccon-05.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.1317722
+lon: -75.4596319
+city: Upper Providence Township
+country: United States
+postcode: "19456"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2015-10-15 15:05:00
+
+----
+
+Tags: convention, comic-con, collectibles, planet of the apes, king kong, cosplay
+
+----
+
+Feature-image:
+
+- >
+  2017-10-15-greater-philly-comiccon-01.jpeg
+
+----
+
+Gallery: 

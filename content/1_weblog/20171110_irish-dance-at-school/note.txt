@@ -1,0 +1,46 @@
+Title: Irish Dance at School
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+As part of an International Day celebration at school, Meg's dance class came to school to perform Irish Dance. Stomp it, Meg!
+
+(image: 2017-11-10-irish-school-01.jpeg)
+(videoself: 2017-11-10-irish-school-02.mp4 width:100% height:100% class:video-post poster: 2017-11-10-irish-school-02.jpg title: Irish dance performance caption: Irish dance performance)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-11-10 19:20:00
+
+----
+
+Tags: Megan, dance, Irish, school
+
+----
+
+Feature-image:
+
+- 2017-11-10-irish-school-01.jpeg
+
+----
+
+Gallery: 

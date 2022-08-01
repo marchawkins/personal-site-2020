@@ -1,0 +1,45 @@
+Title: Apex Predators
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Two of a kind, these guys. Wouldn't want to meet either one in dark alley.
+
+(image: 2018-01-12-jurassic-batman.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-01-12 02:50:00
+
+----
+
+Tags: Batman, T-Rex, home office, collectibles
+
+----
+
+Feature-image:
+
+- 2018-01-12-jurassic-batman.jpeg
+
+----
+
+Gallery: 

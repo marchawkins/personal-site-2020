@@ -1,0 +1,45 @@
+Title: Ice Skating Team Photos
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Meg's team and individual photo for the Exton Edge Synchronized Skating Team.
+
+(image: 2017-12-11-megan-ice-skating-team.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.02985865
+lon: "-75.628977638473"
+city: West Whiteland Township
+country: United States
+postcode: "19341"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-12-11 15:50:00
+
+----
+
+Tags: Megan, ice skating
+
+----
+
+Feature-image:
+
+- 2017-12-11-megan-ice-skating-team.jpeg
+
+----
+
+Gallery: 

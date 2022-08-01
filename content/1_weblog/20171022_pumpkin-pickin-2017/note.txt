@@ -1,0 +1,48 @@
+Title: Pumpkin Pickin 2017
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Annual trip to (link: https://www.milkywayfarm.com text: Milky Way Farm) for pumpkins. Maddie got in a little over her head.
+
+(image: 2017-10-22-pumpkin-patch-01.jpeg)
+(image: 2017-10-22-pumpkin-patch-02.jpeg)
+(image: 2017-10-22-pumpkin-patch-03.jpeg)
+(image: 2017-10-22-pumpkin-patch-04.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-10-22 16:20:00
+
+----
+
+Tags: Madeline, Megan, Carter, Brooks, Danielle, pumpkins, fall, family
+
+----
+
+Feature-image:
+
+- 2017-10-22-pumpkin-patch-04.jpeg
+
+----
+
+Gallery: 

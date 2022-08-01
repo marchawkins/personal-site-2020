@@ -1,0 +1,57 @@
+Title: New York City 2017
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Took the kids into New York City for the weekend to check out Christmas in the Big Apple. We hit up the Lego store, Junior's, Times Square, Midtown Comics, Rockefeller Center and more. Busy couple of days!
+
+(image: 2017-11-12-nyc-trip-01.jpeg)
+(image: 2017-11-12-nyc-trip-02.jpeg)
+(image: 2017-11-12-nyc-trip-03.jpeg)
+(image: 2017-11-12-nyc-trip-04.jpeg)
+(image: 2017-11-12-nyc-trip-05.jpeg)
+(image: 2017-11-12-nyc-trip-06.jpeg)
+(image: 2017-11-12-nyc-trip-07.jpeg)
+(image: 2017-11-12-nyc-trip-08.jpeg)
+(image: 2017-11-12-nyc-trip-09.jpeg)
+(image: 2017-11-12-nyc-trip-10.jpeg)
+(image: 2017-11-12-nyc-trip-11.jpeg)
+(image: 2017-11-12-nyc-trip-12.jpeg)
+(image: 2017-11-12-nyc-trip-13.jpeg)
+(image: 2017-11-12-nyc-trip-14.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.7127281
+lon: -74.0060152
+city: New York
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-11-12 19:45:00
+
+----
+
+Tags: Madeline, Megan, Carter, Brooks, Danielle, Marc, family, Christmas, comics, collectibles, Sideshow, Lego, ice skating
+
+----
+
+Feature-image:
+
+- 2017-11-12-nyc-trip-06.jpeg
+
+----
+
+Gallery: 

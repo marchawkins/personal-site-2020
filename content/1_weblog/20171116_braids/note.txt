@@ -1,0 +1,46 @@
+Title: Braids
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+With braids, and then the curly aftermath.
+
+(image: 2017-11-16-braids-01.jpeg)
+(image: 2017-11-16-braids-02.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-11-16 15:30:00
+
+----
+
+Tags: Megan
+
+----
+
+Feature-image:
+
+- 2017-11-16-braids-01.jpeg
+
+----
+
+Gallery: 

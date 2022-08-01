@@ -1,0 +1,51 @@
+Title: Get Air Break
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Took the kids to (link: https://getairsports.com/ text: Get Air) to get them out of the house during Christmas break. They had a great time, but Brooks wasn't convinced - but he turned it around at the end.
+
+(videoself: 2017-12-27-get-air-01.mp4 width:100% height:100% class:video-post poster: 2017-12-27-get-air-01.jpg title: Getting Air caption: Getting Air)
+(image: 2017-12-27-get-air-02.jpeg)
+(image: 2017-12-27-get-air-03.jpeg)
+(videoself: 2017-12-27-get-air-04.mp4 width:100% height:100% class:video-post poster: 2017-12-27-get-air-04.jpg title: Getting Air caption: Getting Air)
+(videoself: 2017-12-27-get-air-05.mp4 width:100% height:100% class:video-post poster: 2017-12-27-get-air-05.jpg title: Getting Air caption: Getting Air)
+(videoself: 2017-12-27-get-air-06.mp4 width:100% height:100% class:video-post poster: 2017-12-27-get-air-06.jpg title: Getting Air caption: Getting Air)
+(image: 2017-12-27-get-air-07.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.09476245
+lon: '-75.385133356342'
+city: Upper Merion Township
+country: United States
+postcode: "19406"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-12-27 17:20:00
+
+----
+
+Tags: Madeline, Megan, Carter, Brooks, vacation, family, trampoline
+
+----
+
+Feature-image:
+
+- 2017-12-27-get-air-07.jpeg
+
+----
+
+Gallery: 

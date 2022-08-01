@@ -1,0 +1,45 @@
+Title: We Got a Cat
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Technically Maddie got the cat, but regardless we have another four-legged critter in the house. Never was really a cat person, but this is a damn cute kitten. Oh, and Maddie named him Michael Scott. Well played, kid.
+
+(image: 2018-10-05-maddie-new-cat.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-10-05 04:35:00
+
+----
+
+Tags: Michael Scott, Madeline, pets, cat
+
+----
+
+Feature-image:
+
+- 2018-10-05-maddie-new-cat.jpeg
+
+----
+
+Gallery: 

@@ -1,0 +1,47 @@
+Title: Meg on the Wall of Fame
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Meg's hit the big time - made it on to the wall of her ice skating class!
+
+(image: 2018-01-13-meg-exton-edge-skating-01.jpeg)
+(image: 2018-01-13-meg-exton-edge-skating-02.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-01-13 02:55:00
+
+----
+
+Tags: Megan, ice skating
+
+----
+
+Feature-image:
+
+- >
+  2018-01-13-meg-exton-edge-skating-02.jpeg
+
+----
+
+Gallery: 

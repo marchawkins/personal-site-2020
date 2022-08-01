@@ -1,0 +1,50 @@
+Title: Twins are 10!
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Happy 10th birthday to Carter and Megan! Had a party at (link: https://www.urbanair.com text: Urban Air) - with a little American Gladiator action thrown in for good measure.
+
+(image: 2018-09-29-twins-10-birthday01.jpeg)
+(image: 2018-09-29-twins-10-birthday02.jpeg)
+(videoself: 2018-09-29-twins-10-birthday03.mp4 width:100% height:100% class:video-post poster: 2018-09-29-twins-10-birthday03.jpg title: Round one - Carter vs Megan caption: Round one - Carter vs Megan)
+(videoself: 2018-09-29-twins-10-birthday05.mp4 width:100% height:100% class:video-post poster: 2018-09-29-twins-10-birthday05.jpg title: Round two - Carter vs Maddie caption: Round two - Carter vs Maddie)
+(image: 2018-09-29-twins-10-birthday04.jpeg)
+(image: 2018-09-29-twins-10-birthday06.jpeg)
+(videoself: 2018-09-29-twins-10-birthday07.mp4 width:100% height:100% class:video-post poster: 2018-09-29-twins-10-birthday07.jpg title: Happy birthday guys! caption: Happy birthday guys!)
+
+----
+
+Mymap:
+
+lat: 40.0064958
+lon: -75.7032742
+city: Downingtown
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-09-29 04:10:00
+
+----
+
+Tags: Megan, Carter, birthday, Urban Air, family, Madeline, Brooks
+
+----
+
+Feature-image:
+
+- 2018-09-29-twins-10-birthday03.jpg
+
+----
+
+Gallery: 

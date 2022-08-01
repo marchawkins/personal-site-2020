@@ -1,0 +1,50 @@
+Title: Sideshow New Office Building
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Got to tour one of Sideshow's new buildings on this work trip. Pretty sweet decor!
+
+(image: 2018-01-26-sideshow01.jpeg)
+(image: 2018-01-26-sideshow02.jpeg)
+(image: 2018-01-26-sideshow03.jpeg)
+(image: 2018-01-26-sideshow04.jpeg)
+(image: 2018-01-26-sideshow05.jpeg)
+(image: 2018-01-26-sideshow06.jpeg)
+(image: 2018-01-26-sideshow07.jpeg)
+
+----
+
+Mymap:
+
+lat: 34.1705609
+lon: -118.8375937
+city: Thousand Oaks
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-01-26 03:10:00
+
+----
+
+Tags: Sideshow, work, Marvel, Star Wars, Vampirella, Creature from the Black Lagoon, Court of the Dead
+
+----
+
+Feature-image:
+
+- 2018-01-26-sideshow02.jpeg
+
+----
+
+Gallery: 

@@ -1,0 +1,50 @@
+Title: Xmas Tree & Santa Brunch
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Kicking off December holiday festivities - tree decorating, breakfast with Santa (x2).
+
+(image: 2017-12-01-xmas-01.jpeg)
+(image: 2017-12-01-xmas-02.jpeg)
+(image: 2017-12-01-xmas-03.jpeg)
+(image: 2017-12-01-xmas-04.jpeg)
+(image: 2017-12-01-xmas-05.jpeg)
+(image: 2017-12-01-xmas-06.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-12-01 15:40:00
+
+----
+
+Tags: Madeline, Megan, Carter, Brooks, Izzy, Effie, Santa, Christmas, tree
+
+----
+
+Feature-image:
+
+- 2017-12-01-xmas-02.jpeg
+
+----
+
+Gallery: 

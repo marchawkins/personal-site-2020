@@ -1,0 +1,60 @@
+Title: Maddie and Brooks
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Took Maddie to get photos taken for her 13th birthday, and she wanted her little brother to join in the fun. Some real gems in this set!
+
+(image: 2018-02-24-maddie-brooks01.jpeg)
+(image: 2018-02-24-maddie-brooks02.jpeg)
+(image: 2018-02-24-maddie-brooks03.jpeg)
+(image: 2018-02-24-maddie-brooks04.jpeg)
+(image: 2018-02-24-maddie-brooks05.jpeg)
+(image: 2018-02-24-maddie-brooks06.jpeg)
+(image: 2018-02-24-maddie-brooks07.jpeg)
+(image: 2018-02-24-maddie-brooks08.jpeg)
+(image: 2018-02-24-maddie-brooks09.jpeg)
+(image: 2018-02-24-maddie-brooks10.jpeg)
+(image: 2018-02-24-maddie-brooks11.jpeg)
+(image: 2018-02-24-maddie-brooks12.jpeg)
+(image: 2018-02-24-maddie-brooks13.jpeg)
+(image: 2018-02-24-maddie-brooks14.jpeg)
+(image: 2018-02-24-maddie-brooks15.jpeg)
+(image: 2018-02-24-maddie-brooks16.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-02-24 03:45:00
+
+----
+
+Tags: Madeline, Brooks, photos
+
+----
+
+Feature-image:
+
+- 2018-02-24-maddie-brooks01.jpeg
+
+----
+
+Gallery: 

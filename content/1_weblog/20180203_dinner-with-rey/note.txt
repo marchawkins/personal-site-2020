@@ -1,0 +1,41 @@
+Title: Dinner with Rey
+
+----
+
+Excerpt-text: 
+
+----
+
+Text: (image: 2018-02-03-dinner-with-rey.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-02-03 03:15:00
+
+----
+
+Tags: Madeline, Star Wars, Rey
+
+----
+
+Feature-image:
+
+- 2018-02-03-dinner-with-rey.jpeg
+
+----
+
+Gallery: 

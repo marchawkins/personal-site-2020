@@ -1,0 +1,45 @@
+Title: Sisters are the WORST
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Poor guy had no idea...
+
+(image: 2017-12-12-mean-sisters.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.02985865
+lon: '-75.628977638473'
+city: West Whiteland Township
+country: United States
+postcode: "19341"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-12-12 15:50:00
+
+----
+
+Tags: Carter, family, sisters
+
+----
+
+Feature-image:
+
+- 2017-12-12-mean-sisters.jpeg
+
+----
+
+Gallery: 

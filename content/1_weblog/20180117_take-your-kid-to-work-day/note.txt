@@ -1,0 +1,45 @@
+Title: Take Your Kid to Work Day?
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Not officially, but apparently it's take your kid to work day. He turned out to be a pretty good assistant.
+
+(image: 2018-01-17-brooks-office-lunch.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-01-17 03:00:00
+
+----
+
+Tags: Brooks, Marc, home office
+
+----
+
+Feature-image:
+
+- 2018-01-17-brooks-office-lunch.jpeg
+
+----
+
+Gallery: 

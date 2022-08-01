@@ -1,0 +1,46 @@
+Title: Meg Sync Practice
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Meg practicing with her synchronized ice skating team.
+
+(videoself: 2018-02-19-meg-skating01.mp4 width:100% height:100% class:video-post poster: 2018-02-19-meg-skating01.jpg title: Meg ice skating caption: Meg ice skating)
+(videoself: 2018-02-19-meg-skating02.mp4 width:100% height:100% class:video-post poster: 2018-02-19-meg-skating02.jpg title: Meg ice skating caption: Meg ice skating)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-02-19 03:40:00
+
+----
+
+Tags: Megan, ice skating
+
+----
+
+Feature-image:
+
+- 2018-02-19-meg-skating02.jpg
+
+----
+
+Gallery: 

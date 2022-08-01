@@ -1,0 +1,45 @@
+Title: Sisters are the BEST
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Girls helped Brooks after his bath - ready for Santa!
+
+(image: 2017-12-24-brooks-hair.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-12-24 17:05:00
+
+----
+
+Tags: Brooks, sisters
+
+----
+
+Feature-image:
+
+- 2017-12-24-brooks-hair.jpeg
+
+----
+
+Gallery: 

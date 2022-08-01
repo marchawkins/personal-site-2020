@@ -1,0 +1,45 @@
+Title: Welcome Turtle
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+For some un-Godly reason, someone thought it would be a good idea to add **more** living things to this house. So, Carter now has a turtle. He affectionately named him "Cheeto". Yea.
+
+(image: 2017-10-12-welcome-turtle.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-10-12 14:50:00
+
+----
+
+Tags: Carter, turtle, pet
+
+----
+
+Feature-image:
+
+- 2017-10-12-welcome-turtle.jpeg
+
+----
+
+Gallery: 

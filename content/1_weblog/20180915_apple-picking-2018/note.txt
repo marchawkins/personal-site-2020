@@ -1,0 +1,47 @@
+Title: Apple Picking 2018
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Annual apple picking at (link: https://highlandorchards.net text: Highland Orchards).
+
+(image: 2018-09-15-apple-picking.jpeg)
+
+----
+
+Mymap:
+
+lat: 39.9641872
+lon: -75.6292093
+number: "770"
+city: East Bradford Township
+country: United States
+postcode: "19380"
+address: Miles Road
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-09-15 03:55:00
+
+----
+
+Tags: Madeline, Megan, Carter, Brooks, apples, fall, family
+
+----
+
+Feature-image:
+
+- 2018-09-15-apple-picking.jpeg
+
+----
+
+Gallery: 

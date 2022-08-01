@@ -1,0 +1,44 @@
+Title: Rain, rain, go away.
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+(image: 2017-10-29-raincoat-01.jpeg)
+(image: 2017-10-29-raincoat-02.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-10-29 16:45:00
+
+----
+
+Tags: Brooks, rain
+
+----
+
+Feature-image:
+
+- 2017-10-29-raincoat-01.jpeg
+
+----
+
+Gallery: 

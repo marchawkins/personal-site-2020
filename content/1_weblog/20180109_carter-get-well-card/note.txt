@@ -1,0 +1,45 @@
+Title: Carter's Get Well Card
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Carter's friend, Johnny, broke his arm and he wanted to send him a get well card. Had to save a record of it.
+
+(image: 2018-01-09-carter-johnny-get-well.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-01-09 02:50:00
+
+----
+
+Tags: Carter, Johnny, friends
+
+----
+
+Feature-image:
+
+- 2018-01-09-carter-johnny-get-well.jpeg
+
+----
+
+Gallery: 

@@ -1,0 +1,45 @@
+Title: Goodbye 2017
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Adios, 2017 - you were a fun one!
+
+(image: 2017-12-31-new-years-eve.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.02985865
+lon: '-75.628977638473'
+city: West Whiteland Township
+country: United States
+postcode: "19341"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-12-31 17:30:00
+
+----
+
+Tags: Marc, Danielle, Madeline, Megan, Carter, Brooks, Valerie, New Years, family
+
+----
+
+Feature-image:
+
+- 2017-12-31-new-years-eve.jpeg
+
+----
+
+Gallery: 

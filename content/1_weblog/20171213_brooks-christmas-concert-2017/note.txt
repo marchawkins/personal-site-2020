@@ -1,0 +1,49 @@
+Title: Brooks Christmas Concert 2017
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Brooks' Christmas Concert at pre-school. He was a little "deer in the headlights", but sang along and no tears!
+
+(image: 2017-12-13-brooks-concert-01.jpeg)
+(videoself: 2017-12-13-brooks-concert-02.mp4 width:100% height:100% class:video-post poster: 2017-12-13-brooks-concert-02.jpg title: Brooks Preschool Christmas Concert caption: Brooks Preschool Christmas Concert)
+(image: 2017-12-13-brooks-concert-03.jpeg)
+(videoself: 2017-12-13-brooks-concert-04.mp4 width:100% height:100% class:video-post poster: 2017-12-13-brooks-concert-04.jpg title: Brooks Preschool Christmas Concert caption: Brooks Preschool Christmas Concert)
+(videoself: 2017-12-13-brooks-concert-05.mp4 width:100% height:100% class:video-post poster: 2017-12-13-brooks-concert-05.jpg title: Brooks Preschool Christmas Concert caption: Brooks Preschool Christmas Concert)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-12-13 15:50:00
+
+----
+
+Tags: Brooks, Christmas, concert
+
+----
+
+Feature-image:
+
+- 2017-12-13-brooks-concert-01.jpeg
+
+----
+
+Gallery: 

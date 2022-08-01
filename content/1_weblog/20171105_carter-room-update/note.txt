@@ -1,0 +1,48 @@
+Title: Carter's Room Update
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+While the girls were away for the weekend, I made some upgrades to Carter's room. He was pretty pumped. And no, the room is not always green. Just tuned it to that affect for the dinosaurs in the photo.
+
+(image: 2017-11-05-carter-room-01.jpeg)
+(image: 2017-11-05-carter-room-02.jpeg)
+(image: 2017-11-05-carter-room-03.jpeg)
+(image: 2017-11-05-carter-room-04.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-11-05 16:55:00
+
+----
+
+Tags: Carter, Marc, room, collectibles, Sideshow
+
+----
+
+Feature-image:
+
+- 2017-11-05-carter-room-01.jpeg
+
+----
+
+Gallery: 

@@ -1,0 +1,45 @@
+Title: Snow Day
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+No school today!
+
+(image: 2018-03-07-snow-day.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-03-07 03:55:00
+
+----
+
+Tags: Madeline, Megan, Carter, Brooks, Valerie, Mackenzie, snow, no school
+
+----
+
+Feature-image:
+
+- 2018-03-07-snow-day.jpeg
+
+----
+
+Gallery: 

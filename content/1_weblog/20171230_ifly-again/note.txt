@@ -1,0 +1,47 @@
+Title: iFly Again
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Carter and Maddie loved iFly so much the first time, they wanted to go back. Meg sat this one out, but we did get Brooks to give it a shot. I *think* he liked it more than his photo shows. Although, he hasn't asked to go back.
+
+(image: 2017-12-30-ifly-brooks.jpeg)
+(image: 2017-12-30-ifly-carter.jpeg)
+(image: 2017-12-30-ifly-maddie.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.09476245
+lon: "-75.385133356342"
+city: Upper Merion Township
+country: United States
+postcode: "19406"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-12-30 17:25:00
+
+----
+
+Tags: Madeline, Carter, Brooks, parachute, family
+
+----
+
+Feature-image:
+
+- 2017-12-30-ifly-maddie.jpeg
+
+----
+
+Gallery: 

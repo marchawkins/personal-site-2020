@@ -1,0 +1,45 @@
+Title: Mystic Pizza
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+The girls traveled to Rhode Island for Meg's ice skating competition. Oddly, this was the only photo taken. No ice skaters in sight.
+
+(image: 2017-11-04-mystic-pizza.jpeg)
+
+----
+
+Mymap:
+
+lat: 41.3542656
+lon: -71.966462
+city: Stonington
+country: United States
+postcode: "06388"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-11-04 16:55:00
+
+----
+
+Tags: Madeline, Megan, Danielle, Grammy, ice skating
+
+----
+
+Feature-image:
+
+- 2017-11-04-mystic-pizza.jpeg
+
+----
+
+Gallery: 

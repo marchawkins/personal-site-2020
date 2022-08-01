@@ -1,0 +1,47 @@
+Title: Horseback Riding
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Meg and Tori (and Tori's parents, John and Megan) took the girls horseback riding. I think Meg's face shows what a good time she had.
+
+(image: 2018-06-09-meg-horse01.jpeg)
+(image: 2018-06-09-meg-horse02.jpeg)
+(image: 2018-06-09-meg-horse03.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-06-09 03:40:00
+
+----
+
+Tags: Megan, Tori, horses
+
+----
+
+Feature-image:
+
+- 2018-06-09-meg-horse01.jpeg
+
+----
+
+Gallery: 

@@ -1,0 +1,45 @@
+Title: Secret Santas
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+All the kids (7!) got together and did a big Secret Santa gift exchange. They (we) all had a blast!
+
+(image: 2017-12-24-secret-santa-01.jpeg)
+(image: 2017-12-24-secret-santa-02.jpeg)
+
+----
+
+Mymap:
+
+lat: 39.8467414
+lon: -75.7116997
+city: Kennett Square
+country: United States
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-12-24 17:10:00
+
+----
+
+Tags: Madeline, Megan, Carter, Brooks, Effie, Izzy, Christmas, family, Layla
+
+----
+
+Feature-image:
+
+- 2017-12-24-secret-santa-02.jpeg
+
+----
+
+Gallery: 

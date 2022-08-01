@@ -1,0 +1,49 @@
+Title: Home Office Updates Dec 2017
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Couple of new additions to the home office.
+
+(image: 2017-12-20-home-office-01.jpeg)
+(image: 2017-12-20-home-office-02.jpeg)
+(image: 2017-12-20-home-office-03.jpeg)
+(image: 2017-12-20-home-office-04.jpeg)
+(image: 2017-12-20-home-office-05.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2017-12-20 16:20:00
+
+----
+
+Tags: office, work, Sideshow, collectibles, Star Wars, Iron Man, Bigfoot
+
+----
+
+Feature-image:
+
+- 2017-12-20-home-office-01.jpeg
+
+----
+
+Gallery: 

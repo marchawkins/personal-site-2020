@@ -1,0 +1,46 @@
+Title: Cranberry Pineapple Punch
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+New favorite holiday drink, especially good when having people over.
+
+(image: 2018-01-01-cranberry-pineapple-punch.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-01-01 22:50:00
+
+----
+
+Tags: drinks, holiday
+
+----
+
+Feature-image:
+
+- >
+  2018-01-01-cranberry-pineapple-punch.jpeg
+
+----
+
+Gallery: 
