@@ -1,0 +1,47 @@
+Title: Pumpkin Pickin 2018
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Another year, another trip to (link: https://highlandorchards.net text: Highland Orchards) for pumpkin picking.
+
+(image: 2018-10-10-brooks-pumpkin.jpeg)
+
+----
+
+Mymap:
+
+lat: 39.960728
+lon: -75.697499
+number: "1000"
+city: West Bradford Township
+country: United States
+postcode: "19380"
+address: Marshallton Thorndale Road
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-10-10 02:45:00
+
+----
+
+Tags: Brooks, pumpkins, fall
+
+----
+
+Feature-image:
+
+- 2018-10-10-brooks-pumpkin.jpeg
+
+----
+
+Gallery: 

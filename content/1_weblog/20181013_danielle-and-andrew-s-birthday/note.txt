@@ -1,0 +1,46 @@
+Title: Danielle and Andrew's Birthday
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+One step closer to 40 - lucky bastards. Oh, and somehow Maddie snuck in a "1/2 birthday", whatever that is.
+
+(image: 2018-10-13-danielle-andrew-maddie-birthday.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-10-13 02:55:00
+
+----
+
+Tags: Danielle, Andrew, birthday, Madeline
+
+----
+
+Feature-image:
+
+- >
+  2018-10-13-danielle-andrew-maddie-birthday.jpeg
+
+----
+
+Gallery: 

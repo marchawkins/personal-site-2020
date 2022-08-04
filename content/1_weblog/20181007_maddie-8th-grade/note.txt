@@ -1,0 +1,45 @@
+Title: Maddie 8th Grade
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Maddie's 8th grade school photo.
+
+(image: 2018-10-07-maddie-8th-grade.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-10-07 02:45:00
+
+----
+
+Tags: Madeline, school, photo
+
+----
+
+Feature-image:
+
+- 2018-10-07-maddie-8th-grade.jpeg
+
+----
+
+Gallery: 

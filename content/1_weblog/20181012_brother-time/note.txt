@@ -1,0 +1,45 @@
+Title: Brother Time
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Always brings a smile to my face when I see something like this. Love these two.
+
+(image: 2018-10-12-brothers.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-10-12 02:50:00
+
+----
+
+Tags: Carter, Brooks, brothers, family
+
+----
+
+Feature-image:
+
+- 2018-10-12-brothers.jpeg
+
+----
+
+Gallery: 

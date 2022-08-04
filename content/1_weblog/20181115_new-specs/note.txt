@@ -1,0 +1,45 @@
+Title: New Specs
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Picked up some new glasses today (wife picked the frames, thankfully).
+
+(image: 2018-11-15-marc-new-glasses.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-11-15 03:25:00
+
+----
+
+Tags: Marc, glasses
+
+----
+
+Feature-image:
+
+- 2018-11-15-marc-new-glasses.jpeg
+
+----
+
+Gallery: 

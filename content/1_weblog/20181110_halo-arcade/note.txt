@@ -1,0 +1,46 @@
+Title: Halo Arcade
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Took the kids to Round 1 today and stumbled onto a new Halo 4-player arcade game. Pretty sweet, but at two+ bucks a play, it was a little steep. Still pretty cool, though.
+
+(image: 2018-11-10-halo-arcade01.jpeg)
+(image: 2018-11-10-halo-arcade02.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.02985865
+lon: '-75.628977638473'
+city: West Whiteland Township
+country: United States
+postcode: "19341"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-11-10 03:10:00
+
+----
+
+Tags: arcade, Halo, video games
+
+----
+
+Feature-image:
+
+- 2018-11-10-halo-arcade01.jpeg
+
+----
+
+Gallery: 

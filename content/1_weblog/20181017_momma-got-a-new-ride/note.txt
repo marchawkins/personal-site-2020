@@ -1,0 +1,45 @@
+Title: Momma's Got a New Ride
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Happy birthday, Mom - not a bad birthday present ;-)
+
+(image: 2018-10-17-danielle-atlas-birthday.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-10-17 03:00:00
+
+----
+
+Tags: Danielle, VW Atlas, car, birthday
+
+----
+
+Feature-image:
+
+- 2018-10-17-danielle-atlas-birthday.jpeg
+
+----
+
+Gallery: 
