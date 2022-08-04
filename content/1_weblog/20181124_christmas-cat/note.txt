@@ -1,0 +1,45 @@
+Title: Christmas Cat
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Looks like someone else is enjoying the tree.
+
+(image: 2018-11-24-cat-under-tree.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-11-24 03:40:00
+
+----
+
+Tags: cat, Christmas, tree, holiday
+
+----
+
+Feature-image:
+
+- 2018-11-24-cat-under-tree.jpeg
+
+----
+
+Gallery: 

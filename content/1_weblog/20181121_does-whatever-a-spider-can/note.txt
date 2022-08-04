@@ -1,0 +1,41 @@
+Title: Does Whatever a Spider Can
+
+----
+
+Excerpt-text: 
+
+----
+
+Text: (image: 2018-11-21-brooks-spider-man.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.02985865
+lon: '-75.628977638473'
+city: West Whiteland Township
+country: United States
+postcode: "19341"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-11-21 03:35:00
+
+----
+
+Tags: Spider-Man, Brooks, movie, superhero
+
+----
+
+Feature-image:
+
+- 2018-11-21-brooks-spider-man.jpeg
+
+----
+
+Gallery: 

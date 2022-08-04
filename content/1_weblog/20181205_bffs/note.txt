@@ -1,0 +1,45 @@
+Title: BFFs
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+After a little huffing and puffing and a few scraps, these two have settled down to become quite good buddies.
+
+(image: 2018-12-05-dog-cat-bff.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-12-05 03:55:00
+
+----
+
+Tags: Clark, Michael Scott, dog, cat, pets
+
+----
+
+Feature-image:
+
+- 2018-12-05-dog-cat-bff.jpeg
+
+----
+
+Gallery: 

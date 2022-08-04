@@ -1,0 +1,45 @@
+Title: Neighborhood Santa Visit
+
+----
+
+Excerpt-text: 
+
+----
+
+Text:
+
+Santa visits the neighborhood finalizing his nice and naughty lists. For these two? It could probably go either way.
+
+(image: 2018-12-08-neighborhood-santa.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-12-12 04:00:00
+
+----
+
+Tags: Megan, Tori, Santa, Christmas, holiday
+
+----
+
+Feature-image:
+
+- 2018-12-08-neighborhood-santa.jpeg
+
+----
+
+Gallery: 

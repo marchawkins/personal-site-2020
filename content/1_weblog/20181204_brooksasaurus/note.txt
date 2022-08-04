@@ -1,0 +1,41 @@
+Title: Brooksasaurus
+
+----
+
+Excerpt-text: 
+
+----
+
+Text: (image: 2018-12-04-brooks-dressup.jpeg)
+
+----
+
+Mymap:
+
+lat: 40.0951038
+lon: -75.6168681
+city: West Pikeland Township
+country: United States
+postcode: "19425"
+
+----
+
+Menu-text: 
+
+----
+
+Date: 2018-12-04 03:55:00
+
+----
+
+Tags: Brooks, dress-up, dinosaur
+
+----
+
+Feature-image:
+
+- 2018-12-04-brooks-dressup.jpeg
+
+----
+
+Gallery: 
